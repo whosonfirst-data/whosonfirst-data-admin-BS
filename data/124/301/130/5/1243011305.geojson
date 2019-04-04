@@ -1,0 +1,71 @@
+{
+  "id": 1243011305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08913,26.47465,-77.08913,26.47465",
+    "geom:latitude":26.47465,
+    "geom:longitude":-77.08913,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Spring City Settlement",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571372,
+    "gn:latitude":26.47465,
+    "gn:longitude":-77.08913,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Spring City Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Spring City Settlement"
+    ],
+    "name:eng_x_variant":[
+        "Spring City"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571372
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"b08c86f62a168f3f5ac5ddbcb645351b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1243011305,
+            "region_id":85669089
+        }
+    ],
+    "wof:id":1243011305,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Spring City Settlement",
+    "wof:parent_id":85669089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08913000000003,
+    26.47465,
+    -77.08913000000003,
+    26.47465
+],
+  "geometry": {"coordinates":[-77.08913000000003,26.47465],"type":"Point"}
+}

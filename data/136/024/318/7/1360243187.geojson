@@ -1,0 +1,61 @@
+{
+  "id": 1360243187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56667,25.01667,-77.56667,25.01667",
+    "geom:latitude":25.01667,
+    "geom:longitude":-77.56667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Clifton",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572636,
+    "gn:latitude":25.01667,
+    "gn:longitude":-77.56667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Clifton",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572636
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"3d919cd4b844e35fb8efc69b09721950",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360243187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360243187,
+    "wof:lastmodified":1536718056,
+    "wof:name":"Clifton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56667,
+    25.01667,
+    -77.56667,
+    25.01667
+],
+  "geometry": {"coordinates":[-77.56667,25.01667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243295499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.30254,25.70078,-79.30254,25.70078",
+    "geom:latitude":25.70078,
+    "geom:longitude":-79.30254,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Port Royal",
+    "gn:country_code":"BS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10626569,
+    "gn:latitude":25.70078,
+    "gn:longitude":-79.30254,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Port Royal",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10626569
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"74382e4fdf6859a7c652915fc8958e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1243295499,
+            "region_id":85669197
+        }
+    ],
+    "wof:id":1243295499,
+    "wof:lastmodified":1537022174,
+    "wof:name":"Port Royal",
+    "wof:parent_id":85669197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.30254000000002,
+    25.70078,
+    -79.30254000000002,
+    25.70078
+],
+  "geometry": {"coordinates":[-79.30254000000002,25.70078],"type":"Point"}
+}

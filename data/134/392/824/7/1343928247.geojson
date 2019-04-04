@@ -1,0 +1,65 @@
+{
+  "id": 1343928247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88333,23.01667,-74.88333,23.01667",
+    "geom:latitude":23.01667,
+    "geom:longitude":-74.88333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"McKenzie",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571888,
+    "gn:latitude":23.01667,
+    "gn:longitude":-74.88333,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"McKenzie",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571888
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"37d9723f77985cfc373b8fa458e6d5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343928247,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":1343928247,
+    "wof:lastmodified":1537063763,
+    "wof:name":"McKenzie",
+    "wof:parent_id":85669169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88333,
+    23.01667,
+    -74.88333,
+    23.01667
+],
+  "geometry": {"coordinates":[-74.88333,23.01667],"type":"Point"}
+}

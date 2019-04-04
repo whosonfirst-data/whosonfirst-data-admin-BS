@@ -1,0 +1,72 @@
+{
+  "id": 1343996381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33731,22.80353,-74.33731,22.80353",
+    "geom:latitude":22.80353,
+    "geom:longitude":-74.33731,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Landrail Point",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572099,
+    "gn:latitude":22.80353,
+    "gn:longitude":-74.33731,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Landrail Point",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitts Town",
+        "Pitts Town Point",
+        "Landrail Point Settlement",
+        "William Hope",
+        "Landrail Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572099
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7324435eef1e9a971ab60d87708f3e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343996381,
+            "region_id":85669177
+        }
+    ],
+    "wof:id":1343996381,
+    "wof:lastmodified":1537588922,
+    "wof:name":"Landrail Point",
+    "wof:parent_id":85669177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33731,
+    22.80353,
+    -74.33731,
+    22.80353
+],
+  "geometry": {"coordinates":[-74.33731,22.80353],"type":"Point"}
+}

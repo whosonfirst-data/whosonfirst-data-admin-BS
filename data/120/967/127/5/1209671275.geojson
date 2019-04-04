@@ -1,0 +1,61 @@
+{
+  "id": 1209671275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.98199,22.69135,-73.98199,22.69135",
+    "geom:latitude":22.69135,
+    "geom:longitude":-73.98199,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lovely Bay",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571990,
+    "gn:latitude":22.69135,
+    "gn:longitude":-73.98199,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Lovely Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571990
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"3581b8d3c46d8cce7c6e9d8faf6c8947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209671275
+        }
+    ],
+    "wof:id":1209671275,
+    "wof:lastmodified":1536279913,
+    "wof:name":"Lovely Bay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98199,
+    22.69135,
+    -73.98199,
+    22.69135
+],
+  "geometry": {"coordinates":[-73.98199,22.69135],"type":"Point"}
+}

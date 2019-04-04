@@ -1,0 +1,61 @@
+{
+  "id": 1209182729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41667,25.05,-77.41667,25.05",
+    "geom:latitude":25.05,
+    "geom:longitude":-77.41667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Killarney",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572106,
+    "gn:latitude":25.05,
+    "gn:longitude":-77.41667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Killarney",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572106
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8bf8647fa4f0182bb4871e82c3b0e924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209182729
+        }
+    ],
+    "wof:id":1209182729,
+    "wof:lastmodified":1536295203,
+    "wof:name":"Killarney",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41667,
+    25.05,
+    -77.41667,
+    25.05
+],
+  "geometry": {"coordinates":[-77.41667,25.05],"type":"Point"}
+}

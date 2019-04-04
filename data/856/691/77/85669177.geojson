@@ -1,0 +1,288 @@
+{
+  "id": 85669177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.030399,
+    "geom:area_square_m":346614720.307647,
+    "geom:bbox":"-74.3855688143,22.5414492865,-73.6661677727,23.1038272159",
+    "geom:latitude":22.764834,
+    "geom:longitude":-74.171321,
+    "gn:id":"",
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Crooked Island and Long Cay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":22.768375,
+    "lbl:longitude":-74.246437,
+    "mps:latitude":22.768375,
+    "mps:longitude":-74.246437,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0643\u0631\u0648\u0643\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09c1\u0995\u09c7\u09a1 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Illa de Crooked"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u9b6f\u514b\u5fb7\u5cf6"
+    ],
+    "name:dan_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:dut_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:eng_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:fin_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:fre_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e0\u10e3\u10d9\u10d4\u10d3-\u10d0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:glg_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c1\u03bf\u03c5\u03ba\u03bd\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0ac2\u0a95\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u0942\u0915\u0947\u0921 \u0906\u0907\u0932\u0948\u0902\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Crooked"
+    ],
+    "name:ita_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30c3\u30af\u30c9\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cc2\u0c95\u0cc6\u0ca1\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub8e8\ucee4\ub4dc \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Krukedailenda"
+    ],
+    "name:lit_x_preferred":[
+        "Kreivoji sala"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u0942\u0915\u0921\u0902 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:nob_x_preferred":[
+        "Crooked \u00f8y"
+    ],
+    "name:pol_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:por_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0435\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dbb\u0dd4\u0d9a\u0dca\u0da9\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Crooked"
+    ],
+    "name:swe_x_preferred":[
+        "Crooked Island"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc2\u0bb1\u0bc1\u0b95\u0bc6\u0b9f\u0bcd\u0b9f  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c41\u0c15\u0c46\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Pulong Crooked"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e38\u0e01\u0e40\u0e04\u0e14 \u0e44\u0e2d\u0e0b\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Crooked Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0435\u0434-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Crooked Island and Long Cay District"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0648\u06a9\u0688\u060c \u0628\u06c1\u0627\u0645\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Crooked"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5035",
+    "ne:adm1_code":"BHS-5035",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.CK",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5035",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF40",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.40",
+    "ne:gn_id":"8030545",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Crooked Island and Long Cay District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF40",
+    "ne:gns_id":"11057033",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Crooked Island and Long Cay District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-CK",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"22.74720000000",
+    "ne:longitude":"-74.24050000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Crooked Island and Long Cay",
+    "ne:name_alt":"",
+    "ne:name_len":27,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CK",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Crooked_Island_and_Long_Cay",
+    "ne:woe_id":24551238,
+    "ne:woe_label":"Crooked Island, BS, The Bahamas",
+    "ne:woe_name":"Crooked Island",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Crooked Island and Long Cay",
+    "qs:a1_lc":"BHS-5035",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Moss Town",
+    "statoids:country":"BS",
+    "statoids:gec":"BF40",
+    "statoids:hasc":"BS.CK",
+    "statoids:iso":"CK",
+    "statoids:name":"Crooked Island",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-CK",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF40",
+        "gn:id":8030545,
+        "gp:id":24551238,
+        "hasc:id":"BS.CK",
+        "iso:id":"BS-CK",
+        "qs:id":344897,
+        "unlc:id":"BS-CK",
+        "wd:id":"Q1140993"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"c5fd6d0b134db6478ba859492bff4461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669177
+        }
+    ],
+    "wof:id":85669177,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Crooked Island and Long Cay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"CK",
+    "wof:subdivision":"BS-CK",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.38556881434926,
+    22.54144928645547,
+    -73.66616777272452,
+    23.10382721585336
+],
+  "geometry": {"coordinates":[[[[-74.35472571491977,22.56329987229134],[-74.38556881434926,22.54144928645547],[-74.37669837113287,22.58437734603774],[-74.3476456366368,22.61294179902484],[-74.312001106266,22.63833242400221],[-74.28376217368532,22.67182038010651],[-74.28892981665769,22.64374420862839],[-74.31753495947078,22.60248444270292],[-74.35472571491977,22.56329987229134]]],[[[-74.19371497276774,22.76117584858662],[-74.19017493362622,22.76023997629392],[-74.1779679030962,22.76170481992153],[-74.17389889172046,22.76117584858662],[-74.17178300727994,22.75824616133133],[-74.16706295509124,22.7468936225427],[-74.14753170462444,22.74066803600113],[-74.11164303259983,22.73834870063206],[-74.09068762923067,22.73330312713767],[-74.09813391774605,22.7468936225427],[-74.07591712077846,22.74188873887425],[-74.01622473868071,22.72020091414095],[-74.09068762923067,22.65753815316327],[-74.09410559799494,22.66567617411619],[-74.0945938786046,22.66787344000733],[-74.10496985617391,22.67182038010651],[-74.1040746737072,22.68829987204151],[-74.12242591112687,22.68520742458304],[-74.14842688709115,22.67780182499428],[-74.22227942575483,22.69562409107897],[-74.23257402277289,22.70351797127739],[-74.24893144433065,22.72020091414095],[-74.25446529933407,22.70848216422053],[-74.2664281891096,22.69855377833426],[-74.27830970013252,22.6931826844334],[-74.28376217368532,22.69537995032448],[-74.27798417882673,22.71702708523185],[-74.27814693902997,22.72842031564511],[-74.28685462114379,22.73330312713767],[-74.35195878786772,22.82265859651704],[-74.34821529869703,22.82587311435282],[-74.34658769396685,22.82916901184046],[-74.34585527260271,22.83258698150405],[-74.34455318917827,22.83624909102281],[-74.33356686062206,22.83685944200971],[-74.31688391775856,22.84223053591057],[-74.31041419226113,22.84316640820322],[-74.29845130068696,22.8399925801935],[-74.27009029862836,22.82265859651704],[-74.2600805330901,22.82021718987147],[-74.23835201673216,22.81842682493806],[-74.22850501229647,22.81582265808925],[-74.20055091119553,22.79466380469086],[-74.19749915266374,22.78611888188095],[-74.19635983034186,22.76850006762407],[-74.19371497276774,22.76117584858662]]],[[[-73.81696529930906,23.10382721585336],[-73.74185136614761,23.09699127832488],[-73.68569902319132,23.10248444260299],[-73.66616777272452,23.09699127832488],[-73.66616777272452,23.08954498891018],[-73.75523841062409,23.07298411732319],[-73.79735266829096,23.07379791923864],[-73.81696529930906,23.10382721585336]]]],"type":"MultiPolygon"}
+}

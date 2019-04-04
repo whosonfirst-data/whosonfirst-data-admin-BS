@@ -1,0 +1,101 @@
+{
+  "id": 421198405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.96077,26.54339,-76.96077,26.54339",
+    "geom:latitude":26.54339,
+    "geom:longitude":-76.96077,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0647\u0648\u067e"
+    ],
+    "name:fin_x_preferred":[
+        "Hope Town"
+    ],
+    "name:fra_x_preferred":[
+        "Hope Town"
+    ],
+    "name:ita_x_preferred":[
+        "Hope Town"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ud504\ud0c0\uc6b4"
+    ],
+    "name:por_x_preferred":[
+        "Hope Town"
+    ],
+    "name:spa_x_preferred":[
+        "Hope Town"
+    ],
+    "name:tgl_x_preferred":[
+        "Hope Town"
+    ],
+    "name:unk_x_variant":[
+        "Hope Town Settlement"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3572165,
+    "qs:gn_pop":0,
+    "qs:name":"Hope Town",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Hope Town",
+    "qs:photos":2101,
+    "qs:photos_1k":426,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2101,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":423345,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56963,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572165,
+        "gp:id":56963,
+        "qs:id":423345,
+        "wd:id":"Q2699709",
+        "wk:page":"Hope Town"
+    },
+    "wof:country":"BS",
+    "wof:created":1459009947,
+    "wof:geomhash":"f42720835c1a78ec79f3383f03416d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421198405,
+            "region_id":85669199
+        }
+    ],
+    "wof:id":421198405,
+    "wof:lastmodified":1501267679,
+    "wof:name":"Hope Town",
+    "wof:parent_id":85669199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96077,
+    26.54339,
+    -76.96077,
+    26.54339
+],
+  "geometry": {"coordinates":[-76.96077,26.54339],"type":"Point"}
+}

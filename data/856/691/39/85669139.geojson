@@ -1,0 +1,315 @@
+{
+  "id": 85669139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000307,
+    "geom:area_square_m":3424977.23826,
+    "geom:bbox":"-76.7874242485,25.5395506623,-76.7458947669,25.5513042889",
+    "geom:latitude":25.544885,
+    "geom:longitude":-76.766142,
+    "gn:population":1751,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Harbour Island District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":25.545623,
+    "lbl:longitude":-76.766537,
+    "mps:latitude":25.545623,
+    "mps:longitude":-76.766537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0647\u0627\u0631\u0628\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09b0\u09ac\u09be\u09b0 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Harbour"
+    ],
+    "name:ceb_x_preferred":[
+        "Harbour Island District"
+    ],
+    "name:chi_x_preferred":[
+        "\u54c8\u52c3\u5c9b"
+    ],
+    "name:dan_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:dut_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:eng_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:eng_x_variant":[
+        "Harbour Island District"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u0631\u0628\u0648\u0631\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:fra_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:fre_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d1\u10dd\u10e0-\u10d0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Harbour"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u03a7\u03ac\u03c1\u03bc\u03c0\u03bf\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0abe\u0ab0\u0acd\u0aac\u0ab0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u0930\u094d\u092c\u0930 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Harbour"
+    ],
+    "name:ita_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30d0\u30fc\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e0\u10d1\u10dd\u10e0-\u10d0\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ubc84 \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "H\u0101borailenda"
+    ],
+    "name:lit_x_preferred":[
+        "Harboro sala"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u093e\u0930\u094d\u092c\u0930 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:nld_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:nob_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u0631\u0628\u0648\u0631\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:por_x_preferred":[
+        "Harbour Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0431\u043e\u0440-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dcf\u0dbb\u0dca\u0db6\u0dbb\u0dca \u0daf\u0dd4\u0db4\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Harbour"
+    ],
+    "name:swe_x_preferred":[
+        "Harbour Island District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0baf\u0bc2\u0bb0\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d \u0c26\u0c40\u0c35\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Pulong Harbour"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c \u0e44\u0e2d\u0e2a\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Harbour Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0431\u043e\u0440-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0627\u0631\u0628\u0648\u0648\u0631 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Harbour"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u52c3\u5c9b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5026",
+    "ne:adm1_code":"BHS-5026",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.HI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5026",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF22",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.22",
+    "ne:gn_id":"3572238",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Harbour Island District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF22",
+    "ne:gns_id":"-1543417",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Harbour Island District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-HI",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"25.54430000000",
+    "ne:longitude":"-76.76410000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Harbour Island",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HI",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Harbour_Island_(Bahamas)",
+    "ne:woe_id":2344776,
+    "ne:woe_label":"",
+    "ne:woe_name":"Harbour Island",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Harbour Island",
+    "qs:a1_lc":"BHS-5026",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Harbour Island",
+    "statoids:country":"BS",
+    "statoids:gec":"BF22",
+    "statoids:hasc":"BS.HB",
+    "statoids:iso":"HI",
+    "statoids:name":"Harbour Island",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-HI",
+    "wd:wordcount":415,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "dbp:id":"Harbour_Island%2C_Bahamas",
+        "fb:id":"en.harbour_island",
+        "fips:code":"BF22",
+        "gn:id":3572238,
+        "gp:id":2344776,
+        "hasc:id":"BS.HB",
+        "iso:id":"BS-HI",
+        "nyt:id":"604318609107491951",
+        "qs:id":1310774,
+        "unlc:id":"BS-HI",
+        "wd:id":"Q2357510",
+        "wk:page":"Harbour Island, Bahamas"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7826e7b66da4042c17f0e0d2624e0710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669139
+        }
+    ],
+    "wof:id":85669139,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Harbour Island",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":1751,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"HB",
+    "wof:subdivision":"BS-HI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78742424853021,
+    25.53955066233323,
+    -76.7458947669299,
+    25.5513042888619
+],
+  "geometry": {"coordinates":[[[-76.77018559568864,25.5513042888619],[-76.75843196916003,25.54895356355615],[-76.74589476692989,25.54503568774686],[-76.74981264273924,25.53955066233323],[-76.76078269446572,25.54033423713537],[-76.78742424853021,25.54190138763897],[-76.78115564741518,25.54816998785469],[-76.77018559568864,25.5513042888619]]],"type":"Polygon"}
+}

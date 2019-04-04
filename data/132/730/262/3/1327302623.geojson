@@ -1,0 +1,70 @@
+{
+  "id": 1327302623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48333,25.06667,-77.48333,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":-77.48333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tusculum",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571282,
+    "gn:latitude":25.06667,
+    "gn:longitude":-77.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tusculum",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tasculum",
+        "Tusculum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571282
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"c90d8cb0e7f07b0c73be9bd7045dc2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327302623,
+            "region_id":85669063
+        }
+    ],
+    "wof:id":1327302623,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Tusculum",
+    "wof:parent_id":85669063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48333000000002,
+    25.06667,
+    -77.48333000000002,
+    25.06667
+],
+  "geometry": {"coordinates":[-77.48333000000002,25.06667],"type":"Point"}
+}

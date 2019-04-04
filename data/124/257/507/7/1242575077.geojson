@@ -1,0 +1,65 @@
+{
+  "id": 1242575077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63333,24.53333,-75.63333,24.53333",
+    "geom:latitude":24.53333,
+    "geom:longitude":-75.63333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Thurston Hill",
+    "gn:country_code":"BS",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571304,
+    "gn:latitude":24.53333,
+    "gn:longitude":-75.63333,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Thurston Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571304
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"d0f59cd1ea543e4f748dcccc272cc479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1242575077,
+            "region_id":85669159
+        }
+    ],
+    "wof:id":1242575077,
+    "wof:lastmodified":1537064471,
+    "wof:name":"Thurston Hill",
+    "wof:parent_id":85669159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63333,
+    24.53333,
+    -75.63333,
+    24.53333
+],
+  "geometry": {"coordinates":[-75.63333,24.53333],"type":"Point"}
+}

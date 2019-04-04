@@ -1,0 +1,72 @@
+{
+  "id": 1360290293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.2861,25.7437,-79.2861,25.7437",
+    "geom:latitude":25.7437,
+    "geom:longitude":-79.2861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bailey Town",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572884,
+    "gn:latitude":25.7437,
+    "gn:longitude":-79.2861,
+    "gn:modification_date":"2015-08-11",
+    "gn:name":"Bailey Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayley\u2019s Town",
+        "Bayley Town",
+        "Bailey\u2019s Town",
+        "Bailey Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572884
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7feb890cce360b1392d8d93df4dcf3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1360290293,
+            "region_id":85669197
+        }
+    ],
+    "wof:id":1360290293,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Bailey Town",
+    "wof:parent_id":85669197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.2861,
+    25.7437,
+    -79.2861,
+    25.7437
+],
+  "geometry": {"coordinates":[-79.2861,25.7437],"type":"Point"}
+}

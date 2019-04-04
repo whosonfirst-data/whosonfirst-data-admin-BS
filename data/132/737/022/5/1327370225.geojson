@@ -1,0 +1,65 @@
+{
+  "id": 1327370225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.71667,25.46667,-76.71667,25.46667",
+    "geom:latitude":25.46667,
+    "geom:longitude":-76.71667,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Lower Bogue",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571985,
+    "gn:latitude":25.46667,
+    "gn:longitude":-76.71667,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Lower Bogue",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571985
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"68f3aff619a514e07f54dd62673fc2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327370225,
+            "region_id":85669145
+        }
+    ],
+    "wof:id":1327370225,
+    "wof:lastmodified":1536771058,
+    "wof:name":"Lower Bogue",
+    "wof:parent_id":85669145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.71667,
+    25.46667,
+    -76.71667,
+    25.46667
+],
+  "geometry": {"coordinates":[-76.71666999999999,25.46667],"type":"Point"}
+}

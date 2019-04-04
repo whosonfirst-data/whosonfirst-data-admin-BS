@@ -1,0 +1,103 @@
+{
+  "id": 890440077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66667,20.95,-73.66667,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":-73.66667,
+    "gn:country":"BS",
+    "gn:fcode":"PPL",
+    "gn:pop":452,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:dut_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:eng_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:fre_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b7\u30e5\u30fc\u30fb\u30bf\u30a6\u30f3"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062a\u06cc\u0648 \u062a\u0627\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:rum_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044d\u0442\u044c\u044e-\u0422\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:unk_x_variant":[
+        "Mathew Town"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a\u06be\u06cc\u0648 \u0679\u0627\u0624\u0646"
+    ],
+    "qs:name":"Matthew Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571898,
+        "gp:id":56998,
+        "qs:id":148967,
+        "wd:id":"Q1771829",
+        "wk:page":"Matthew Town"
+    },
+    "wof:country":"BS",
+    "wof:created":1469052261,
+    "wof:geomhash":"b1e55f264f646160a42a734d56bfd7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":890440077,
+            "region_id":85669189
+        }
+    ],
+    "wof:id":890440077,
+    "wof:lastmodified":1527727102,
+    "wof:name":"Matthew Town",
+    "wof:parent_id":85669189,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66667,
+    20.95,
+    -73.66667,
+    20.95
+],
+  "geometry": {"coordinates":[-73.66667,20.95],"type":"Point"}
+}

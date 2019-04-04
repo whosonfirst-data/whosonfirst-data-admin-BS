@@ -1,0 +1,201 @@
+{
+  "id": 421173019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0636,26.54124,-77.0636,26.54124",
+    "geom:latitude":26.54124,
+    "geom:longitude":-77.0636,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0634 \u0647\u0627\u0631\u0628\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cd\u09b6 \u09b9\u09be\u09b0\u09ac\u09be\u09b0"
+    ],
+    "name:cze_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:dan_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:dut_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:eng_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:fin_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:fra_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:fre_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:ger_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03c1\u03c2 \u03a7\u03ac\u03c1\u03bc\u03c0\u03bf\u03c1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0acd\u0ab6 \u0ab9\u0abe\u0ab0\u0acd\u0aac\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05e9 \u05d4\u05d0\u05e8\u05d1\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0936 \u0939\u093e\u0930\u094d\u092c\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:ita_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30fc\u30b7\u30e5\u30fb\u30cf\u30fc\u30d0\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0cb6\u0ccd \u0cb9\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc2dc\ud558\ubc84"
+    ],
+    "name:lav_x_preferred":[
+        "Mar\u0161harbora"
+    ],
+    "name:lit_x_preferred":[
+        "Mar\u0161 Harboras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0936 \u0939\u093e\u0930\u094d\u092c\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:nno_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:nob_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:oci_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0631\u0634 \u0647\u0627\u0631\u0628\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:por_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:rum_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0448-\u0425\u0430\u0440\u0431\u043e\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0dbb\u0dca\u0dc2\u0dca \u0dc0\u0dbb\u0dcf\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:swe_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bcd  \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c30\u0c4d\u0c37\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e3a\u0e0a \u0e2e\u0e32\u0e40\u0e1a\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0448-\u0425\u0430\u0440\u0431\u043e\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0634 \u06c1\u0627\u0631\u0628\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3571913,
+    "qs:gn_pop":5314,
+    "qs:name":"Marsh Harbour",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Central Abaco",
+    "qs:photos":439,
+    "qs:photos_1k":89,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":439,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":488958,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56994,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":26.4,
+    "wd:longitude":-77.17,
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571913,
+        "gp:id":56994,
+        "qs:id":488958,
+        "wd:id":"Q1337651",
+        "wk:page":"Marsh Harbour"
+    },
+    "wof:country":"BS",
+    "wof:created":1459008962,
+    "wof:geomhash":"3207f89ca36b418c99c27b9ead9aeaa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421173019
+        }
+    ],
+    "wof:id":421173019,
+    "wof:lastmodified":1527716260,
+    "wof:name":"Marsh Harbour",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5314,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0636,
+    26.54124,
+    -77.0636,
+    26.54124
+],
+  "geometry": {"coordinates":[-77.06359999999999,26.54124],"type":"Point"}
+}

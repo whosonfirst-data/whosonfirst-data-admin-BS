@@ -1,0 +1,67 @@
+{
+  "id": 1259819675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.10782,26.6666,-77.10782,26.6666",
+    "geom:latitude":26.6666,
+    "geom:longitude":-77.10782,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Great Guana Cay",
+    "gn:country_code":"BS",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572293,
+    "gn:latitude":26.6666,
+    "gn:longitude":-77.10782,
+    "gn:modification_date":"2018-06-01",
+    "gn:name":"Great Guana Cay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guano Cay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572293
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"d66df803c4a5e454bb8611a082ce8076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259819675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259819675,
+    "wof:lastmodified":1537588923,
+    "wof:name":"Great Guana Cay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.10781999999998,
+    26.6666,
+    -77.10781999999998,
+    26.6666
+],
+  "geometry": {"coordinates":[-77.10781999999998,26.6666],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209546975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.5,26.75,-78.5,26.75",
+    "geom:latitude":26.75,
+    "geom:longitude":-78.5,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Water Cay",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571246,
+    "gn:latitude":26.75,
+    "gn:longitude":-78.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Water Cay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Water Cay Settlement",
+        "Water Cay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571246
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"08214331bdb6a9f4e2bffa7153cec3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209546975
+        }
+    ],
+    "wof:id":1209546975,
+    "wof:lastmodified":1537588918,
+    "wof:name":"Water Cay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.5,
+    26.75,
+    -78.5,
+    26.75
+],
+  "geometry": {"coordinates":[-78.5,26.75],"type":"Point"}
+}

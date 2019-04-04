@@ -1,0 +1,67 @@
+{
+  "id": 890442607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88333,26.6,-77.88333,26.6",
+    "geom:latitude":26.6,
+    "geom:longitude":-77.88333,
+    "gn:country":"BS",
+    "gn:fcode":"PPL",
+    "gn:pop":483,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sweeting\u2019s Cay Settlement"
+    ],
+    "qs:name":"Sweeting Cay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571338,
+        "gp:id":57002,
+        "qs:id":583458
+    },
+    "wof:country":"BS",
+    "wof:created":1469052369,
+    "wof:geomhash":"b68143d9c956f193a01017c98111366e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":890442607,
+            "region_id":85669075
+        }
+    ],
+    "wof:id":890442607,
+    "wof:lastmodified":1505343589,
+    "wof:name":"Sweeting Cay",
+    "wof:parent_id":85669075,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88333,
+    26.6,
+    -77.88333,
+    26.6
+],
+  "geometry": {"coordinates":[-77.88333,26.6],"type":"Point"}
+}

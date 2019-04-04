@@ -1,0 +1,71 @@
+{
+  "id": 1226600625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.99215,22.42006,-73.99215,22.42006",
+    "geom:latitude":22.42006,
+    "geom:longitude":-73.99215,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Delectable Point",
+    "gn:country_code":"BS",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572507,
+    "gn:latitude":22.42006,
+    "gn:longitude":-73.99215,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Delectable Point",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delectable Bay Settlement",
+        "Delectable",
+        "Delectable Bay",
+        "Delectable Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572507
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"a01b5cbb692e07221b348c937668ad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1226600625,
+            "region_id":85669181
+        }
+    ],
+    "wof:id":1226600625,
+    "wof:lastmodified":1537588924,
+    "wof:name":"Delectable Point",
+    "wof:parent_id":85669181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99215,
+    22.42006,
+    -73.99215,
+    22.42006
+],
+  "geometry": {"coordinates":[-73.99215,22.42006],"type":"Point"}
+}

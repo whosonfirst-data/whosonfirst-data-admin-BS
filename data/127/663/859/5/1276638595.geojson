@@ -1,0 +1,70 @@
+{
+  "id": 1276638595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28682,23.61126,-75.28682,23.61126",
+    "geom:latitude":23.61126,
+    "geom:longitude":-75.28682,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Burnt Ground",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572713,
+    "gn:latitude":23.61126,
+    "gn:longitude":-75.28682,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Burnt Ground",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burnt Ground Settlement",
+        "Burnt Ground"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572713
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8cd787a0b5854625761e735df6aae28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1276638595,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":1276638595,
+    "wof:lastmodified":1537588925,
+    "wof:name":"Burnt Ground",
+    "wof:parent_id":85669169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28681999999998,
+    23.61126,
+    -75.28681999999998,
+    23.61126
+],
+  "geometry": {"coordinates":[-75.28681999999998,23.61126],"type":"Point"}
+}

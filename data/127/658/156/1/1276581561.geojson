@@ -1,0 +1,61 @@
+{
+  "id": 1276581561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98333,25.11667,-77.98333,25.11667",
+    "geom:latitude":25.11667,
+    "geom:longitude":-77.98333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Millers Hill",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571867,
+    "gn:latitude":25.11667,
+    "gn:longitude":-77.98333,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Millers Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571867
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"c3bf154190c2516c70381592324eb684",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276581561,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276581561,
+    "wof:lastmodified":1536944288,
+    "wof:name":"Millers Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98333000000002,
+    25.11667000000001,
+    -77.98333000000002,
+    25.11667000000001
+],
+  "geometry": {"coordinates":[-77.98333000000002,25.11667000000001],"type":"Point"}
+}

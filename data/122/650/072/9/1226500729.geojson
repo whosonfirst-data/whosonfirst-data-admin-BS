@@ -1,0 +1,61 @@
+{
+  "id": 1226500729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5,25.06667,-77.5,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":-77.5,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gambier Village",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572355,
+    "gn:latitude":25.06667,
+    "gn:longitude":-77.5,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Gambier Village",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572355
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"a28e7c9efc43a7459df7808bbd14e463",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226500729,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226500729,
+    "wof:lastmodified":1537060406,
+    "wof:name":"Gambier Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5,
+    25.06667,
+    -77.5,
+    25.06667
+],
+  "geometry": {"coordinates":[-77.5,25.06667],"type":"Point"}
+}

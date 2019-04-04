@@ -1,0 +1,289 @@
+{
+  "id": 85669199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00038,
+    "geom:area_square_m":4203118.234764,
+    "geom:bbox":"-76.985300259,26.4999453799,-76.9598282535,26.5544294292",
+    "geom:latitude":26.52806,
+    "geom:longitude":-76.970455,
+    "gn:id":"",
+    "gn:population":500,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Hope Town District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":26.529012,
+    "lbl:longitude":-76.969587,
+    "mps:latitude":26.529012,
+    "mps:longitude":-76.969587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0628 \u062a\u0627\u0648\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb\u09aa \u099f\u09be\u0989\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Hope Town"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e0c\u671b\u93ae"
+    ],
+    "name:dan_x_preferred":[
+        "Hope Town"
+    ],
+    "name:dut_x_preferred":[
+        "Hope Town"
+    ],
+    "name:eng_x_preferred":[
+        "Hope Town"
+    ],
+    "name:fin_x_preferred":[
+        "Hope Town"
+    ],
+    "name:fre_x_preferred":[
+        "Hope Town"
+    ],
+    "name:ger_x_preferred":[
+        "Hopetown"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03cc\u03bf\u03c5\u03c0 \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0acb\u0aaa \u0a9f\u0abe\u0a89\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b\u092a \u091f\u093e\u0909\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Hope Town"
+    ],
+    "name:ita_x_preferred":[
+        "Hope Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30d7\u30fb\u30bf\u30a6\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0ccb\u0caa\u0ccd \u0c9f\u0ccc\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ud504\ud0c0\uc6b4"
+    ],
+    "name:lav_x_preferred":[
+        "Hoptauna"
+    ],
+    "name:lit_x_preferred":[
+        "Houp Taunas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u094b\u092a \u091f\u093e\u0909\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Hope Town"
+    ],
+    "name:nob_x_preferred":[
+        "Hope Town"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0647\u0648\u067e"
+    ],
+    "name:pol_x_preferred":[
+        "Hope Town"
+    ],
+    "name:por_x_preferred":[
+        "Hope Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0443\u043f-\u0422\u0430\u0443\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0ddd\u0db4\u0dca \u0da7\u0dc0\u0dd4\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Hope Town"
+    ],
+    "name:swe_x_preferred":[
+        "Hope Town"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bcb\u0baa\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c4b\u0c2a\u0c4d \u0c1f\u0c4c\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Hope Town"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2e\u0e1e \u0e17\u0e32\u0e23\u0e4c\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Hope Town"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0443\u043f-\u0422\u0430\u0443\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Hope Town District"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u067e \u0679\u0627\u0624\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Hope Town"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5040",
+    "ne:adm1_code":"BHS-5040",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.HT",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5040",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF43",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.43",
+    "ne:gn_id":"8030548",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Hope Town District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF43",
+    "ne:gns_id":"11057036",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Hope Town District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-HT",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"26.53210000000",
+    "ne:longitude":"-76.96640000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Hope Town",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HT",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Hope_Town",
+    "ne:woe_id":24551240,
+    "ne:woe_label":"Hope Town, BS, The Bahamas",
+    "ne:woe_name":"Hope Town",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Hope Town",
+    "qs:a1_lc":"BHS-5040",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Marsh Harbour",
+    "statoids:country":"BS",
+    "statoids:gec":"BF43",
+    "statoids:hasc":"BS.HT",
+    "statoids:iso":"HT",
+    "statoids:name":"Hope Town",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-HT",
+    "wd:wordcount":606,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039a187a-8f76-11e1-848f-cfd5bf3ef515",
+        "fips:code":"BF43",
+        "gn:id":8030548,
+        "gp:id":24551240,
+        "hasc:id":"BS.HT",
+        "iso:id":"BS-HT",
+        "qs:id":344898,
+        "unlc:id":"BS-HT",
+        "wd:id":"Q2699709"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"b4595a03e807d80565261a5c44e1d52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669199
+        }
+    ],
+    "wof:id":85669199,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Hope Town",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"HT",
+    "wof:subdivision":"BS-HT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9853002589997,
+    26.49994537987544,
+    -76.95982825347107,
+    26.55442942917489
+],
+  "geometry": {"coordinates":[[[-76.96336829261259,26.55369700691136],[-76.96226966101602,26.55442942917489],[-76.95982825347107,26.54559967758308],[-76.96084550721434,26.53424713699582],[-76.98277747270214,26.49994537987544],[-76.9853002589997,26.50222402631783],[-76.98521887934777,26.50588613493721],[-76.98294023290538,26.51097239825765],[-76.98053951698506,26.51418691609337],[-76.97838294181929,26.51268138263976],[-76.97704016766954,26.51243724188527],[-76.97736568897534,26.51650625236169],[-76.97520911380951,26.52716705961217],[-76.96336829261259,26.55369700691136]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209297277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1131,23.17919,-75.1131,23.17919",
+    "geom:latitude":23.17919,
+    "geom:longitude":-75.1131,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Deadman's Cay",
+    "gn:country_code":"BS",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572523,
+    "gn:latitude":23.17919,
+    "gn:longitude":-75.1131,
+    "gn:modification_date":"2014-01-19",
+    "gn:name":"Deadman's Cay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Deadman's Cay Settlement"
+    ],
+    "name:eng_x_variant":[
+        "Deadman's Cay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572523
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2cbf110df0882d1113b09c9d07247fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209297277
+        }
+    ],
+    "wof:id":1209297277,
+    "wof:lastmodified":1537588924,
+    "wof:name":"Deadman's Cay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1131,
+    23.17919,
+    -75.1131,
+    23.17919
+],
+  "geometry": {"coordinates":[-75.1131,23.17919],"type":"Point"}
+}

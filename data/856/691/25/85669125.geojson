@@ -1,0 +1,290 @@
+{
+  "id": 85669125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004927,
+    "geom:area_square_m":55576017.647343,
+    "geom:bbox":"-76.795074023,23.9740257832,-76.3189591138,24.552964585",
+    "geom:latitude":24.170806,
+    "geom:longitude":-76.459776,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Black Point District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":24.051584,
+    "lbl:longitude":-76.365396,
+    "mps:latitude":24.051584,
+    "mps:longitude":-76.365396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627\u0643 \u0628\u0648\u064a\u0646\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b2\u09cd\u09af\u09be\u0995 \u09aa\u09af\u09bc\u09c7\u09a8\u09cd\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Black Point"
+    ],
+    "name:ceb_x_preferred":[
+        "Black Point"
+    ],
+    "name:dan_x_preferred":[
+        "Black Point"
+    ],
+    "name:deu_x_preferred":[
+        "Black Point"
+    ],
+    "name:dut_x_preferred":[
+        "Black Point"
+    ],
+    "name:eng_x_preferred":[
+        "Black Point"
+    ],
+    "name:fin_x_preferred":[
+        "Black Point"
+    ],
+    "name:fre_x_preferred":[
+        "Black Point"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10da\u10d4\u10d9-\u10de\u10dd\u10d8\u10dc\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Black Point"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bb\u03b1\u03ba \u03a0\u03cc\u03b9\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab2\u0ac7\u0a95 \u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0932\u0948\u0915 \u092a\u0949\u0907\u0902\u091f"
+    ],
+    "name:ind_x_preferred":[
+        "Black Point"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Black Point"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30c3\u30af\u30fb\u30dd\u30a4\u30f3\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0caa\u0ccd\u0caa\u0cc1 \u0caa\u0cbe\u0caf\u0cbf\u0c82\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub799\ud3ec\uc778\ud2b8"
+    ],
+    "name:lav_x_preferred":[
+        "Blekpointa"
+    ],
+    "name:lit_x_preferred":[
+        "Blek Pointas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0932\u0945\u0915 \u092a\u0949\u0907\u0902\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Black Point"
+    ],
+    "name:nob_x_preferred":[
+        "Black Point"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u06a9 \u067e\u0648\u06cc\u0646\u062a\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Black Point"
+    ],
+    "name:por_x_preferred":[
+        "Black Point"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u044d\u043a-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbd\u0dd0\u0d9a\u0dca \u0db4\u0ddc\u0dba\u0dd2\u0db1\u0dca\u0da7\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Black Point"
+    ],
+    "name:swe_x_preferred":[
+        "Black Point"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd \u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c32\u0c3e\u0c15\u0c4d \u0c2a\u0c3e\u0c2f\u0c3f\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Black Point"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1a\u0e25\u0e47\u0e04 \u0e1e\u0e2d\u0e22\u0e17\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Black Point"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0435\u043a-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Black Point District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06cc\u06a9 \u067e\u0648\u0627\u0626\u0646\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Black Point"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5023",
+    "ne:adm1_code":"BHS-5023",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.BP",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5023",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF36",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.36",
+    "ne:gn_id":"8030541",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Black Point District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF36",
+    "ne:gns_id":"11057029",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Black Point District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-BP",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"24.07200000000",
+    "ne:longitude":"-76.36230000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Black Point",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BP",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Black_Point_(Bahamas)",
+    "ne:woe_id":24551258,
+    "ne:woe_label":"",
+    "ne:woe_name":"Black Point",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Black Point",
+    "qs:a1_lc":"BHS-5023",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Black Point",
+    "statoids:country":"BS",
+    "statoids:gec":"BF36",
+    "statoids:hasc":"BS.BP",
+    "statoids:iso":"BP",
+    "statoids:name":"Black Point",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-BP",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF36",
+        "gn:id":8030541,
+        "gp:id":24551258,
+        "hasc:id":"BS.BP",
+        "iso:id":"BS-BP",
+        "qs:id":59888,
+        "unlc:id":"BS-BP",
+        "wd:id":"Q2525298"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8db6412b875477501fbe459e0ba8ec8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669125
+        }
+    ],
+    "wof:id":85669125,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550317,
+    "wof:name":"Black Point",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"BP",
+    "wof:subdivision":"BS-BP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79507402304768,
+    23.97402578316343,
+    -76.31895911377205,
+    24.55296458504762
+],
+  "geometry": {"coordinates":[[[[-76.31895911377205,23.98021067897969],[-76.32518470031363,23.97402578316343],[-76.34019934772169,23.98818594062868],[-76.35863196479329,24.02366770989693],[-76.37498938725037,24.04657623930206],[-76.38727779923101,24.07640208498827],[-76.39761308517569,24.09251536759018],[-76.40147864472362,24.10293203318685],[-76.40147864472362,24.11737702033327],[-76.37677975218378,24.10138580900792],[-76.31895911377205,23.98021067897969]]],[[[-76.47166907476793,24.2276065125306],[-76.46300208158078,24.21360911706716],[-76.48180091068343,24.21377187727035],[-76.49315344947206,24.21881744986547],[-76.53526770713893,24.26837799694704],[-76.54458574113903,24.28302643412269],[-76.54491126154545,24.29555898595851],[-76.52953040300565,24.28742096590491],[-76.52041581903478,24.2749697946204],[-76.51341712130306,24.26089101860566],[-76.50389563727379,24.2477481139843],[-76.49205481697618,24.23920319207372],[-76.48131262917445,24.23432038058115],[-76.47166907476793,24.2276065125306]]],[[[-76.77257239460027,24.51911041961023],[-76.77892005061977,24.51434967759559],[-76.78929602818909,24.51850006682469],[-76.79507402304768,24.53143952051749],[-76.79238847564761,24.549139716225],[-76.78465735565243,24.55296458504762],[-76.77749589771747,24.54385000197607],[-76.77432206880837,24.53864166917776],[-76.77306067610925,24.53172435109798],[-76.77257239460027,24.51911041961023]]]],"type":"MultiPolygon"}
+}

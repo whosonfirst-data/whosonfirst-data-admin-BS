@@ -1,0 +1,76 @@
+{
+  "id": 890429315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35,22.6,-74.35,22.6",
+    "geom:latitude":22.6,
+    "geom:longitude":-74.35,
+    "gn:country":"BS",
+    "gn:fcode":"PPL",
+    "gn:pop":25,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Albert Town"
+    ],
+    "name:fre_x_preferred":[
+        "Albert Town"
+    ],
+    "name:unk_x_variant":[
+        "Alver Town"
+    ],
+    "qs:name":"Albert Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572930,
+        "gp:id":56972,
+        "qs:id":95936,
+        "wd:id":"Q2831589",
+        "wk:page":"Albert Town"
+    },
+    "wof:country":"BS",
+    "wof:created":1469051807,
+    "wof:geomhash":"57d7a653fd9c0b8d3e431eac23e70a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":890429315,
+            "region_id":85669177
+        }
+    ],
+    "wof:id":890429315,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Albert Town",
+    "wof:parent_id":85669177,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35,
+    22.6,
+    -74.35,
+    22.6
+],
+  "geometry": {"coordinates":[-74.34999999999999,22.6],"type":"Point"}
+}

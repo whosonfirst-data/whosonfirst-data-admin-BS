@@ -1,0 +1,297 @@
+{
+  "id": 85669145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01601,
+    "geom:area_square_m":178755816.613958,
+    "geom:bbox":"-76.7844945945,25.285282636,-76.3140001297,25.5639509143",
+    "geom:latitude":25.442249,
+    "geom:longitude":-76.617876,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "North Eleuthera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":25.483617,
+    "lbl:longitude":-76.715895,
+    "mps:latitude":25.483617,
+    "mps:longitude":-76.715895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0644\u064a\u0648\u062b\u064a\u0631\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Eleuthera Norte"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u09cd\u09a5 \u098f\u09b2\u09bf\u0989\u09a5\u09c7\u09b0\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:ceb_x_preferred":[
+        "North Eleuthera District"
+    ],
+    "name:chi_x_preferred":[
+        "\u5317\u4f0a\u67f3\u585e\u62c9"
+    ],
+    "name:dan_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:dut_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:eng_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:eng_x_variant":[
+        "N Eleuthera",
+        "North Eleuthera District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u062a\u0631\u0627 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Pohjois-Eleuthera"
+    ],
+    "name:fra_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:fre_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:ger_x_preferred":[
+        "Nord-Eleuthera"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03cc\u03c1\u03b8 \u0395\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0a85\u0ab2\u0abf\u0a89\u0aa5\u0ac7\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930\u0940 \u090f\u0932\u094d\u092f\u0942\u0925\u0947\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:ita_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30b9\u30fb\u30a8\u30eb\u30fc\u30bb\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c8e\u0cb2\u0cc1\u0ca5\u0cc6\u0cb0\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc2a4\uc77c\ub8e8\uc11c\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013cil\u016btera"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Elutera"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0925 \u090f\u0932\u0941\u0925\u093f\u0930\u093e"
+    ],
+    "name:may_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:nob_x_preferred":[
+        "Nord Eleuthera"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0648\u062a\u0631\u0627 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "P\u00f3\u0142nocna Eleuthera"
+    ],
+    "name:por_x_preferred":[
+        "North Eleuthera"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d91\u0dbd\u0dd2\u0dba\u0dd4\u0dad\u0dd9\u0dbb\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Eleuthera Norte"
+    ],
+    "name:swe_x_preferred":[
+        "North Eleuthera District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b8e\u0bb2\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c0e\u0c32\u0c4d\u0c2f\u0c42\u0c25\u0c46\u0c30\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Hilagang Eleuthera"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e2d\u0e23\u0e4c\u0e17 \u0e40\u0e2d\u0e25\u0e39\u0e40\u0e18\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey Eleuthra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u0415\u043b\u044c\u044e\u0442\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u06cc\u0644\u06cc\u0648\u062a\u062d\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc Eleuthera"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5027",
+    "ne:adm1_code":"BHS-5027",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.NE",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5027",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF48",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.48",
+    "ne:gn_id":"8030553",
+    "ne:gn_level":"1",
+    "ne:gn_name":"North Eleuthera District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF48",
+    "ne:gns_id":"11057049",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"North Eleuthera District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-NE",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"25.43830000000",
+    "ne:longitude":"-76.59000000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"North Eleuthera",
+    "ne:name_alt":"",
+    "ne:name_len":15,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"NE",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/North_Eleuthera",
+    "ne:woe_id":24551251,
+    "ne:woe_label":"North Eleuthera, BS, The Bahamas",
+    "ne:woe_name":"North Eleuthera",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"North Eleuthera",
+    "qs:a1_lc":"BHS-5027",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Upper Bogue",
+    "statoids:country":"BS",
+    "statoids:gec":"BF48",
+    "statoids:hasc":"BS.NE",
+    "statoids:iso":"NE",
+    "statoids:name":"North Eleuthera",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-NE",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF48",
+        "gn:id":8030553,
+        "gp:id":24551251,
+        "hasc:id":"BS.NE",
+        "iso:id":"BS-NE",
+        "qs:id":1287910,
+        "unlc:id":"BS-NE",
+        "wd:id":"Q2705535"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"f126cee12d63260397e6b7683ac422a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669145
+        }
+    ],
+    "wof:id":85669145,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"North Eleuthera",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"NE",
+    "wof:subdivision":"BS-NE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78449459454987,
+    25.28528263598491,
+    -76.31400012970221,
+    25.56395091430329
+],
+  "geometry": {"coordinates":[[[-76.31400012970221,25.29959703167771],[-76.33255318578085,25.28528263598491],[-76.34626217406003,25.30353424740764],[-76.37157141758684,25.32249583491489],[-76.40953528602461,25.33519114785327],[-76.48961341122993,25.35130442955585],[-76.53083248553077,25.3704287781656],[-76.59121660096531,25.42255280227005],[-76.63052324085487,25.43325429934652],[-76.65233313686474,25.43537018468635],[-76.69367428334147,25.44476959833833],[-76.71275794212528,25.44692617440347],[-76.7342830066554,25.44183991108309],[-76.76939856659055,25.42405833482434],[-76.78449459454987,25.42641836091866],[-76.75951087053022,25.45001862186194],[-76.74551347596611,25.48924388209952],[-76.7298477859465,25.56362539299755],[-76.73668372257572,25.56362539299755],[-76.70230058490404,25.56395091430329],[-76.68675696526168,25.56207916971795],[-76.67520097554456,25.55678945546907],[-76.68614661427478,25.54132721637797],[-76.69098873594135,25.52594635603953],[-76.69131425724714,25.5088565122183],[-76.68887285060151,25.48786041902315],[-76.67316646985665,25.50665924722654],[-76.66197669217058,25.4972598335745],[-76.65298417857696,25.47797272296282],[-76.64391028623066,25.46735260643771],[-76.62458248579304,25.46246979404583],[-76.49762936090622,25.37348053669746],[-76.46092688696621,25.35455963721756],[-76.41454016789442,25.34446849202732],[-76.36827552009913,25.3427188169199],[-76.35163326706157,25.3386091175168],[-76.33576412701279,25.32709381762561],[-76.31400012970221,25.29959703167771]]],"type":"Polygon"}
+}

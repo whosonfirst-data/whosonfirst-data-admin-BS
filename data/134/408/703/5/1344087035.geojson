@@ -1,0 +1,70 @@
+{
+  "id": 1344087035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93668,24.90594,-77.93668,24.90594",
+    "geom:latitude":24.90594,
+    "geom:longitude":-77.93668,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Stafford Creek",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571366,
+    "gn:latitude":24.90594,
+    "gn:longitude":-77.93668,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Stafford Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stafford",
+        "Stafford Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571366,
+        "wk:page":"Stafford_Creek"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"a6f56aae524ade97671f34be90724e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1344087035,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":1344087035,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Stafford Creek",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93668000000002,
+    24.90594,
+    -77.93668000000002,
+    24.90594
+],
+  "geometry": {"coordinates":[-77.93668000000002,24.90594],"type":"Point"}
+}

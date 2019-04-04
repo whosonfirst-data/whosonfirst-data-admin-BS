@@ -1,0 +1,313 @@
+{
+  "id": 85669169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.040489,
+    "geom:area_square_m":460069659.563056,
+    "geom:bbox":"-75.3526098303,22.8599307316,-74.8320206372,23.6859805365",
+    "geom:latitude":23.226949,
+    "geom:longitude":-75.077569,
+    "gn:population":2979,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Long Island District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":23.191321,
+    "lbl:longitude":-75.102986,
+    "mps:latitude":23.191321,
+    "mps:longitude":-75.102986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0644\u0648\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u0982 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043d\u0433 \u0410\u0439\u043b\u044a\u043d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Llarga"
+    ],
+    "name:chi_x_preferred":[
+        "\u9577\u5cf6"
+    ],
+    "name:cze_x_preferred":[
+        "Long Island"
+    ],
+    "name:dan_x_preferred":[
+        "Long Island"
+    ],
+    "name:deu_x_preferred":[
+        "Long Island"
+    ],
+    "name:dut_x_preferred":[
+        "Long Island"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bd\u03b3\u03ba \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Long Island"
+    ],
+    "name:eng_x_variant":[
+        "Long Island District"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0644\u0627\u0646\u06af\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Long Island"
+    ],
+    "name:fra_x_preferred":[
+        "Long Island"
+    ],
+    "name:fre_x_preferred":[
+        "Long Island"
+    ],
+    "name:ger_x_preferred":[
+        "Long Island"
+    ],
+    "name:glg_x_preferred":[
+        "Long Island"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03bf\u03bd\u03b3\u03ba \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0a82\u0a97 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e0\u05d2 \u05d0\u05d9\u05d9\u05dc\u05e0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0949\u0928\u094d\u0917 \u0906\u0907\u0932\u0948\u0902\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Long Island"
+    ],
+    "name:ita_x_preferred":[
+        "Long Island"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f3\u30b0\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0c82\u0c97\u0ccd \u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub871 \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Longailenda"
+    ],
+    "name:lit_x_preferred":[
+        "Ilgoji sala"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0949\u0928\u094d\u0917 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Long Island"
+    ],
+    "name:nld_x_preferred":[
+        "Long Island"
+    ],
+    "name:nob_x_preferred":[
+        "Long Island"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0644\u0627\u0646\u06af\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Long Island"
+    ],
+    "name:por_x_preferred":[
+        "Long Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0433-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0ddd\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd4\u0db4\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Larga"
+    ],
+    "name:swe_x_preferred":[
+        "Long Island"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0b99\u0bcd \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c02\u0c17\u0c4d \u0c26\u0c40\u0c35\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e25\u0e2d\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Long Island"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0433-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af \u0622\u0626\u0644\u06cc\u0646\u0688\u060c \u0628\u06c1\u0627\u0645\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Long Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u9577\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5033",
+    "ne:adm1_code":"BHS-5033",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.LI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5033",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF15",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.15",
+    "ne:gn_id":"3572005",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Long Island District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF15",
+    "ne:gns_id":"-1543651",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Long Island District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-LI",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"23.03700000000",
+    "ne:longitude":"-74.91320000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Long Island",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LI",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Second Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Long_Island_(Bahamas)",
+    "ne:woe_id":2344773,
+    "ne:woe_label":"Long Island, BS, The Bahamas",
+    "ne:woe_name":"Long Island",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Long Island",
+    "qs:a1_lc":"BHS-5033",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Clarence Town",
+    "statoids:country":"BS",
+    "statoids:gec":"BF15",
+    "statoids:hasc":"BS.LI",
+    "statoids:iso":"LI",
+    "statoids:name":"Long Island",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "wd:wordcount":1078,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF15",
+        "gn:id":3572005,
+        "gp:id":2344773,
+        "hasc:id":"BS.LI",
+        "iso:id":"BS-LI",
+        "qs:id":1285018,
+        "wd:id":"Q890879",
+        "wk:page":"Long Island, Bahamas"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"3352897ac232cccda9b5f55f906fd85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":85669169,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Long Island",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":2979,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"LI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35260983027939,
+    22.85993073161802,
+    -74.83202063724258,
+    23.68598053647264
+],
+  "geometry": {"coordinates":[[[-74.85912024570274,22.98029205883148],[-74.84703528554996,22.97011953309004],[-74.83844967381333,22.94440338770625],[-74.83340410121826,22.91412995033699],[-74.83202063724258,22.87494537992541],[-74.83397376147985,22.86432526250093],[-74.83995520726694,22.85993073161802],[-74.85228430907358,22.86359284113678],[-74.85806230393212,22.87055084814318],[-74.86534583224432,22.90452708485714],[-74.86904863158901,22.90216705966213],[-74.87897701657602,22.89777252787991],[-74.88548743369807,22.92381419546882],[-74.91405188668517,22.97085195535351],[-74.92442786425448,23.01170482032126],[-74.93390865755845,23.02570221668401],[-74.96764075351791,23.06386953335232],[-74.97801673108722,23.07294342749725],[-74.99054928292304,23.07855866125328],[-75.10488847632206,23.09955475534775],[-75.12975012906514,23.11399974249417],[-75.14256751148145,23.12368398582731],[-75.2139786452982,23.16547272308776],[-75.2296443353178,23.17145416887485],[-75.22671464806251,23.18121979455793],[-75.22203528569986,23.19009023597567],[-75.21580970005755,23.19822825692859],[-75.20791581895986,23.20624420840352],[-75.20173092404286,23.20624420840352],[-75.19172115760529,23.1917992212571],[-75.16356360557592,23.17902252866679],[-75.15330970018249,23.16522858323259],[-75.1790665362916,23.16860586127154],[-75.18740800727369,23.17145416887485],[-75.18057206884583,23.15985748933173],[-75.17027747272715,23.14996979417072],[-75.1583145820523,23.14419179931213],[-75.14647376175463,23.14476146047309],[-75.13426673122461,23.1372744812324],[-75.11522376226679,23.12238190330226],[-75.10610917919524,23.11749909091037],[-75.09483802005855,23.11497630461281],[-75.07868404852996,23.11367422118843],[-75.06847083206321,23.11664459826966],[-75.0751033186632,23.12738678607138],[-75.13219153571077,23.18598053657257],[-75.13963782512548,23.20282623963931],[-75.13585364522953,23.22980377862154],[-75.12743079279682,23.24925364853709],[-75.11831620972526,23.26512278948519],[-75.1129451158244,23.28131744994039],[-75.1137589177398,23.30508047108691],[-75.12035071451385,23.33193594059122],[-75.13166256347648,23.35578034138967],[-75.14647376175463,23.37075429897175],[-75.15005449072214,23.36615631716035],[-75.16075598869787,23.35700104426286],[-75.15904700431577,23.38060130430682],[-75.19688880057765,23.41014232031188],[-75.19489498561506,23.43211497652499],[-75.20836341064285,23.43524811470877],[-75.22057044207219,23.43976471596892],[-75.22687740826575,23.44725169520962],[-75.22223873572904,23.45945872663896],[-75.24250240756004,23.47431061384378],[-75.25007076645267,23.4901797556912],[-75.25633704282023,23.53514232006205],[-75.27684485630505,23.58295319203626],[-75.28648841071157,23.58763255439891],[-75.29303951676025,23.58543528940714],[-75.30016028576853,23.58047109646401],[-75.31159420510846,23.57680898604593],[-75.30475826668061,23.62494538022514],[-75.31045488188727,23.63939036737162],[-75.33141028615574,23.62396881720719],[-75.32201087070507,23.63719310148048],[-75.31786048057666,23.64154694253745],[-75.31159420510846,23.64500560112765],[-75.32412675694422,23.64866771064641],[-75.33234615754907,23.64150625271145],[-75.3403214182988,23.63080475563504],[-75.35260983027939,23.62396881720719],[-75.35260983027939,23.63141510662194],[-75.34239661381264,23.6414248721602],[-75.33458411416552,23.65314362208056],[-75.33043372313779,23.66766998887891],[-75.33141028615574,23.68598053647264],[-75.32534745981735,23.68451569194571],[-75.32030188722229,23.68162669541573],[-75.31582597578813,23.67747630438799],[-75.31159420510846,23.67234935124162],[-75.25291907495529,23.58295319203626],[-75.23932857955026,23.57510000256309],[-75.22130286433566,23.55605703360527],[-75.20457923074684,23.53335195512869],[-75.19489498561506,23.51410553614164],[-75.18272864491098,23.44643789329422],[-75.17072506351082,23.42910390871845],[-75.15322831873186,23.4112002620825],[-75.09406490796908,23.30532461094208],[-75.09557044232201,23.2949893249974],[-75.08771725194958,23.2857933613746],[-75.08511308510077,23.26406484591598],[-75.08503170454946,23.21987539363454],[-75.07689368359661,23.17169830962933],[-75.05996660087789,23.14166901211524],[-75.03160559791996,23.12335846632021],[-74.94635982974233,23.09373607066317],[-74.90965735580227,23.06732819194258],[-74.84483801965882,23.00014883060408],[-74.8491104810638,22.9950218774577],[-74.85460364534191,22.98525625267399],[-74.85912024570274,22.98029205883148]]],"type":"Polygon"}
+}

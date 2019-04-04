@@ -1,0 +1,330 @@
+{
+  "id": 85669159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.037914,
+    "geom:area_square_m":427043357.952534,
+    "geom:bbox":"-75.7575577456,24.1257184922,-75.2904353508,24.7018496772",
+    "geom:latitude":24.367336,
+    "geom:longitude":-75.499803,
+    "gn:population":1606,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Cat Island District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":24.325498,
+    "lbl:longitude":-75.457337,
+    "mps:latitude":24.325498,
+    "mps:longitude":-75.457337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0643\u0627\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041a\u044d\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09be\u099f \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Cat"
+    ],
+    "name:ceb_x_preferred":[
+        "Cat Island"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u7279\u5cf6"
+    ],
+    "name:cze_x_preferred":[
+        "Cat Island"
+    ],
+    "name:dan_x_preferred":[
+        "Cat Island"
+    ],
+    "name:deu_x_preferred":[
+        "Cat Island"
+    ],
+    "name:dut_x_preferred":[
+        "Cat Island"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Cat Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u062a\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Cat Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Cat"
+    ],
+    "name:fre_x_preferred":[
+        "\u00eele Cat"
+    ],
+    "name:ger_x_preferred":[
+        "Cat Island"
+    ],
+    "name:glg_x_preferred":[
+        "Cat Island"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0a9f \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0948\u091f \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Cat"
+    ],
+    "name:ita_x_preferred":[
+        "Cat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30c3\u30c8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0c9f\u0ccd \u0ca6\u0ccd\u0cb5\u0cc0\u0caa"
+    ],
+    "name:kor_x_preferred":[
+        "\ucea3 \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Kata sala"
+    ],
+    "name:lit_x_preferred":[
+        "Kat\u0117s sala"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u0447\u043a\u0438\u043d \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0945\u091f \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:may_x_preferred":[
+        "Cat Island"
+    ],
+    "name:nld_x_preferred":[
+        "Cat Island"
+    ],
+    "name:nob_x_preferred":[
+        "Cat Island"
+    ],
+    "name:nor_x_preferred":[
+        "Cat Island"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u062a\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Cat Island"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Cat"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Cat"
+    ],
+    "name:rum_x_preferred":[
+        "Insula Cat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044d\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0da7\u0dca \u0daf\u0dd6\u0db4\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Cat"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u043e \u043c\u0430\u0447\u0430\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Cat Island"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc7\u0b9f\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c3e\u0c1f\u0c4d \u0c26\u0c40\u0c35\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Pulong Cat"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e27\u0e1a\u0e31\u0e48\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Cat Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0442-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u06cc\u0679\u060c \u0628\u06c1\u0627\u0645\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Cat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7279\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5030",
+    "ne:adm1_code":"BHS-5030",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.CI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5030",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.06",
+    "ne:gn_id":"3572678",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Cat Island District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF06",
+    "ne:gns_id":"-1542972",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Cat Island District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-CI",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"24.25830000000",
+    "ne:longitude":"-75.38940000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Cat Island",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CI",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Second Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Cat_Island_(Bahamas)",
+    "ne:woe_id":2344770,
+    "ne:woe_label":"Cat Island, BS, The Bahamas",
+    "ne:woe_name":"Cat Island",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Cat Island",
+    "qs:a1_lc":"BHS-5030",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"The Bight",
+    "statoids:country":"BS",
+    "statoids:gec":"BF06",
+    "statoids:hasc":"BS.CI",
+    "statoids:iso":"CI",
+    "statoids:name":"Cat Island",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-CI",
+    "wd:wordcount":664,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF06",
+        "gn:id":3572678,
+        "gp:id":2344770,
+        "hasc:id":"BS.CI",
+        "iso:id":"BS-CI",
+        "qs:id":1222224,
+        "unlc:id":"BS-CI",
+        "wd:id":"Q1050154",
+        "wk:page":"Cat Island, Bahamas"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8d33f688ba785abcb1dbe60b066b8fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669159
+        }
+    ],
+    "wof:id":85669159,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Cat Island",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":1606,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"CI",
+    "wof:subdivision":"BS-CI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75755774559343,
+    24.12571849221467,
+    -75.29043535081075,
+    24.70184967722088
+],
+  "geometry": {"coordinates":[[[-75.31468665256693,24.21735260623785],[-75.30699622329701,24.20254140795964],[-75.29043535081075,24.14472077044724],[-75.33580481703865,24.15851471588149],[-75.35643470000139,24.16014232061167],[-75.37987219984211,24.15839264550425],[-75.42511959479344,24.14996979397085],[-75.44090735608955,24.14203522304717],[-75.45840410086851,24.12791575720649],[-75.48314368413367,24.12571849221467],[-75.50991777308673,24.14207591467175],[-75.52131100170135,24.16258372635792],[-75.49962317606867,24.17259349189618],[-75.48493404906708,24.17621491158894],[-75.46361243366687,24.18561432524098],[-75.44391842389609,24.19871653913702],[-75.43390865745852,24.21360911706716],[-75.41466223847146,24.21312083555819],[-75.40575110632847,24.24030182546892],[-75.41006425666006,24.27289459820719],[-75.43073483034811,24.28872304932929],[-75.45995032504743,24.29458242383981],[-75.48058020711085,24.30939362211802],[-75.53400631374035,24.38922760656885],[-75.54190019393877,24.41746653914953],[-75.56110592399915,24.44342682528782],[-75.56550045488206,24.45693594014159],[-75.57152258959582,24.48875560168972],[-75.58849036393912,24.51264069231416],[-75.61436926952615,24.5265973979516],[-75.64736894412141,24.52895742404593],[-75.64346269384822,24.53945547109316],[-75.64264889193277,24.55149974231932],[-75.6441544262857,24.56415436453233],[-75.64736894412141,24.57611725520724],[-75.65274003802227,24.58836497646257],[-75.65782630134271,24.59292226844798],[-75.66470292869718,24.59601471590645],[-75.70885169205189,24.63133372587077],[-75.74107825365843,24.64614492414898],[-75.74982662649757,24.65180084863033],[-75.75658118347479,24.66030508071498],[-75.75755774559343,24.66791413033292],[-75.75300045450734,24.67601146056052],[-75.73216712061611,24.69863515848584],[-75.72386633945996,24.70184967722088],[-75.70885169205189,24.70018138266471],[-75.70221920455259,24.69574616105655],[-75.6753637359476,24.67230866121577],[-75.64932206925806,24.66307200686765],[-75.63731848875722,24.65696849250196],[-75.62633216110032,24.64500560092779],[-75.61856035127914,24.58124420835361],[-75.61261959531805,24.56244538015022],[-75.60285396963496,24.55190664327699],[-75.58682206848363,24.5385195979012],[-75.57201087110479,24.52269114857768],[-75.55996660077795,24.49144114819046],[-75.53221594970626,24.44489166891543],[-75.4760636058507,24.37059153946802],[-75.45811927028808,24.35732656536874],[-75.41901607952843,24.3378360056272],[-75.40038001152828,24.32347239813271],[-75.37559973933645,24.27594635583972],[-75.36961829265005,24.26825592746911],[-75.35850989461591,24.26141998904131],[-75.31468665256693,24.21735260623785]]],"type":"Polygon"}
+}

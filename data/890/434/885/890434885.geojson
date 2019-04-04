@@ -1,0 +1,97 @@
+{
+  "id": 890434885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2,24.9,-76.2,24.9",
+    "geom:latitude":24.9,
+    "geom:longitude":-76.2,
+    "gn:country":"BS",
+    "gn:fcode":"PPL",
+    "gn:pop":1396,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rock Sound"
+    ],
+    "name:eng_x_preferred":[
+        "Rock Sound District"
+    ],
+    "name:eng_x_variant":[
+        "Rock Sound"
+    ],
+    "name:fre_x_preferred":[
+        "Rock Sound"
+    ],
+    "name:ger_x_preferred":[
+        "Rock Sound"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c3\u30af\u30fb\u30b5\u30a6\u30f3\u30c9"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u06a9 \u0633\u0627\u0648\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Rock Sound"
+    ],
+    "name:rum_x_preferred":[
+        "Rock Sound"
+    ],
+    "name:unk_x_variant":[
+        "New Portsmouth"
+    ],
+    "qs:name":"Rock Sound",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":1161,
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571592,
+        "gp:id":57107,
+        "qs:id":148964,
+        "wd:id":"Q1771799",
+        "wk:page":"Rock Sound"
+    },
+    "wof:country":"BS",
+    "wof:created":1469052043,
+    "wof:geomhash":"2cceb8287616f87457ce31fb3aa49a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":890434885,
+            "region_id":85669151
+        }
+    ],
+    "wof:id":890434885,
+    "wof:lastmodified":1527792948,
+    "wof:name":"Rock Sound",
+    "wof:parent_id":85669151,
+    "wof:placetype":"locality",
+    "wof:population":1396,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2,
+    24.9,
+    -76.2,
+    24.9
+],
+  "geometry": {"coordinates":[-76.2,24.9],"type":"Point"}
+}

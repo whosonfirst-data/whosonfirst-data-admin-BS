@@ -1,0 +1,75 @@
+{
+  "id": 1344090661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76405,25.54717,-76.76405,25.54717",
+    "geom:latitude":25.54717,
+    "geom:longitude":-76.76405,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Spanish Wells",
+    "gn:country_code":"BS",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3571375,
+    "gn:latitude":25.54717,
+    "gn:longitude":-76.76405,
+    "gn:modification_date":"2014-01-19",
+    "gn:name":"Spanish Wells",
+    "gn:population":1500,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Spanish Wells Settlement"
+    ],
+    "name:eng_x_variant":[
+        "Spanish Wells"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571375,
+        "wk:page":"Spanish_Wells"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"eb5940343f3a80300f31f93014ee03ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1344090661,
+            "region_id":85669139
+        }
+    ],
+    "wof:id":1344090661,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Spanish Wells",
+    "wof:parent_id":85669139,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76405,
+    25.54717,
+    -76.76405,
+    25.54717
+],
+  "geometry": {"coordinates":[-76.76405,25.54717],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276906021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25,24.75,-76.25,24.75",
+    "geom:latitude":24.75,
+    "geom:longitude":-76.25,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Wemyss Bight",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571230,
+    "gn:latitude":24.75,
+    "gn:longitude":-76.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wemyss Bight",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Whymms Bight",
+        "Wemyss",
+        "Wemyss\u2019s Bight",
+        "Wemyss Settlement",
+        "Wemyss Bight"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571230
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"dcbc796a38dcbda65c16f19d3b3cb07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1276906021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276906021,
+    "wof:lastmodified":1537588918,
+    "wof:name":"Wemyss Bight",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25,
+    24.75,
+    -76.25,
+    24.75
+],
+  "geometry": {"coordinates":[-76.25,24.75],"type":"Point"}
+}

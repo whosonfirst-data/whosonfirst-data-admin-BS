@@ -1,0 +1,65 @@
+{
+  "id": 1343702283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.51899,24.10382,-74.51899,24.10382",
+    "geom:latitude":24.10382,
+    "geom:longitude":-74.51899,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Quarters",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571636,
+    "gn:latitude":24.10382,
+    "gn:longitude":-74.51899,
+    "gn:modification_date":"2014-04-18",
+    "gn:name":"Quarters",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571636
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"d7743d84b9f5d2faaeb92cbded7951c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343702283,
+            "region_id":85669163
+        }
+    ],
+    "wof:id":1343702283,
+    "wof:lastmodified":1536894498,
+    "wof:name":"Quarters",
+    "wof:parent_id":85669163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.51899,
+    24.10382,
+    -74.51899,
+    24.10382
+],
+  "geometry": {"coordinates":[-74.51899,24.10382],"type":"Point"}
+}

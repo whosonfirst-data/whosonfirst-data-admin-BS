@@ -1,0 +1,61 @@
+{
+  "id": 1209142001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53333,24.05,-77.53333,24.05",
+    "geom:latitude":24.05,
+    "geom:longitude":-77.53333,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Smith's Hill",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571433,
+    "gn:latitude":24.05,
+    "gn:longitude":-77.53333,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Smith\u2019s Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571433
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"88c6f760d109c067ca154c72aabdcddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209142001
+        }
+    ],
+    "wof:id":1209142001,
+    "wof:lastmodified":1536296473,
+    "wof:name":"Smith's Hill",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53333,
+    24.05,
+    -77.53333,
+    24.05
+],
+  "geometry": {"coordinates":[-77.53333000000001,24.05],"type":"Point"}
+}

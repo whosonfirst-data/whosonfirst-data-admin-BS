@@ -1,0 +1,71 @@
+{
+  "id": 1242572921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78665,23.51616,-75.78665,23.51616",
+    "geom:latitude":23.51616,
+    "geom:longitude":-75.78665,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"George Town",
+    "gn:country_code":"BS",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3572349,
+    "gn:latitude":23.51616,
+    "gn:longitude":-75.78665,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"George Town",
+    "gn:population":7314,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "George Town"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572349,
+        "wk:page":"George_Town,_Bahamas"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8a469bd7f79be0f46f4d4f2ddeea5973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1242572921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242572921,
+    "wof:lastmodified":1537588923,
+    "wof:name":"George Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":7314,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78665,
+    23.51616,
+    -75.78665,
+    23.51616
+],
+  "geometry": {"coordinates":[-75.78664999999999,23.51616],"type":"Point"}
+}

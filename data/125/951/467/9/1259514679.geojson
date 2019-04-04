@@ -1,0 +1,64 @@
+{
+  "id": 1259514679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26667,24.76667,-76.26667,24.76667",
+    "geom:latitude":24.76667,
+    "geom:longitude":-76.26667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Delancey Town",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572511,
+    "gn:latitude":24.76667,
+    "gn:longitude":-76.26667,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Delancey Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572511
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"18380ca26a36d71988982af113fa31d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259514679,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259514679,
+    "wof:lastmodified":1536813409,
+    "wof:name":"Delancey Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26666999999998,
+    24.76667,
+    -76.26666999999998,
+    24.76667
+],
+  "geometry": {"coordinates":[-76.26666999999998,24.76667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 421195975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.03333,26.28333,-77.03333,26.28333",
+    "geom:latitude":26.28333,
+    "geom:longitude":-77.03333,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "The Rock Cay"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3572658,
+    "qs:gn_pop":0,
+    "qs:name":"Cherokee Sound",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Central Abaco",
+    "qs:photos":79,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":79,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":982478,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56868,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572658,
+        "gp:id":56868,
+        "qs:id":982478
+    },
+    "wof:country":"BS",
+    "wof:created":1459009865,
+    "wof:geomhash":"d817ff04a8057b8e8cbfe139b0fdb424",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421195975
+        }
+    ],
+    "wof:id":421195975,
+    "wof:lastmodified":1501267679,
+    "wof:name":"Cherokee Sound",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03333,
+    26.28333,
+    -77.03333,
+    26.28333
+],
+  "geometry": {"coordinates":[-77.03333000000001,26.28333],"type":"Point"}
+}

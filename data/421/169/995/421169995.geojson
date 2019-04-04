@@ -1,0 +1,115 @@
+{
+  "id": 421169995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63633,25.50216,-76.63633,25.50216",
+    "geom:latitude":25.50216,
+    "geom:longitude":-76.63633,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:dut_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:eng_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0631 \u062a\u0627\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:fre_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0631 \u062a\u0627\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:ron_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:rum_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u043c\u043e\u0440-\u0422\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:unk_x_variant":[
+        "Harbour Island"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3572462,
+    "qs:gn_pop":1523,
+    "qs:name":"Dunmore Town",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"North Eleuthera",
+    "qs:photos":1281,
+    "qs:photos_1k":260,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1281,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":211029,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56908,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572462,
+        "gp:id":56908,
+        "qs:id":211029,
+        "wd:id":"Q1771794",
+        "wk:page":"Dunmore Town"
+    },
+    "wof:country":"BS",
+    "wof:created":1459008832,
+    "wof:geomhash":"e8d1f61910faee02801f31f35931ed1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421169995
+        }
+    ],
+    "wof:id":421169995,
+    "wof:lastmodified":1527716170,
+    "wof:name":"Dunmore Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1523,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63633,
+    25.50216,
+    -76.63633,
+    25.50216
+],
+  "geometry": {"coordinates":[-76.63633,25.50216],"type":"Point"}
+}

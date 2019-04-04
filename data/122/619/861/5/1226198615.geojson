@@ -1,0 +1,65 @@
+{
+  "id": 1226198615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.20255,24.68984,-76.20255,24.68984",
+    "geom:latitude":24.68984,
+    "geom:longitude":-76.20255,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"John Millars",
+    "gn:country_code":"BS",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572122,
+    "gn:latitude":24.68984,
+    "gn:longitude":-76.20255,
+    "gn:modification_date":"2014-08-26",
+    "gn:name":"John Millars",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572122
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"84dd6906572da8e6d4c813aa04a664c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1226198615,
+            "region_id":85669151
+        }
+    ],
+    "wof:id":1226198615,
+    "wof:lastmodified":1537000912,
+    "wof:name":"John Millars",
+    "wof:parent_id":85669151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.20255,
+    24.68984,
+    -76.20255,
+    24.68984
+],
+  "geometry": {"coordinates":[-76.20255,24.68984],"type":"Point"}
+}

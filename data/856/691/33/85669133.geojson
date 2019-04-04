@@ -1,0 +1,297 @@
+{
+  "id": 85669133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000703,
+    "geom:area_square_m":7841338.342286,
+    "geom:bbox":"-76.8728339352,25.5066405072,-76.8093643511,25.5324984855",
+    "geom:latitude":25.52104,
+    "geom:longitude":-76.841268,
+    "gn:population":1500,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Spanish Wells District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":25.524051,
+    "lbl:longitude":-76.830209,
+    "mps:latitude":25.524051,
+    "mps:longitude":-76.830209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0627\u0646\u0634\u060c \u0648\u064a\u0644\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u0993\u09af\u09bc\u09c7\u09b2\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:dan_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:dut_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:eng_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0646\u06cc\u0634 \u0648\u0644\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:fra_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:fre_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:ger_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:glg_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c0\u03ac\u03bd\u03b9\u03c2 \u0393\u03bf\u03c5\u03ad\u03bb\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aaa\u0ac7\u0aa8\u0abf\u0ab6 \u0ab5\u0ac7\u0ab2\u0acd\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092a\u0947\u0928\u093f\u0936 \u0935\u0947\u0932\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:ita_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d1\u30cb\u30c3\u30b7\u30e5\u30fb\u30a6\u30a7\u30eb\u30ba"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caa\u0ccd\u0caf\u0cbe\u0ca8\u0cbf\u0cb7\u0ccd \u0cb5\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud328\ub2c8\uc2dc\uc6f0\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Speni\u0161velsa"
+    ],
+    "name:lit_x_preferred":[
+        "Ispan\u0173 Velsas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u092a\u0945\u0928\u093f\u0936 \u0935\u0947\u0932\u094d\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:nld_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:nob_x_preferred":[
+        "Spansk wells"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u067e\u0646\u06cc\u0634 \u0648\u0644\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:por_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u044d\u043d\u0438\u0448-\u0423\u044d\u043b\u043b\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0db4\u0dd0\u0db1\u0dd2\u0dc2\u0dca \u0dc0\u0dd9\u0dbd\u0dca\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:swe_x_preferred":[
+        "Spanish Wells District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0baa\u0bbe\u0ba9\u0bbf\u0bb7\u0bcd  \u0bb5\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c2a\u0c3e\u0c28\u0c3f\u0c37\u0c4d \u0c35\u0c46\u0c32\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e41\u0e1b\u0e19\u0e34\u0e0a \u0e40\u0e27\u0e25\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Spanish Wells"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0435\u043d\u0456\u0448-\u0423\u0435\u043b\u043b\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Spanish Wells District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u067e\u06cc\u0646\u0634 \u0648\u06cc\u0644\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Spanish Wells"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5025",
+    "ne:adm1_code":"BHS-5025",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.SW",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5025",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF53",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.53",
+    "ne:gn_id":"8030558",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Spanish Wells District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF53",
+    "ne:gns_id":"11057071",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Spanish Wells District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-SW",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"25.52370000000",
+    "ne:longitude":"-76.83340000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Spanish Wells",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SW",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Spanish_Wells",
+    "ne:woe_id":24551256,
+    "ne:woe_label":"",
+    "ne:woe_name":"Spanish Wells",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Spanish Wells",
+    "qs:a1_lc":"BHS-5025",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Lower Bogue",
+    "statoids:country":"BS",
+    "statoids:gec":"BF53",
+    "statoids:hasc":"BS.SW",
+    "statoids:iso":"SW",
+    "statoids:name":"Spanish Wells",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-SW",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF53",
+        "gn:id":8030558,
+        "gp:id":24551256,
+        "hasc:id":"BS.SW",
+        "iso:id":"BS-SW",
+        "qs:id":59887,
+        "unlc:id":"BS-SW",
+        "wd:id":"Q1771681",
+        "wk:page":"Spanish Wells"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"b22aa1dfe1f5b4ec89d3bbd41d2f6282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669133
+        }
+    ],
+    "wof:id":85669133,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550317,
+    "wof:name":"Spanish Wells",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"SW",
+    "wof:subdivision":"BS-SW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8728339352379,
+    25.50664050715375,
+    -76.8093643510839,
+    25.53249848551673
+],
+  "geometry": {"coordinates":[[[-76.82895372923116,25.53171491071458],[-76.81798367750469,25.53249848551673],[-76.8093643510839,25.52936418540889],[-76.8109315015875,25.52387915999526],[-76.82895372923116,25.51682698407808],[-76.84854310737848,25.51682698407808],[-76.86108030870923,25.50820765765735],[-76.87205036043576,25.50664050715375],[-76.87283393523791,25.51447625787307],[-76.85716243289994,25.52387915999526],[-76.84462523156913,25.52622988530101],[-76.82895372923116,25.53171491071458]]],"type":"Polygon"}
+}

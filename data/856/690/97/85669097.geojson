@@ -1,0 +1,200 @@
+{
+  "id": 85669097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001269,
+    "geom:area_square_m":14068798.899917,
+    "geom:bbox":"-77.5795792305,26.2687035179,-77.5379939442,26.3375918645",
+    "geom:latitude":26.306851,
+    "geom:longitude":-77.561587,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Moore's Island District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":26.306228,
+    "lbl:longitude":-77.557807,
+    "mps:latitude":26.306228,
+    "mps:longitude":-77.557807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:eng_x_preferred":[
+        "Moore's Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0645\u0648\u0631\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Moorensaari"
+    ],
+    "name:fra_x_preferred":[
+        "Moore's Island"
+    ],
+    "name:ita_x_preferred":[
+        "Moore's Island"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\uc5b4\uc2a4\uc544\uc77c\ub79c\ub4dc"
+    ],
+    "name:nld_x_preferred":[
+        "Moore's Island"
+    ],
+    "name:por_x_preferred":[
+        "Moore's Island"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Moore"
+    ],
+    "name:tgl_x_preferred":[
+        "Pulong Moore's"
+    ],
+    "name:unk_x_variant":[
+        "Moore\u2019s Island"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5017",
+    "ne:adm1_code":"BHS-5017",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.MI",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5017",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF45",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.45",
+    "ne:gn_id":"8030550",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Moore's Island District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF45",
+    "ne:gns_id":"11057038",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Moore's Island District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-MI",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"26.29730000000",
+    "ne:longitude":"-77.55260000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Moore's Island",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MI",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Moore%27s_Island",
+    "ne:woe_id":24551248,
+    "ne:woe_label":"Moore's Island, BS, The Bahamas",
+    "ne:woe_name":"Moore's Island",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Moore's Island",
+    "qs:a1_lc":"BHS-5017",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Sandy Point",
+    "statoids:country":"BS",
+    "statoids:gec":"BF45",
+    "statoids:hasc":"BS.MI",
+    "statoids:iso":"MI",
+    "statoids:name":"Moore's Island",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-MI",
+    "wd:wordcount":164,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF45",
+        "gn:id":8030550,
+        "gp:id":24551248,
+        "hasc:id":"BS.MI",
+        "iso:id":"BS-MI",
+        "qs:id":354843,
+        "unlc:id":"BS-MI",
+        "wd:id":"Q2702345"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7eed72dd19058c00c738d57db7e79920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669097
+        }
+    ],
+    "wof:id":85669097,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550317,
+    "wof:name":"Moore's Island",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"MI",
+    "wof:subdivision":"BS-MI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57957923049707,
+    26.26870351785311,
+    -77.53799394416518,
+    26.33759186447304
+],
+  "geometry": {"coordinates":[[[-77.53799394416518,26.30658600484031],[-77.54230709449678,26.29897695522237],[-77.57274329296854,26.26870351785311],[-77.56704667866126,26.29100169537202],[-77.57217363180763,26.30487702045815],[-77.57933508974259,26.31801992418019],[-77.57957923049707,26.33759186447304],[-77.57038326687422,26.33270905208116],[-77.54356848899454,26.31248607007615],[-77.53799394416518,26.30658600484031]]],"type":"Polygon"}
+}

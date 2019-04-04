@@ -1,0 +1,65 @@
+{
+  "id": 1209756381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.52542,24.01151,-74.52542,24.01151",
+    "geom:latitude":24.01151,
+    "geom:longitude":-74.52542,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Long Bay",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572016,
+    "gn:latitude":24.01151,
+    "gn:longitude":-74.52542,
+    "gn:modification_date":"2014-04-18",
+    "gn:name":"Long Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572016
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"35a5d92e4f1592c1eb3d150d9603411f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1209756381,
+            "region_id":85669163
+        }
+    ],
+    "wof:id":1209756381,
+    "wof:lastmodified":1536390473,
+    "wof:name":"Long Bay",
+    "wof:parent_id":85669163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.52542,
+    24.01151,
+    -74.52542,
+    24.01151
+],
+  "geometry": {"coordinates":[-74.52542,24.01151],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276622033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.61667,26.5,-78.61667,26.5",
+    "geom:latitude":26.5,
+    "geom:longitude":-78.61667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Smith Point",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571434,
+    "gn:latitude":26.5,
+    "gn:longitude":-78.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Smith Point",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smiths Point Settlement",
+        "Smith Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571434
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"0006f80e253bc3e4feb754c9dabafab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276622033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276622033,
+    "wof:lastmodified":1537588920,
+    "wof:name":"Smith Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.61667,
+    26.5,
+    -78.61667,
+    26.5
+],
+  "geometry": {"coordinates":[-78.61667,26.5],"type":"Point"}
+}

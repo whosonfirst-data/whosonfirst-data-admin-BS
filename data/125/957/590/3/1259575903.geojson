@@ -1,0 +1,70 @@
+{
+  "id": 1259575903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51667,24.4,-75.51667,24.4",
+    "geom:latitude":24.4,
+    "geom:longitude":-75.51667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tea Bay",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571327,
+    "gn:latitude":24.4,
+    "gn:longitude":-75.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tea Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tea Bay Settlement",
+        "Tea Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571327
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2a362beb9af039fc35d3aa34b6270d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259575903,
+            "region_id":85669159
+        }
+    ],
+    "wof:id":1259575903,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Tea Bay",
+    "wof:parent_id":85669159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51666999999998,
+    24.4,
+    -75.51666999999998,
+    24.4
+],
+  "geometry": {"coordinates":[-75.51666999999998,24.4],"type":"Point"}
+}

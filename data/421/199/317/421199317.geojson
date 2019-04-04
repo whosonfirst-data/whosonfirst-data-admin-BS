@@ -1,0 +1,77 @@
+{
+  "id": 421199317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72583,22.19083,-75.72583,22.19083",
+    "geom:latitude":22.19083,
+    "geom:longitude":-75.72583,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3572467,
+    "qs:gn_pop":70,
+    "qs:name":"Duncan Town",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Ragged Island",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":192959,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572467,
+        "gp:id":56905,
+        "qs:id":192959
+    },
+    "wof:country":"BS",
+    "wof:created":1459009985,
+    "wof:geomhash":"7eb2066bf7894ebfc54cf3ffb8fe61e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421199317,
+            "region_id":85669175
+        }
+    ],
+    "wof:id":421199317,
+    "wof:lastmodified":1505340762,
+    "wof:name":"Duncan Town",
+    "wof:parent_id":85669175,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72583,
+    22.19083,
+    -75.72583,
+    22.19083
+],
+  "geometry": {"coordinates":[-75.72583,22.19083],"type":"Point"}
+}

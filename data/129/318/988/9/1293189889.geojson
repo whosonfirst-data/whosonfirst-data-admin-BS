@@ -1,0 +1,65 @@
+{
+  "id": 1293189889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96667,23.63333,-75.96667,23.63333",
+    "geom:latitude":23.63333,
+    "geom:longitude":-75.96667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Curtis",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572538,
+    "gn:latitude":23.63333,
+    "gn:longitude":-75.96667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Curtis",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572538
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"9c94a52a4d3df26160cc1f398e9b127d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293189889,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1293189889,
+    "wof:lastmodified":1536719491,
+    "wof:name":"Curtis",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96667,
+    23.63333,
+    -75.96667,
+    23.63333
+],
+  "geometry": {"coordinates":[-75.96666999999999,23.63333],"type":"Point"}
+}

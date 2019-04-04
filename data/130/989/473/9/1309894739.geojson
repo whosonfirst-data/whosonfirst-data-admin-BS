@@ -1,0 +1,71 @@
+{
+  "id": 1309894739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.9448,23.64265,-75.9448,23.64265",
+    "geom:latitude":23.64265,
+    "geom:longitude":-75.9448,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Steventon",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571354,
+    "gn:latitude":23.64265,
+    "gn:longitude":-75.9448,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Steventon",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stepentown",
+        "Stevenston",
+        "Stephentown",
+        "Steventon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571354
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"bb4b8d0ade89d32e7b4b3e09a5941e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1309894739,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1309894739,
+    "wof:lastmodified":1537588919,
+    "wof:name":"Steventon",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.9448,
+    23.64265,
+    -75.9448,
+    23.64265
+],
+  "geometry": {"coordinates":[-75.9448,23.64265],"type":"Point"}
+}

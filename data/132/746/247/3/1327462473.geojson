@@ -1,0 +1,67 @@
+{
+  "id": 1327462473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55715,25.39086,-76.55715,25.39086",
+    "geom:latitude":25.39086,
+    "geom:longitude":-76.55715,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Gregory Town",
+    "gn:country_code":"BS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572269,
+    "gn:latitude":25.39086,
+    "gn:longitude":-76.55715,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Gregory Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gregory Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572269
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"cfb37b7131bd6d1bb19ea91c0baf170f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327462473,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327462473,
+    "wof:lastmodified":1537588923,
+    "wof:name":"Gregory Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55715,
+    25.39086,
+    -76.55715,
+    25.39086
+],
+  "geometry": {"coordinates":[-76.55714999999999,25.39086],"type":"Point"}
+}

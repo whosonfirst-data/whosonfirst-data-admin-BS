@@ -1,0 +1,72 @@
+{
+  "id": 1293031643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.72337,25.49907,-76.72337,25.49907",
+    "geom:latitude":25.49907,
+    "geom:longitude":-76.72337,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"The Bluff",
+    "gn:country_code":"BS",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571318,
+    "gn:latitude":25.49907,
+    "gn:longitude":-76.72337,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"The Bluff",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bluff Settlement",
+        "The Bluff Settlement",
+        "Bluff",
+        "The Bluff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571318,
+        "wk:page":"The_Bluff,_Bahamas"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"3beff27c1541f0ce95a47468335dfd32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293031643,
+            "region_id":85669145
+        }
+    ],
+    "wof:id":1293031643,
+    "wof:lastmodified":1537588919,
+    "wof:name":"The Bluff",
+    "wof:parent_id":85669145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.72336999999997,
+    25.49907,
+    -76.72336999999997,
+    25.49907
+],
+  "geometry": {"coordinates":[-76.72336999999997,25.49907],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421170369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.15,25.1,-76.15,25.1",
+    "geom:latitude":25.1,
+    "geom:longitude":-76.15,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Savanna Sound"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3571485,
+    "qs:gn_pop":0,
+    "qs:name":"Savannah Sound",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Central Eleuthera",
+    "qs:photos":351,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":351,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":488969,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":57072,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571485,
+        "gp:id":57072,
+        "qs:id":488969
+    },
+    "wof:country":"BS",
+    "wof:created":1459008850,
+    "wof:geomhash":"cdf676be51cf54775187e39d776ca90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421170369,
+            "region_id":85669147
+        }
+    ],
+    "wof:id":421170369,
+    "wof:lastmodified":1501267678,
+    "wof:name":"Savannah Sound",
+    "wof:parent_id":85669147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15,
+    25.1,
+    -76.15,
+    25.1
+],
+  "geometry": {"coordinates":[-76.15000000000001,25.1],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309840991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22016,24.73095,-76.22016,24.73095",
+    "geom:latitude":24.73095,
+    "geom:longitude":-76.22016,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Davis Harbor",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830953,
+    "gn:latitude":24.73095,
+    "gn:longitude":-76.22016,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Davis Harbor",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Davis Harbor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830953
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"b1003cb5489e20133227871e217d1e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1309840991,
+            "region_id":85669151
+        }
+    ],
+    "wof:id":1309840991,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Davis Harbor",
+    "wof:parent_id":85669151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22015999999998,
+    24.73095,
+    -76.22015999999998,
+    24.73095
+],
+  "geometry": {"coordinates":[-76.22015999999998,24.73095],"type":"Point"}
+}

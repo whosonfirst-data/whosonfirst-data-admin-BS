@@ -1,0 +1,64 @@
+{
+  "id": 1260153933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.01667,23.08333,-75.01667,23.08333",
+    "geom:latitude":23.08333,
+    "geom:longitude":-75.01667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Turnbull",
+    "gn:country_code":"BS",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571290,
+    "gn:latitude":23.08333,
+    "gn:longitude":-75.01667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Turnbull",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571290
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"893476376f26895875e182752eabeba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1260153933,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260153933,
+    "wof:lastmodified":1536888121,
+    "wof:name":"Turnbull",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.01666999999998,
+    23.08333,
+    -75.01666999999998,
+    23.08333
+],
+  "geometry": {"coordinates":[-75.01666999999998,23.08333],"type":"Point"}
+}

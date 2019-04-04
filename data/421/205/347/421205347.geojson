@@ -1,0 +1,74 @@
+{
+  "id": 421205347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.569828,26.304582,-77.569828,26.304582",
+    "geom:latitude":26.304582,
+    "geom:longitude":-77.569828,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Hard Bargain",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Moore's Island",
+    "qs:photos":74,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":74,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":261907,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56949,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56949,
+        "qs:id":261907
+    },
+    "wof:country":"BS",
+    "wof:created":1459010222,
+    "wof:geomhash":"b30da081eeb47984d2ec151a27f10b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421205347,
+            "region_id":85669097
+        }
+    ],
+    "wof:id":421205347,
+    "wof:lastmodified":1527716218,
+    "wof:name":"Hard Bargain",
+    "wof:parent_id":85669097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.569828,
+    26.304582,
+    -77.569828,
+    26.304582
+],
+  "geometry": {"coordinates":[-77.569828,26.304582],"type":"Point"}
+}

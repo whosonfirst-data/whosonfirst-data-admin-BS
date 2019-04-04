@@ -1,0 +1,67 @@
+{
+  "id": 1293093609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.38353,24.1502,-75.38353,24.1502",
+    "geom:latitude":24.1502,
+    "geom:longitude":-75.38353,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bain Town",
+    "gn:country_code":"BS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572879,
+    "gn:latitude":24.1502,
+    "gn:longitude":-75.38353,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Bain Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bain Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572879
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"c2ead3db51ab50f43a452eda82abf937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293093609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293093609,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Bain Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.38353000000002,
+    24.1502,
+    -75.38353000000002,
+    24.1502
+],
+  "geometry": {"coordinates":[-75.38353000000002,24.1502],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293119095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.05,23.68333,-76.05,23.68333",
+    "geom:latitude":23.68333,
+    "geom:longitude":-76.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Anne's Tract Settlement",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572901,
+    "gn:latitude":23.68333,
+    "gn:longitude":-76.05,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Anne\u2019s Tract Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572901
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"467c4dda8666e1e2d83be91c0f254000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293119095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293119095,
+    "wof:lastmodified":1536820368,
+    "wof:name":"Anne's Tract Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.05,
+    23.68333,
+    -76.05,
+    23.68333
+],
+  "geometry": {"coordinates":[-76.05,23.68333],"type":"Point"}
+}

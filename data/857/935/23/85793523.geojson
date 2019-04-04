@@ -1,0 +1,105 @@
+{
+  "id": 85793523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":46502753.060872,
+    "geom:bbox":"-77.332221,25.071287,-77.332221,25.071287",
+    "geom:latitude":25.071287,
+    "geom:longitude":-77.332221,
+    "gn:latitude":25.05,
+    "gn:longitude":-77.33333,
+    "iso:country":"BS",
+    "lbl:latitude":25.071287,
+    "lbl:longitude":-77.332221,
+    "mps:latitude":25.068183,
+    "mps:longitude":-77.334298,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Englerston"
+    ],
+    "name:unk_x_variant":[
+        "Englerston"
+    ],
+    "qs:gn_adm0_cc":"BS",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3571824,
+    "qs:gn_namadm1":"23",
+    "qs:gn_name":"Englerston",
+    "qs:local_max":5165,
+    "qs:local_sum":5165,
+    "qs:localhoods":1,
+    "qs:name":"Englerston",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"New Providence",
+    "qs:name_local":"Nassau",
+    "qs:photo_max":776,
+    "qs:photo_sum":5165,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":108,
+    "qs:woe_adm0":23424758,
+    "qs:woe_adm1":2344777,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":57024,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572432,
+        "gp:id":56910,
+        "qs:id":423328,
+        "qs_pg:id":423328
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"a8afce274ce69030feff302f92b3aa99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":-1,
+            "neighbourhood_id":85793523,
+            "region_id":85669063
+        }
+    ],
+    "wof:id":85793523,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861382,
+    "wof:name":"Englerston",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.332221,
+    25.071287,
+    -77.332221,
+    25.071287
+],
+  "geometry": {"coordinates":[-77.332221,25.071287],"type":"Point"}
+}

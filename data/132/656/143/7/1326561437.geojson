@@ -1,0 +1,65 @@
+{
+  "id": 1326561437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93333,24.86667,-77.93333,24.86667",
+    "geom:latitude":24.86667,
+    "geom:longitude":-77.93333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Seminets",
+    "gn:country_code":"BS",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571467,
+    "gn:latitude":24.86667,
+    "gn:longitude":-77.93333,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Seminets",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571467
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"661c4a6cee6d9d943ae204aa7a192a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1326561437,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":1326561437,
+    "wof:lastmodified":1536942518,
+    "wof:name":"Seminets",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93333,
+    24.86667000000001,
+    -77.93333,
+    24.86667000000001
+],
+  "geometry": {"coordinates":[-77.93333,24.86667000000001],"type":"Point"}
+}

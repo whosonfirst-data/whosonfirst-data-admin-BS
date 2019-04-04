@@ -1,0 +1,66 @@
+{
+  "id": 1209095347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.03333,23.68333,-76.03333,23.68333",
+    "geom:latitude":23.68333,
+    "geom:longitude":-76.03333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baraterre",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572870,
+    "gn:latitude":23.68333,
+    "gn:longitude":-76.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baraterre",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barataria Settlement",
+        "Baraterre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572870
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"4c2b1629dcddc2bfd837ba64b4d64733",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209095347
+        }
+    ],
+    "wof:id":1209095347,
+    "wof:lastmodified":1537588925,
+    "wof:name":"Baraterre",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.03333,
+    23.68333,
+    -76.03333,
+    23.68333
+],
+  "geometry": {"coordinates":[-76.03333000000001,23.68333],"type":"Point"}
+}

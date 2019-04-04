@@ -1,0 +1,70 @@
+{
+  "id": 1327451977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91443,23.58697,-75.91443,23.58697",
+    "geom:latitude":23.58697,
+    "geom:longitude":-75.91443,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Forest",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572383,
+    "gn:latitude":23.58697,
+    "gn:longitude":-75.91443,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Forest",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "The Forest",
+        "Forest Settlement",
+        "Forest"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572383
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"16a65141964ef211b505d94ca2f45ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327451977,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1327451977,
+    "wof:lastmodified":1537588923,
+    "wof:name":"Forest",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91443000000002,
+    23.58697,
+    -75.91443000000002,
+    23.58697
+],
+  "geometry": {"coordinates":[-75.91443000000002,23.58697],"type":"Point"}
+}

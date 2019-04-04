@@ -1,0 +1,65 @@
+{
+  "id": 1243063227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0,23.63333,-76.0,23.63333",
+    "geom:latitude":23.63333,
+    "geom:longitude":-76.0,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Stuart Manor",
+    "gn:country_code":"BS",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571345,
+    "gn:latitude":23.63333,
+    "gn:longitude":-76.0,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Stuart Manor",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571345
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2ad6aa752eb60c99df63e5dae9c6f8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1243063227,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1243063227,
+    "wof:lastmodified":1536859632,
+    "wof:name":"Stuart Manor",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0,
+    23.63333,
+    -76.0,
+    23.63333
+],
+  "geometry": {"coordinates":[-76.0,23.63333],"type":"Point"}
+}

@@ -1,0 +1,227 @@
+{
+  "id": 85669185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025174,
+    "geom:area_square_m":287837959.356488,
+    "geom:bbox":"-73.1660050117,22.2882347682,-72.7461645167,22.4595401065",
+    "geom:latitude":22.378028,
+    "geom:longitude":-72.972701,
+    "gn:population":251,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Mayaguana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":22.394251,
+    "lbl:longitude":-73.060139,
+    "mps:latitude":22.394251,
+    "mps:longitude":-73.060139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ceb_x_preferred":[
+        "Mayaguana Island"
+    ],
+    "name:deu_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03b9\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u0627\u06af\u0648\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:fra_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:ger_x_preferred":[
+        "Mayaguana District"
+    ],
+    "name:glg_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:ita_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc57c\uacfc\ub098 \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:por_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u044f\u0433\u0443\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:swe_x_preferred":[
+        "Mayaguana Island"
+    ],
+    "name:tgl_x_preferred":[
+        "Mayaguana"
+    ],
+    "name:unk_x_variant":[
+        "Mayaguana District"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e9e\u74dc\u7d0d\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5037",
+    "ne:adm1_code":"BHS-5037",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.MG",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5037",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF16",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.16",
+    "ne:gn_id":"3571894",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mayaguana District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF16",
+    "ne:gns_id":"-1543762",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mayaguana District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-MG",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"22.38490000000",
+    "ne:longitude":"-73.02950000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Mayaguana",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MG",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Mayaguana",
+    "ne:woe_id":2344774,
+    "ne:woe_label":"Mayaguana, BS, The Bahamas",
+    "ne:woe_name":"Mayaguana",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Mayaguana",
+    "qs:a1_lc":"BHS-5037",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Abraham's Bay",
+    "statoids:country":"BS",
+    "statoids:gec":"BF16",
+    "statoids:hasc":"BS.MG",
+    "statoids:iso":"MG",
+    "statoids:name":"Mayaguana",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-MG",
+    "wd:wordcount":763,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF16",
+        "gn:id":3571894,
+        "gp:id":2344774,
+        "hasc:id":"BS.MG",
+        "iso:id":"BS-MG",
+        "qs:id":1285019,
+        "unlc:id":"BS-MG",
+        "wd:id":"Q21712462"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"f1c1ce366ae47f9684f0ea308cd527ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669185
+        }
+    ],
+    "wof:id":85669185,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Mayaguana",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"MG",
+    "wof:subdivision":"BS-MG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1660050117219,
+    22.28823476822004,
+    -72.74616451667907,
+    22.45954010649075
+],
+  "geometry": {"coordinates":[[[-73.1391495431169,22.36334870048222],[-73.15640214804068,22.36766185171314],[-73.16600501172189,22.37421295866119],[-73.16372636617882,22.38369375196515],[-73.14537512875916,22.39687734641245],[-73.15111243379175,22.40395742469542],[-73.15151933474948,22.40859609633281],[-73.14537512875916,22.41860586097175],[-73.14069576729577,22.43154531556394],[-73.14244544150387,22.44228750246634],[-73.14224199057537,22.4513613957119],[-73.13170325370214,22.45954010649075],[-73.11457272005492,22.43854401239628],[-73.10606848886965,22.43349844070053],[-73.09080969980778,22.43158600538987],[-73.09089107945971,22.43366120000445],[-73.08511308460112,22.43817780216386],[-73.07705644419951,22.44285716452657],[-73.07022050667103,22.44525788044689],[-73.06314042928733,22.4447289082126],[-73.04824785045787,22.44013092730052],[-73.03990637857646,22.43903229390531],[-73.01520748603662,22.43048737199467],[-72.96373450364439,22.39765045850191],[-72.93993079267193,22.39687734641245],[-72.94481360596313,22.40249258016848],[-72.95360266772889,22.41860586097175],[-72.92027747272715,22.40289948112621],[-72.90363521968959,22.39907461140422],[-72.89281165313525,22.4042829451019],[-72.87710527328971,22.3930117859652],[-72.86168372312528,22.38686757997488],[-72.84373938666334,22.38434479457663],[-72.82046464792512,22.3837751325164],[-72.8137914697005,22.38100820546435],[-72.80597897005339,22.37425364848713],[-72.79283606723067,22.35960521041216],[-72.78331458230207,22.35321686456672],[-72.76366126145803,22.35321686456672],[-72.75499427006946,22.34967682542521],[-72.74616451667907,22.33128489817955],[-72.75088456886772,22.3112246772771],[-72.76382402256053,22.29486725571934],[-72.77944902275414,22.28823476822004],[-72.79723059811357,22.29364655194689],[-72.84373938666334,22.33600495036819],[-72.86400305849429,22.3499209661797],[-72.87999426981963,22.35822174733585],[-72.89757239514989,22.36225006708696],[-72.92292233030128,22.36334870048222],[-72.93419348853865,22.36212799760904],[-72.94912675719405,22.35700104446266],[-72.95702063649316,22.35590241106746],[-72.96882076696477,22.3580996769586],[-72.97533118408683,22.36298248935043],[-72.9804581372332,22.36786530264163],[-72.9883520165323,22.37018463711138],[-73.009917772687,22.36595286733103],[-73.0495499338823,22.34662506689335],[-73.07371985598655,22.3422305360105],[-73.08429928268572,22.34438711117627],[-73.09097246001096,22.34906647353898],[-73.09593665295415,22.35370514517638],[-73.10130774595569,22.35590241106746],[-73.1391495431169,22.36334870048222]]],"type":"Polygon"}
+}

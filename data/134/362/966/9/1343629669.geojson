@@ -1,0 +1,68 @@
+{
+  "id": 1343629669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.99381,22.41143,-73.99381,22.41143",
+    "geom:latitude":22.41143,
+    "geom:longitude":-73.99381,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Pompey Bay",
+    "gn:country_code":"BS",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571661,
+    "gn:latitude":22.41143,
+    "gn:longitude":-73.99381,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Pompey Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pompey Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571661
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"1a7cc02ecc18d4727244c67260326430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343629669,
+            "region_id":85669181
+        }
+    ],
+    "wof:id":1343629669,
+    "wof:lastmodified":1537588921,
+    "wof:name":"Pompey Bay",
+    "wof:parent_id":85669181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99381,
+    22.41143,
+    -73.99381,
+    22.41143
+],
+  "geometry": {"coordinates":[-73.99381,22.41143],"type":"Point"}
+}

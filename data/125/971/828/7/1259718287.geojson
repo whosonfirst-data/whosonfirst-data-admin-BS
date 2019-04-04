@@ -1,0 +1,71 @@
+{
+  "id": 1259718287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99571,25.12188,-77.99571,25.12188",
+    "geom:latitude":25.12188,
+    "geom:longitude":-77.99571,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Conch Sound Settlement",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572606,
+    "gn:latitude":25.12188,
+    "gn:longitude":-77.99571,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Conch Sound Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Conch Sound Settlement"
+    ],
+    "name:eng_x_variant":[
+        "Conch Sound"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572606
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"ab723462de30aea02d688fdf3b417fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259718287,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":1259718287,
+    "wof:lastmodified":1537588924,
+    "wof:name":"Conch Sound Settlement",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99571,
+    25.12188,
+    -77.99571,
+    25.12188
+],
+  "geometry": {"coordinates":[-77.99571,25.12188],"type":"Point"}
+}

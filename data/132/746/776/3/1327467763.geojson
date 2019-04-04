@@ -1,0 +1,68 @@
+{
+  "id": 1327467763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4438,26.71907,-77.4438,26.71907",
+    "geom:latitude":26.71907,
+    "geom:longitude":-77.4438,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Normans Castle",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571803,
+    "gn:latitude":26.71907,
+    "gn:longitude":-77.4438,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Normans Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Norman Castle",
+        "Normans Castle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571803
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"baf70868dcb35644fe5949ccdcc05f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327467763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327467763,
+    "wof:lastmodified":1537588921,
+    "wof:name":"Normans Castle",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4438,
+    26.71907,
+    -77.4438,
+    26.71907
+],
+  "geometry": {"coordinates":[-77.4438,26.71907],"type":"Point"}
+}

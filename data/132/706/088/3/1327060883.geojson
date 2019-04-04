@@ -1,0 +1,64 @@
+{
+  "id": 1327060883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62529,24.23461,-77.62529,24.23461",
+    "geom:latitude":24.23461,
+    "geom:longitude":-77.62529,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Bastian Point",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572856,
+    "gn:latitude":24.23461,
+    "gn:longitude":-77.62529,
+    "gn:modification_date":"2013-11-10",
+    "gn:name":"Bastian Point",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572856
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2dc6af0fe1042ca5bd4aa939abeda4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327060883,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327060883,
+    "wof:lastmodified":1536719777,
+    "wof:name":"Bastian Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62529,
+    24.23461,
+    -77.62529,
+    24.23461
+],
+  "geometry": {"coordinates":[-77.62529000000001,24.23461],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 421185995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.760887,24.689525,-77.760887,24.689525",
+    "geom:latitude":24.689525,
+    "geom:longitude":-77.760887,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Fresh Creek"
+    ],
+    "name:ger_x_preferred":[
+        "Fresh Creek"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Fresh Creek",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Central Andros",
+    "qs:photos":484,
+    "qs:photos_1k":98,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":484,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1057079,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56820,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56820,
+        "qs:id":1057079,
+        "wd:id":"Q14209513"
+    },
+    "wof:country":"BS",
+    "wof:created":1459009461,
+    "wof:geomhash":"32376fe540e7e5cc114e3627d8a81f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421185995,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":421185995,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Fresh Creek",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.760887,
+    24.689525,
+    -77.760887,
+    24.689525
+],
+  "geometry": {"coordinates":[-77.760887,24.689525],"type":"Point"}
+}

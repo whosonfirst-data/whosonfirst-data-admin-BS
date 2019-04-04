@@ -1,0 +1,68 @@
+{
+  "id": 1226682805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23333,25.16667,-76.23333,25.16667",
+    "geom:latitude":25.16667,
+    "geom:longitude":-76.23333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Governor's Harbour",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3572313,
+    "gn:latitude":25.16667,
+    "gn:longitude":-76.23333,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Governor\u2019s Harbour",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Governor Harbor",
+        "Governor Harbour",
+        "Governors Harbor",
+        "Governor\u2019s Harbour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572313,
+        "wk:page":"Governor%27s_Harbour"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"1aeafb26ba5cd63d7732db6ecb23ce48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226682805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226682805,
+    "wof:lastmodified":1537588923,
+    "wof:name":"Governor's Harbour",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23333000000002,
+    25.16667,
+    -76.23333000000002,
+    25.16667
+],
+  "geometry": {"coordinates":[-76.23333000000002,25.16667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226676613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05,25.06667,-78.05,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":-78.05,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"San Andros",
+    "gn:country_code":"BS",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3571523,
+    "gn:latitude":25.06667,
+    "gn:longitude":-78.05,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"San Andros",
+    "gn:population":7800,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andros Bahama Village",
+        "San Andros"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571523,
+        "wk:page":"Andros_Island"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"28fcbad0d4bbe09dde42cf4c2692a043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1226676613,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":1226676613,
+    "wof:lastmodified":1537588920,
+    "wof:name":"San Andros",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:population":7800,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05,
+    25.06667,
+    -78.05,
+    25.06667
+],
+  "geometry": {"coordinates":[-78.05,25.06667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343479099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91667,23.61667,-75.91667,23.61667",
+    "geom:latitude":23.61667,
+    "geom:longitude":-75.91667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rokers Point Settlement",
+    "gn:country_code":"BS",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571579,
+    "gn:latitude":23.61667,
+    "gn:longitude":-75.91667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Rokers Point Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571579
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"9eaa7e9c0220bffbe214d923f3543a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343479099,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1343479099,
+    "wof:lastmodified":1536719618,
+    "wof:name":"Rokers Point Settlement",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91667,
+    23.61667000000001,
+    -75.91667,
+    23.61667000000001
+],
+  "geometry": {"coordinates":[-75.91667,23.61667000000001],"type":"Point"}
+}

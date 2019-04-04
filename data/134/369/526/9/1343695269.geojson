@@ -1,0 +1,68 @@
+{
+  "id": 1343695269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.63751,24.21397,-77.63751,24.21397",
+    "geom:latitude":24.21397,
+    "geom:longitude":-77.63751,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Lisbon Creek",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572076,
+    "gn:latitude":24.21397,
+    "gn:longitude":-77.63751,
+    "gn:modification_date":"2013-11-10",
+    "gn:name":"Lisbon Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lisbon Creek Settlement",
+        "Lisbon Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572076
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"3ed6342d8db7bd975e224f71a8f8c8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343695269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343695269,
+    "wof:lastmodified":1537588922,
+    "wof:name":"Lisbon Creek",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.63750999999998,
+    24.21397,
+    -77.63750999999998,
+    24.21397
+],
+  "geometry": {"coordinates":[-77.63750999999998,24.21397],"type":"Point"}
+}

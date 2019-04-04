@@ -1,0 +1,65 @@
+{
+  "id": 1327486939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46667,24.0,-74.46667,24.0",
+    "geom:latitude":24.0,
+    "geom:longitude":-74.46667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Farquharson",
+    "gn:country_code":"BS",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572417,
+    "gn:latitude":24.0,
+    "gn:longitude":-74.46667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Farquharson",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572417
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"be0e26cf0b7d9c3c788cac5e3196eef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327486939,
+            "region_id":85669163
+        }
+    ],
+    "wof:id":1327486939,
+    "wof:lastmodified":1537096623,
+    "wof:name":"Farquharson",
+    "wof:parent_id":85669163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46667,
+    24.0,
+    -74.46667,
+    24.0
+],
+  "geometry": {"coordinates":[-74.46666999999999,24.0],"type":"Point"}
+}

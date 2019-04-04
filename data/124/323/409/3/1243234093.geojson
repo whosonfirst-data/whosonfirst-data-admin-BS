@@ -1,0 +1,69 @@
+{
+  "id": 1243234093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23597,23.47922,-75.23597,23.47922",
+    "geom:latitude":23.47922,
+    "geom:longitude":-75.23597,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Simms",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571448,
+    "gn:latitude":23.47922,
+    "gn:longitude":-75.23597,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Simms",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simms Settlement",
+        "Simms"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571448
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"973d3f5fa51456218f86623e65afa9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1243234093,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":1243234093,
+    "wof:lastmodified":1537588920,
+    "wof:name":"Simms",
+    "wof:parent_id":85669169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23597,
+    23.47922,
+    -75.23597,
+    23.47922
+],
+  "geometry": {"coordinates":[-75.23596999999999,23.47922],"type":"Point"}
+}

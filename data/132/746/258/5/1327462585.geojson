@@ -1,0 +1,65 @@
+{
+  "id": 1327462585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81667,26.9,-77.81667,26.9",
+    "geom:latitude":26.9,
+    "geom:longitude":-77.81667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Crown Haven",
+    "gn:country_code":"BS",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572553,
+    "gn:latitude":26.9,
+    "gn:longitude":-77.81667,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Crown Haven",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572553,
+        "wk:page":"Crown_Haven"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"708984434f4a091fda3ea379be75e1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1327462585,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327462585,
+    "wof:lastmodified":1537488406,
+    "wof:name":"Crown Haven",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81667,
+    26.9,
+    -77.81667,
+    26.9
+],
+  "geometry": {"coordinates":[-77.81667,26.9],"type":"Point"}
+}

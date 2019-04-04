@@ -1,0 +1,109 @@
+{
+  "id": 421180201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88333,22.53333,-73.88333,22.53333",
+    "geom:latitude":22.53333,
+    "geom:longitude":-73.88333,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:dut_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:eng_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627\u06af \u06a9\u0648\u0631\u0646\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:fre_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u0627\u06af \u06a9\u0648\u0631\u0646\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:ron_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:rum_x_preferred":[
+        "Snug Corner"
+    ],
+    "name:swe_x_preferred":[
+        "Snug Corner"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3571426,
+    "qs:gn_pop":407,
+    "qs:name":"Snug Corner",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"Acklins",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1200081,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":57085,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571426,
+        "gp:id":57085,
+        "qs:id":1200081,
+        "wd:id":"Q1771878",
+        "wk:page":"Snug Corner"
+    },
+    "wof:country":"BS",
+    "wof:created":1459009247,
+    "wof:geomhash":"43674f726e79f70d2d374544d4727161",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421180201
+        }
+    ],
+    "wof:id":421180201,
+    "wof:lastmodified":1527716241,
+    "wof:name":"Snug Corner",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":407,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88333,
+    22.53333,
+    -73.88333,
+    22.53333
+],
+  "geometry": {"coordinates":[-73.88333,22.53333],"type":"Point"}
+}

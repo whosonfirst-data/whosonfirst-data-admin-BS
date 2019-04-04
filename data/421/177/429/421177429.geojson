@@ -1,0 +1,71 @@
+{
+  "id": 421177429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.68333,26.48333,-78.68333,26.48333",
+    "geom:latitude":26.48333,
+    "geom:longitude":-78.68333,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Philippi Settlement"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3571680,
+    "qs:gn_pop":0,
+    "qs:name":"Pinders Point",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"City of Freeport",
+    "qs:photos":112,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340548,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":57041,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571680,
+        "gp:id":57041,
+        "qs:id":1340548
+    },
+    "wof:country":"BS",
+    "wof:created":1459009144,
+    "wof:geomhash":"6570a7c7ffc4a39ba6b3e952ae188b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421177429
+        }
+    ],
+    "wof:id":421177429,
+    "wof:lastmodified":1501267679,
+    "wof:name":"Pinders Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68333,
+    26.48333,
+    -78.68333,
+    26.48333
+],
+  "geometry": {"coordinates":[-78.68333,26.48333],"type":"Point"}
+}

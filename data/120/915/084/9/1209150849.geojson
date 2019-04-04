@@ -1,0 +1,61 @@
+{
+  "id": 1209150849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,22.8,-74.25,22.8",
+    "geom:latitude":22.8,
+    "geom:longitude":-74.25,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Moss Town",
+    "gn:country_code":"BS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571844,
+    "gn:latitude":22.8,
+    "gn:longitude":-74.25,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Moss Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571844
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"42ef02401a889a82f0998feb83d36444",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209150849
+        }
+    ],
+    "wof:id":1209150849,
+    "wof:lastmodified":1536296209,
+    "wof:name":"Moss Town",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    22.8,
+    -74.25,
+    22.8
+],
+  "geometry": {"coordinates":[-74.25,22.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243422899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.53333,25.03333,-77.53333,25.03333",
+    "geom:latitude":25.03333,
+    "geom:longitude":-77.53333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Waterloo",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571241,
+    "gn:latitude":25.03333,
+    "gn:longitude":-77.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Waterloo",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "West Waterloo",
+        "Waterloo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571241
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"b23cd8ee6a0ceb91a80e5d6630e7f2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1243422899,
+            "region_id":85669063
+        }
+    ],
+    "wof:id":1243422899,
+    "wof:lastmodified":1537588918,
+    "wof:name":"Waterloo",
+    "wof:parent_id":85669063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.53333,
+    25.03333,
+    -77.53333,
+    25.03333
+],
+  "geometry": {"coordinates":[-77.53333000000001,25.03333],"type":"Point"}
+}

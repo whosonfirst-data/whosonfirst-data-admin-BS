@@ -1,0 +1,65 @@
+{
+  "id": 1344090677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.98499,25.0526,-77.98499,25.0526",
+    "geom:latitude":25.0526,
+    "geom:longitude":-77.98499,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"New Town",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830930,
+    "gn:latitude":25.0526,
+    "gn:longitude":-77.98499,
+    "gn:modification_date":"2014-01-19",
+    "gn:name":"New Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830930
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"ae78a1ed6c738dbbc92a3184507fb31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1344090677,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":1344090677,
+    "wof:lastmodified":1536831081,
+    "wof:name":"New Town",
+    "wof:parent_id":85669107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.98499,
+    25.0526,
+    -77.98499,
+    25.0526
+],
+  "geometry": {"coordinates":[-77.98499,25.0526],"type":"Point"}
+}

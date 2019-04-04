@@ -1,0 +1,70 @@
+{
+  "id": 1293090037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7658,23.49052,-75.7658,23.49052",
+    "geom:latitude":23.49052,
+    "geom:longitude":-75.7658,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Michelson",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571881,
+    "gn:latitude":23.49052,
+    "gn:longitude":-75.7658,
+    "gn:modification_date":"2013-05-01",
+    "gn:name":"Michelson",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitchison",
+        "Michelson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571881
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"4b0b4a5572fbf7e671fa982d58c9c8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293090037,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1293090037,
+    "wof:lastmodified":1537588921,
+    "wof:name":"Michelson",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7658,
+    23.49052,
+    -75.7658,
+    23.49052
+],
+  "geometry": {"coordinates":[-75.7658,23.49052],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259777117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70421,23.46312,-75.70421,23.46312",
+    "geom:latitude":23.46312,
+    "geom:longitude":-75.70421,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rolletown",
+    "gn:country_code":"BS",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571578,
+    "gn:latitude":23.46312,
+    "gn:longitude":-75.70421,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Rolletown",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rolle Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571578
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"6a3e4f40517d59eab6f672ce4b2abfba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259777117,
+            "region_id":85669129
+        }
+    ],
+    "wof:id":1259777117,
+    "wof:lastmodified":1537588920,
+    "wof:name":"Rolletown",
+    "wof:parent_id":85669129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70421,
+    23.46312,
+    -75.70421,
+    23.46312
+],
+  "geometry": {"coordinates":[-75.70421,23.46312],"type":"Point"}
+}

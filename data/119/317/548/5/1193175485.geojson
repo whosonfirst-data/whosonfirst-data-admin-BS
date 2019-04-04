@@ -1,0 +1,65 @@
+{
+  "id": 1193175485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21994,22.76376,-74.21994,22.76376",
+    "geom:latitude":22.76376,
+    "geom:longitude":-74.21994,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Cabbage Hill",
+    "gn:country_code":"BS",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572709,
+    "gn:latitude":22.76376,
+    "gn:longitude":-74.21994,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Cabbage Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572709
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"a2aea2c17ad6aa1b57d4c212356c4ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1193175485,
+            "region_id":85669177
+        }
+    ],
+    "wof:id":1193175485,
+    "wof:lastmodified":1536375824,
+    "wof:name":"Cabbage Hill",
+    "wof:parent_id":85669177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21994000000002,
+    22.76376,
+    -74.21994000000002,
+    22.76376
+],
+  "geometry": {"coordinates":[-74.21994000000002,22.76376],"type":"Point"}
+}

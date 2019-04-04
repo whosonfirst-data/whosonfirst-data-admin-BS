@@ -1,0 +1,222 @@
+{
+  "id": 421186569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.529275,24.070133,-74.529275,24.070133",
+    "geom:latitude":24.070133,
+    "geom:longitude":-74.529275,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:aze_x_preferred":[
+        "Kob\u0259rn Taun"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u045e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u043e\u043a\u0431\u044d\u0440\u043d \u0422\u0430\u045e\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043a\u0431\u044a\u0440\u043d \u0422\u0430\u0443\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u0443\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03ba\u03bc\u03c0\u03b5\u03c1\u03bd \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:epo_x_preferred":[
+        "Kokburno"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9 \u0628\u0631\u0646 \u062a\u0627\u0648\u0646\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:fra_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:fry_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:glg_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:hbs_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d1\u05d5\u05e8\u05df \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:hun_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:ind_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:ita_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30c3\u30af\u30d0\u30fc\u30f3\u30bf\u30a6\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d9\u10d1\u10d4\u10e0\u10dc-\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ubc88\ud0c0\uc6b4"
+    ],
+    "name:lav_x_preferred":[
+        "Kokb\u0113rntauna"
+    ],
+    "name:lit_x_preferred":[
+        "Kobern Taunas"
+    ],
+    "name:lmo_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u0915\u092c\u0930\u094d\u0928 \u091f\u093e\u0909\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u043d \u0422\u0430\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:nld_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:nor_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:pms_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:pol_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:por_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u0443\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:spa_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u043d \u0422\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0b95\u0bcd\u0baa\u0bc7\u0bb0\u0bcd\u0ba3\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e47\u0e2d\u0e01\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e19\u0e17\u0e32\u0e27\u0e19\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u06a9 \u0628\u0631\u0646 \u0679\u0627\u0624\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:war_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:yor_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u4f2f\u6069\u57ce"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cockburn Town",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"San Salvador",
+    "qs:photos":1006,
+    "qs:photos_1k":204,
+    "qs:photos_9k":4,
+    "qs:photos_9r":7,
+    "qs:photos_all":1006,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074029,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56874,
+    "src:geom":"quattroshapes",
+    "wd:latitude":21.460278,
+    "wd:longitude":-71.141389,
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56874,
+        "qs:id":1074029
+    },
+    "wof:country":"BS",
+    "wof:created":1459009484,
+    "wof:geomhash":"3e3c4fda4e18af4ce4a19128dbe7cf79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421186569
+        }
+    ],
+    "wof:id":421186569,
+    "wof:lastmodified":1527716310,
+    "wof:name":"Cockburn Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.529275,
+    24.070133,
+    -74.529275,
+    24.070133
+],
+  "geometry": {"coordinates":[-74.529275,24.070133],"type":"Point"}
+}

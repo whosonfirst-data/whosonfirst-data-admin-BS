@@ -1,0 +1,67 @@
+{
+  "id": 1259482297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.27854,25.55253,-79.27854,25.55253",
+    "geom:latitude":25.55253,
+    "geom:longitude":-79.27854,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Louis Town",
+    "gn:country_code":"BS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571995,
+    "gn:latitude":25.55253,
+    "gn:longitude":-79.27854,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Louis Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Louis Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571995
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"d312f9041d77a5023f01cac518e409b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259482297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259482297,
+    "wof:lastmodified":1537588922,
+    "wof:name":"Louis Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.27854,
+    25.55253,
+    -79.27854,
+    25.55253
+],
+  "geometry": {"coordinates":[-79.27854000000001,25.55253],"type":"Point"}
+}

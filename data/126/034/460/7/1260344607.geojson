@@ -1,0 +1,69 @@
+{
+  "id": 1260344607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13847,22.32116,-74.13847,22.32116",
+    "geom:latitude":22.32116,
+    "geom:longitude":-74.13847,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Binnacle Hill",
+    "gn:country_code":"BS",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572804,
+    "gn:latitude":22.32116,
+    "gn:longitude":-74.13847,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Binnacle Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binnacle Hill Settlement",
+        "Binnacle Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572804
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"81b0c92bb3cbd9f67e2c8b7426c0c679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1260344607,
+            "region_id":85669181
+        }
+    ],
+    "wof:id":1260344607,
+    "wof:lastmodified":1537588925,
+    "wof:name":"Binnacle Hill",
+    "wof:parent_id":85669181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13847,
+    22.32116,
+    -74.13847,
+    22.32116
+],
+  "geometry": {"coordinates":[-74.13847,22.32116],"type":"Point"}
+}

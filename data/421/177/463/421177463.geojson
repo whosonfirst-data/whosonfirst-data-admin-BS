@@ -1,0 +1,77 @@
+{
+  "id": 421177463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51783,25.00264,-77.51783,25.00264",
+    "geom:latitude":25.00264,
+    "geom:longitude":-77.51783,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Adelaide Village"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3572933,
+    "qs:gn_pop":0,
+    "qs:name":"Adelaide",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"New Providence",
+    "qs:photos":1869,
+    "qs:photos_1k":379,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1869,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":423352,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":56810,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572933,
+        "gp:id":56810,
+        "qs:id":423352
+    },
+    "wof:country":"BS",
+    "wof:created":1459009145,
+    "wof:geomhash":"84c8b1813a32db1a666f2c1570886d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":421177463,
+            "region_id":85669063
+        }
+    ],
+    "wof:id":421177463,
+    "wof:lastmodified":1513813962,
+    "wof:name":"Adelaide",
+    "wof:parent_id":85669063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51783,
+    25.00264,
+    -77.51783,
+    25.00264
+],
+  "geometry": {"coordinates":[-77.51783,25.00264],"type":"Point"}
+}

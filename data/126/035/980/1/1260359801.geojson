@@ -1,0 +1,61 @@
+{
+  "id": 1260359801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08333,23.25,-75.08333,23.25",
+    "geom:latitude":23.25,
+    "geom:longitude":-75.08333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bowers",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572745,
+    "gn:latitude":23.25,
+    "gn:longitude":-75.08333,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Bowers",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572745
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"72bedac9f8c2d9b322b87a181e0fd06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260359801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260359801,
+    "wof:lastmodified":1536606914,
+    "wof:name":"Bowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08333,
+    23.25,
+    -75.08333,
+    23.25
+],
+  "geometry": {"coordinates":[-75.08333,23.25],"type":"Point"}
+}

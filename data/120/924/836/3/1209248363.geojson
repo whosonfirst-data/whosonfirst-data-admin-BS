@@ -1,0 +1,65 @@
+{
+  "id": 1209248363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.99191,26.65798,-77.99191,26.65798",
+    "geom:latitude":26.65798,
+    "geom:longitude":-77.99191,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"McLeans Town",
+    "gn:country_code":"BS",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571886,
+    "gn:latitude":26.65798,
+    "gn:longitude":-77.99191,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"McLeans Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Self Town",
+        "McLeans Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571886
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"6209490b653875a69e4215bee50200e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":1209248363
+        }
+    ],
+    "wof:id":1209248363,
+    "wof:lastmodified":1537588921,
+    "wof:name":"McLeans Town",
+    "wof:parent_id":85632339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.99191,
+    26.65798,
+    -77.99191,
+    26.65798
+],
+  "geometry": {"coordinates":[-77.99191,26.65798],"type":"Point"}
+}

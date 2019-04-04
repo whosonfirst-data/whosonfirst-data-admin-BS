@@ -1,0 +1,67 @@
+{
+  "id": 1293640851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.09585,26.55261,-77.09585,26.55261",
+    "geom:latitude":26.55261,
+    "geom:longitude":-77.09585,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Murphy Town",
+    "gn:country_code":"BS",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571828,
+    "gn:latitude":26.55261,
+    "gn:longitude":-77.09585,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Murphy Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Murphy Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571828
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7f428e6451e422145d940abd77462055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1293640851,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293640851,
+    "wof:lastmodified":1537588921,
+    "wof:name":"Murphy Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.09585,
+    26.55261,
+    -77.09585,
+    26.55261
+],
+  "geometry": {"coordinates":[-77.09585,26.55261],"type":"Point"}
+}

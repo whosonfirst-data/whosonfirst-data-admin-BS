@@ -1,0 +1,65 @@
+{
+  "id": 1276473443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.55,26.3,-77.55,26.3",
+    "geom:latitude":26.3,
+    "geom:longitude":-77.55,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"The Bight",
+    "gn:country_code":"BS",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571320,
+    "gn:latitude":26.3,
+    "gn:longitude":-77.55,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"The Bight",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571320
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"e2915652e19d33a1ad6768bbfdd398ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1276473443,
+            "region_id":85669097
+        }
+    ],
+    "wof:id":1276473443,
+    "wof:lastmodified":1537085241,
+    "wof:name":"The Bight",
+    "wof:parent_id":85669097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.55,
+    26.3,
+    -77.55,
+    26.3
+],
+  "geometry": {"coordinates":[-77.55,26.3],"type":"Point"}
+}

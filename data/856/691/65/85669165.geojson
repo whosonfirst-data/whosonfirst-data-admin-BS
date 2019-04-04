@@ -1,0 +1,224 @@
+{
+  "id": 85669165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008103,
+    "geom:area_square_m":91744842.418546,
+    "geom:bbox":"-75.1236466138,23.6508242867,-74.7772110666,23.8469098981",
+    "geom:latitude":23.694283,
+    "geom:longitude":-74.870541,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Rum Cay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":23.686753,
+    "lbl:longitude":-74.845598,
+    "mps:latitude":23.686753,
+    "mps:longitude":-74.845598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ceb_x_preferred":[
+        "Rum Cay Island"
+    ],
+    "name:deu_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bc \u039a\u03ad\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:eng_x_variant":[
+        "Rum Cay District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645 \u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:fra_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:glg_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:ita_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:kor_x_preferred":[
+        "\ub7fc\ucf00\uc774 \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:por_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c-\u041a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Rum"
+    ],
+    "name:swe_x_preferred":[
+        "Rum Cay Island"
+    ],
+    "name:tgl_x_preferred":[
+        "Rum Cay"
+    ],
+    "name:unk_x_variant":[
+        "Mamana"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u59c6\u5c9b"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5032",
+    "ne:adm1_code":"BHS-5032",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.RC",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5032",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF49",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.49",
+    "ne:gn_id":"8030554",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Rum Cay District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF49",
+    "ne:gns_id":"11057050",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Rum Cay District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-RC",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"23.67870000000",
+    "ne:longitude":"-74.84080000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Rum Cay",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"RC",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Rum_Cay",
+    "ne:woe_id":24551252,
+    "ne:woe_label":"Rum Cay, BS, The Bahamas",
+    "ne:woe_name":"Rum Cay",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Rum Cay",
+    "qs:a1_lc":"BHS-5032",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Rum Cay",
+    "statoids:country":"BS",
+    "statoids:gec":"BF49",
+    "statoids:hasc":"BS.RC",
+    "statoids:iso":"RC",
+    "statoids:name":"Rum Cay",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-RC",
+    "wd:wordcount":647,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF49",
+        "gn:id":8030554,
+        "gp:id":24551252,
+        "hasc:id":"BS.RC",
+        "iso:id":"BS-RC",
+        "qs:id":354863,
+        "unlc:id":"BS-RC",
+        "wd:id":"Q1859950"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"e3e6ed21678f5d950c69cde193f997eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669165
+        }
+    ],
+    "wof:id":85669165,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Rum Cay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"RC",
+    "wof:subdivision":"BS-RC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12364661380013,
+    23.6508242867115,
+    -74.77721106663739,
+    23.84690989807336
+],
+  "geometry": {"coordinates":[[[[-74.78726152290091,23.68406810116198],[-74.79369055857239,23.67133209839767],[-74.8037817046619,23.66404857008547],[-74.82494055895961,23.66494375255218],[-74.82494055895961,23.65867747618461],[-74.8187149733173,23.65106842746599],[-74.8367406885319,23.6508242867115],[-74.86074785133223,23.6579043640952],[-74.87279212075975,23.67234935124162],[-74.89085852759894,23.664740302523],[-74.92389889202019,23.6644554710432],[-74.94163977755363,23.65867747618461],[-74.94538326672432,23.68158600558974],[-74.93862870974709,23.69432200745473],[-74.92308509010479,23.70123932553452],[-74.90005449122174,23.70648834815881],[-74.84972083205071,23.72011953338978],[-74.8123673172978,23.71967194260611],[-74.79963131363417,23.71454498945974],[-74.77721106663739,23.6996524115296],[-74.78726152290091,23.68406810116198]]],[[[-75.11070716100664,23.81867096639206],[-75.11742102815788,23.81513092725055],[-75.12364661380013,23.83100006729933],[-75.11729895688131,23.84544505444575],[-75.10903886555116,23.84690989807336],[-75.10606848846993,23.84235260608796],[-75.10578365788945,23.83144765808299],[-75.11070716100664,23.81867096639206]]]],"type":"MultiPolygon"}
+}

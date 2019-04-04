@@ -1,0 +1,64 @@
+{
+  "id": 1226461317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27705,24.77894,-76.27705,24.77894",
+    "geom:latitude":24.77894,
+    "geom:longitude":-76.27705,
+    "gn:asciiname":"Freetown",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10793775,
+    "gn:latitude":24.77894,
+    "gn:longitude":-76.27705,
+    "gn:modification_date":"2015-09-24",
+    "gn:name":"Freetown",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10793775
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"288f06f136cadee5e9b834f34137675b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1226461317,
+            "region_id":85669151
+        }
+    ],
+    "wof:id":1226461317,
+    "wof:lastmodified":1536620969,
+    "wof:name":"Freetown",
+    "wof:parent_id":85669151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27705,
+    24.77894,
+    -76.27705,
+    24.77894
+],
+  "geometry": {"coordinates":[-76.27705,24.77894],"type":"Point"}
+}

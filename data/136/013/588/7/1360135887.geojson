@@ -1,0 +1,65 @@
+{
+  "id": 1360135887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.06036,22.72917,-74.06036,22.72917",
+    "geom:latitude":22.72917,
+    "geom:longitude":-74.06036,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Browns",
+    "gn:country_code":"BS",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572728,
+    "gn:latitude":22.72917,
+    "gn:longitude":-74.06036,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Browns",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572728
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"df434559680de1665b673d48c522ecb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1360135887,
+            "region_id":85669177
+        }
+    ],
+    "wof:id":1360135887,
+    "wof:lastmodified":1536871444,
+    "wof:name":"Browns",
+    "wof:parent_id":85669177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06036,
+    22.72917,
+    -74.06036,
+    22.72917
+],
+  "geometry": {"coordinates":[-74.06036,22.72917],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1293134609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.78333,26.51667,-78.78333,26.51667",
+    "geom:latitude":26.51667,
+    "geom:longitude":-78.78333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Eight Mile Rock",
+    "gn:country_code":"BS",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572443,
+    "gn:latitude":26.51667,
+    "gn:longitude":-78.78333,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Eight Mile Rock",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572443
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"babb1cc9bb447feccf8701e8a3680c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293134609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293134609,
+    "wof:lastmodified":1536798957,
+    "wof:name":"Eight Mile Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.78333,
+    26.51667,
+    -78.78333,
+    26.51667
+],
+  "geometry": {"coordinates":[-78.78333000000001,26.51667],"type":"Point"}
+}

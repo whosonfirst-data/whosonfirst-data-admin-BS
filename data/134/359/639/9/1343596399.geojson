@@ -1,0 +1,65 @@
+{
+  "id": 1343596399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.73333,26.55,-78.73333,26.55",
+    "geom:latitude":26.55,
+    "geom:longitude":-78.73333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Pine Ridge",
+    "gn:country_code":"BS",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571675,
+    "gn:latitude":26.55,
+    "gn:longitude":-78.73333,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Pine Ridge",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571675
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"68fbcc70d9cd21eb7952782d8f46a776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1343596399,
+            "region_id":85669071
+        }
+    ],
+    "wof:id":1343596399,
+    "wof:lastmodified":1537045564,
+    "wof:name":"Pine Ridge",
+    "wof:parent_id":85669071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.73333000000002,
+    26.55,
+    -78.73333000000002,
+    26.55
+],
+  "geometry": {"coordinates":[-78.73333000000002,26.55],"type":"Point"}
+}

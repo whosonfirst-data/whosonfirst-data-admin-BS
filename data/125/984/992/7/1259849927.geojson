@@ -1,0 +1,70 @@
+{
+  "id": 1259849927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2542,23.58059,-75.2542,23.58059",
+    "geom:latitude":23.58059,
+    "geom:longitude":-75.2542,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Adderly",
+    "gn:cc2":"BS",
+    "gn:country_code":"BS",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572934,
+    "gn:latitude":23.58059,
+    "gn:longitude":-75.2542,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Adderly",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adderleys",
+        "Adderly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572934
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"7dc04b711a37fd48b8f3e3921a8fb9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1259849927,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":1259849927,
+    "wof:lastmodified":1537588926,
+    "wof:name":"Adderly",
+    "wof:parent_id":85669169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2542,
+    23.58059,
+    -75.2542,
+    23.58059
+],
+  "geometry": {"coordinates":[-75.2542,23.58059],"type":"Point"}
+}

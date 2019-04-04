@@ -1,0 +1,65 @@
+{
+  "id": 1260218555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.7,26.51667,-78.7,26.51667",
+    "geom:latitude":26.51667,
+    "geom:longitude":-78.7,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Russell Town",
+    "gn:country_code":"BS",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739568,
+    "gn:latitude":26.51667,
+    "gn:longitude":-78.7,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Russell Town",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739568
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"66e36bb0e721a0b5c07a2bf46d33177a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1260218555,
+            "region_id":85669071
+        }
+    ],
+    "wof:id":1260218555,
+    "wof:lastmodified":1536800127,
+    "wof:name":"Russell Town",
+    "wof:parent_id":85669071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.7,
+    26.51667,
+    -78.7,
+    26.51667
+],
+  "geometry": {"coordinates":[-78.7,26.51667],"type":"Point"}
+}

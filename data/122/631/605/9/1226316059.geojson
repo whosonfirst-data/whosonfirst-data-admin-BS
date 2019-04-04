@@ -1,0 +1,69 @@
+{
+  "id": 1226316059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88429,22.98333,-74.88429,22.98333",
+    "geom:latitude":22.98333,
+    "geom:longitude":-74.88429,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Roses",
+    "gn:country_code":"BS",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571571,
+    "gn:latitude":22.98333,
+    "gn:longitude":-74.88429,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Roses",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roses Settlement",
+        "Roses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571571
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2ce31a3fd49bd4c5c3495320d14b1622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1226316059,
+            "region_id":85669169
+        }
+    ],
+    "wof:id":1226316059,
+    "wof:lastmodified":1537588920,
+    "wof:name":"Roses",
+    "wof:parent_id":85669169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88429000000002,
+    22.98333,
+    -74.88429000000002,
+    22.98333
+],
+  "geometry": {"coordinates":[-74.88429000000002,22.98333],"type":"Point"}
+}

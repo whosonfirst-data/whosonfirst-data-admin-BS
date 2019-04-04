@@ -1,0 +1,65 @@
+{
+  "id": 1260022429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75,24.55,-77.75,24.55",
+    "geom:latitude":24.55,
+    "geom:longitude":-77.75,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Man of War Sound",
+    "gn:country_code":"BS",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3571926,
+    "gn:latitude":24.55,
+    "gn:longitude":-77.75,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Man of War Sound",
+    "gn:population":0,
+    "gn:timezone":"America/Nassau",
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571926
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"2e01fdfe8e694c0ff246dfb61b008e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":1260022429,
+            "region_id":85669111
+        }
+    ],
+    "wof:id":1260022429,
+    "wof:lastmodified":1537072910,
+    "wof:name":"Man of War Sound",
+    "wof:parent_id":85669111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75,
+    24.55,
+    -77.75,
+    24.55
+],
+  "geometry": {"coordinates":[-77.75,24.55],"type":"Point"}
+}

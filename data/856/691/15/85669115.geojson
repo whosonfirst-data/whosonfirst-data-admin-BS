@@ -1,0 +1,299 @@
+{
+  "id": 85669115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.039033,
+    "geom:area_square_m":440447604.295765,
+    "geom:bbox":"-77.9420466788,23.980210679,-77.6312149731,24.3029645855",
+    "geom:latitude":24.139097,
+    "geom:longitude":-77.782314,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "Mangrove Cay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":24.105586,
+    "lbl:longitude":-77.810571,
+    "mps:latitude":24.105586,
+    "mps:longitude":-77.810571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u063a\u0631\u0648\u0641 \u0643\u0627\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u0997\u09cd\u09b0\u09cb\u09ad \u0995\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "Illa de Mangrove"
+    ],
+    "name:ceb_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:dan_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:dut_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:eng_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:eng_x_variant":[
+        "Mangrove Cay District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0631\u0648 \u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:fra_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:fre_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d2\u10e0\u10dd\u10d5-\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b3\u03ba\u03c1\u03cc\u03bf\u03c5\u03b2 \u039a\u03ad\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0a82\u0a97\u0acd\u0ab0\u0acb\u0ab5 \u0a95\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9 \u05de\u05e0\u05d2\u05e8\u05d5\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0902\u0917\u094d\u0930\u094b\u0935 \u0915\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:ita_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30b0\u30ed\u30fc\u30d6\u30fb\u30ad\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ccd\u0caf\u0cbe\u0c82\u0c97\u0ccd\u0cb0\u0ccb\u0cb5\u0ccd \u0c95\u0cc7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d2\u10e0\u10dd\u10d5-\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9f9\uadf8\ub85c\ube0c\ucf00\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Mangrovkeja"
+    ],
+    "name:lit_x_preferred":[
+        "Mangrov\u0117 K\u0117jus"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0902\u0917\u094d\u0930\u094b\u0935 \u0915\u093f"
+    ],
+    "name:may_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:nob_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u06af\u0631\u0648 \u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:por_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0440\u043e\u0432-\u041a\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db1\u0dca\u0d9c\u0dca\u0dbb\u0ddd\u0dc0\u0dca \u0d9a\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Mangrove"
+    ],
+    "name:swe_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bcb\u0bb5\u0bcd \u0b95\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c02\u0c17\u0c4d\u0c30\u0c4b\u0c35\u0c4d \u0c15\u0c47"
+    ],
+    "name:tgl_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e21\u0e07\u0e42\u0e01\u0e23\u0e1f \u0e40\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0440\u043e\u0432-\u041a\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u062c\u0631\u0648\u0648\u06cc \u06a9\u0627\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5021",
+    "ne:adm1_code":"BHS-5021",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.MC",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5021",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF44",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.44",
+    "ne:gn_id":"8030549",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mangrove Cay District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF44",
+    "ne:gns_id":"11057037",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mangrove Cay District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-MC",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"24.08060000000",
+    "ne:longitude":"-77.80180000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Mangrove Cay",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MC",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Third Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Mangrove_Cay",
+    "ne:woe_id":24551247,
+    "ne:woe_label":"Mangrove Cay, BS, The Bahamas",
+    "ne:woe_name":"Mangrove Cay",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"Mangrove Cay",
+    "qs:a1_lc":"BHS-5021",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Kemp's Bay",
+    "statoids:country":"BS",
+    "statoids:gec":"BF44",
+    "statoids:hasc":"BS.MC",
+    "statoids:iso":"MC",
+    "statoids:name":"Mangrove Cay",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-MC",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF44",
+        "gn:id":8030549,
+        "gp:id":24551247,
+        "hasc:id":"BS.MC",
+        "iso:id":"BS-MC",
+        "qs:id":1086164,
+        "unlc:id":"BS-MC",
+        "wd:id":"Q2702334"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"8eb3188bd0ec3d621f42131443e1586d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669115
+        }
+    ],
+    "wof:id":85669115,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550317,
+    "wof:name":"Mangrove Cay",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"MC",
+    "wof:subdivision":"BS-MC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94204667881115,
+    23.98021067897969,
+    -77.63121497309248,
+    24.30296458554722
+],
+  "geometry": {"coordinates":[[[-77.74404863213863,24.03546784126792],[-77.78157610725151,24.00832057413521],[-77.82258053316502,23.98021067897969],[-77.83722897034068,23.98480866169041],[-77.83775794167565,23.99591705882523],[-77.83348548116999,24.00958893388224],[-77.83348548116999,24.0217959662109],[-77.84483801995862,24.0333926448547],[-77.85863196449355,24.04096100554602],[-77.86652584469192,24.04755280232001],[-77.86009680902049,24.05597565295409],[-77.86009680902049,24.06273020993132],[-77.87962805858797,24.07396067924202],[-77.94204667881115,24.09686920864709],[-77.93610592374932,24.10447825736571],[-77.92906653619167,24.11123281524226],[-77.91470292869718,24.10252513222912],[-77.90908769404183,24.10529205928117],[-77.90827389212637,24.11261627831863],[-77.90855872270686,24.11737702033327],[-77.90794837082063,24.1267764339853],[-77.91079667932325,24.13133372597071],[-77.91100012845311,24.13580963740492],[-77.9023331370646,24.14472077044724],[-77.89216061132311,24.14964427356443],[-77.86510169178962,24.15794505382121],[-77.85391191320417,24.16583893401963],[-77.84992428327899,24.17430247627829],[-77.84341386615694,24.19887929934026],[-77.83967037698625,24.20673248971269],[-77.80540930879255,24.20892975560378],[-77.792469855999,24.21360911706716],[-77.78237870990949,24.22158437691752],[-77.77887936059398,24.22785065328509],[-77.77672278632747,24.23558177328027],[-77.77074133964106,24.2477481139843],[-77.755726692233,24.25926341387549],[-77.71442623558227,24.27509186409827],[-77.70311438661963,24.28872304932929],[-77.6751602855187,24.30296458554722],[-77.66584225151865,24.28949616141875],[-77.6585180324812,24.27350495009341],[-77.65021725222437,24.26015859634219],[-77.63792884024372,24.25458405241216],[-77.63121497309248,24.24909088723473],[-77.64073645712176,24.23729075766238],[-77.70246334490741,24.19025299687837],[-77.7269587883174,24.1778018255938],[-77.75772050719559,24.17259349189618],[-77.75772050719559,24.16583893401963],[-77.73997962076282,24.16449616166858],[-77.73253333224744,24.15704987225388],[-77.73692786402967,24.14862702072048],[-77.7546280588378,24.14472077044724],[-77.75853430911104,24.14077383034805],[-77.74811764171574,24.13178131765375],[-77.72354081865382,24.11737702033327],[-77.70767167860504,24.12372467725208],[-77.70225989487818,24.11273834869587],[-77.70482337100174,24.09467194185669],[-77.72126217401006,24.06622955924684],[-77.72459876222308,24.05329010645329],[-77.7298477857467,24.04262929920287],[-77.74404863213863,24.03546784126792]]],"type":"Polygon"}
+}

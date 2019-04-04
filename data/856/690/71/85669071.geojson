@@ -1,0 +1,288 @@
+{
+  "id": 85669071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.052621,
+    "geom:area_square_m":581691997.77979,
+    "geom:bbox":"-78.9978735021,26.4919109536,-78.4111774162,26.8105329448",
+    "geom:latitude":26.620929,
+    "geom:longitude":-78.627828,
+    "iso:country":"BS",
+    "label:eng_x_preferred_longname":[
+        "West Grand Bahama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":26.635478,
+    "lbl:longitude":-78.510845,
+    "mps:latitude":26.635478,
+    "mps:longitude":-78.510845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0633\u062a \u063a\u0631\u0627\u0646\u062f \u0628\u0647\u0627\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1 \u09ac\u09be\u09b9\u09be\u09ae\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u5927\u5df4\u54c8\u99ac\u5cf6\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:dut_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:eng_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:eng_x_variant":[
+        "W Grand Bahama"
+    ],
+    "name:fin_x_preferred":[
+        "L\u00e4nsi Grand Bahama"
+    ],
+    "name:fre_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:ger_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03b1\u03c7\u03ac\u03bc\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f \u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1 \u0aac\u0ab9\u0abe\u0aae\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0938\u094d\u091f \u0917\u094d\u0930\u0948\u0902\u0921 \u092c\u0939\u093e\u092e\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Grand Bahama Barat"
+    ],
+    "name:ita_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30b9\u30c8\u30fb\u30b0\u30e9\u30f3\u30c9\u30fb\u30d0\u30cf\u30de"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0ccd \u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd \u0cac\u0cb9\u0cbe\u0cae\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\uadf8\ub79c\ub4dc\ubc14\ud558\ub9c8"
+    ],
+    "name:lav_x_preferred":[
+        "Rietumu Liel\u0101 Bahama"
+    ],
+    "name:lit_x_preferred":[
+        "Vakar\u0173 Did\u017eioji Bahama"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0947\u0938\u094d\u091f \u0917\u094d\u0930\u0901\u0921 \u092c\u0939\u093e\u092e\u093e"
+    ],
+    "name:may_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:nob_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0631\u0646\u062f \u0628\u0627\u0647\u0627\u0645\u0627 \u063a\u0631\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:por_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u0413\u0440\u0430\u043d\u0434-\u0411\u0430\u0433\u0430\u043c\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0d9c\u0dca\u0dbb\u0dd1\u0db1\u0dca\u0da9\u0dca \u0db6\u0dc4\u0db8\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:swe_x_preferred":[
+        "West Grand Bahama District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1   \u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bb9\u0bbe\u0bae\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c17\u0c4d\u0c30\u0c3e\u0c02\u0c21\u0c4d \u0c2c\u0c39\u0c3e\u0c2e\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e2a\u0e15\u0e4c\u0e41\u0e01\u0e23\u0e19\u0e14\u0e4c\u0e1a\u0e32\u0e2e\u0e32\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u0413\u0440\u0430\u043d\u0434-\u0411\u0430\u0433\u0430\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "West Grand Bahama District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u06af\u0631\u06cc\u0646\u0688 \u06c1\u06c1\u0627\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2y Grand Bahama"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BHS",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"BHS-5011",
+    "ne:adm1_code":"BHS-5011",
+    "ne:admin":"The Bahamas",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BS.WG",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5011",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BF54",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"The Bahamas",
+    "ne:gn_a1_code":"BS.54",
+    "ne:gn_id":"8030559",
+    "ne:gn_level":"1",
+    "ne:gn_name":"West Grand Bahama District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BF54",
+    "ne:gns_id":"11057072",
+    "ne:gns_lang":"fas",
+    "ne:gns_level":"1",
+    "ne:gns_name":"West Grand Bahama District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BHS",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BS-WG",
+    "ne:iso_a2":"BS",
+    "ne:labelrank":"20",
+    "ne:latitude":"26.63890000000",
+    "ne:longitude":"-78.90850000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"West Grand Bahama",
+    "ne:name_alt":"",
+    "ne:name_len":17,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"WG",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BHS",
+    "ne:sub_code":"",
+    "ne:type":"Second Schedule District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/West_Grand_Bahama",
+    "ne:woe_id":24551257,
+    "ne:woe_label":"West Grand Bahama, BS, The Bahamas",
+    "ne:woe_name":"West Grand Bahama",
+    "qs:a0":"The Bahamas",
+    "qs:a0_lc":"BS",
+    "qs:a1":"West Grand Bahama",
+    "qs:a1_lc":"BHS-5011",
+    "qs:adm0":"The Bahamas",
+    "qs:adm0_a3":"BHS",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"Eight Mile Rock",
+    "statoids:country":"BS",
+    "statoids:gec":"BF54",
+    "statoids:hasc":"BS.WB",
+    "statoids:iso":"WG",
+    "statoids:name":"West Grand Bahama",
+    "statoids:population":"",
+    "statoids:timezone":"-5~",
+    "statoids:type":"district",
+    "unlc:subdivision":"BS-WG",
+    "wd:wordcount":337,
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BF54",
+        "gn:id":8030559,
+        "gp:id":24551257,
+        "hasc:id":"BS.WB",
+        "iso:id":"BS-WG",
+        "qs:id":354880,
+        "unlc:id":"BS-WG",
+        "wd:id":"Q2702338",
+        "wk:page":"West Grand Bahama"
+    },
+    "wof:country":"BS",
+    "wof:geomhash":"73a7fdfbc35ba2f5a08dd00e0c448d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632339,
+            "region_id":85669071
+        }
+    ],
+    "wof:id":85669071,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550316,
+    "wof:name":"West Grand Bahama",
+    "wof:parent_id":85632339,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:shortcode":"WB",
+    "wof:subdivision":"BS-WG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.99787350206043,
+    26.49191095362767,
+    -78.41117741620474,
+    26.81053294483957
+],
+  "geometry": {"coordinates":[[[[-78.47081458172755,26.76658763241335],[-78.47317460782187,26.76365794515812],[-78.47362219950486,26.7620710311532],[-78.47248287718298,26.75889720314348],[-78.47533118388696,26.75739166968987],[-78.47968502494393,26.75625234646867],[-78.48652096247241,26.75613027609143],[-78.49413001209035,26.76390208501329],[-78.49551347606604,26.77179596611097],[-78.49152584524154,26.77142975497924],[-78.48371334469505,26.76426829614502],[-78.48249264182192,26.76516347951105],[-78.48139400932604,26.76951732056796],[-78.4786677729993,26.77399323110279],[-78.47480221255205,26.77631256737112],[-78.47162838364295,26.77269114857768],[-78.47081458172755,26.76658763241335]]],[[[-78.50340735626446,26.57306549717498],[-78.52147376220432,26.57037995067424],[-78.54015052003041,26.56500885587405],[-78.57046464812498,26.54157135603333],[-78.59007727824377,26.53620026213247],[-78.59812985011246,26.53139588501216],[-78.61276961602493,26.54621456115314],[-78.63592956619647,26.54621456115314],[-78.65669365948474,26.52065875499761],[-78.64644049513271,26.50485342904256],[-78.65577003505905,26.49778847016182],[-78.67671736611351,26.49613150346619],[-78.68613184970508,26.49191095362767],[-78.72696836589733,26.49544569216499],[-78.76683934655858,26.50810420304657],[-78.79108864462523,26.52969976723051],[-78.83455712661009,26.55365117116469],[-78.93959961433069,26.65078778712672],[-78.98729407446194,26.68622467752692],[-78.99787350206043,26.70132070548624],[-78.9871313142587,26.70148346658874],[-78.97838294231889,26.69940827017558],[-78.97093665290419,26.69489166891543],[-78.96434485613014,26.68768952025522],[-78.83580481723851,26.61456940295562],[-78.80606035120422,26.57782623918962],[-78.78622245620136,26.58114350726709],[-78.77037512381287,26.58332478411154],[-78.73815509308304,26.57080854597768],[-78.71428877850428,26.57051994813713],[-78.69172287101367,26.57997003948577],[-78.67125234791746,26.59291820131398],[-78.65751282225892,26.59858854912227],[-78.64578727796049,26.60509679258297],[-78.6379787506188,26.60973098649589],[-78.63425147892258,26.61781943052233],[-78.62161113524564,26.62701354423973],[-78.61901136248434,26.63951757587546],[-78.60443465073848,26.65053474038604],[-78.59219252506495,26.67304830643423],[-78.57363326995943,26.68415929361657],[-78.57594223524592,26.69476950860599],[-78.60000566323072,26.70819733284071],[-78.64159094956261,26.7149925805432],[-78.63467363148288,26.72797272316268],[-78.60741126192016,26.75592682516287],[-78.60155188651032,26.76825592696952],[-78.59382076651514,26.81053294483957],[-78.57477779845658,26.79828522358423],[-78.5571996740257,26.7785505230882],[-78.54426022033289,26.75702545855813],[-78.53917395701245,26.73920319247338],[-78.52025729603736,26.7289953548518],[-78.47440319325273,26.7127684519026],[-78.44585825465469,26.66121569155098],[-78.41117741620474,26.5942475557801],[-78.50340735626446,26.57306549717498]]]],"type":"MultiPolygon"}
+}

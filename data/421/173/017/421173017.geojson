@@ -1,0 +1,102 @@
+{
+  "id": 421173017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.97537,26.67058,-78.97537,26.67058",
+    "geom:latitude":26.67058,
+    "geom:longitude":-78.97537,
+    "iso:country":"BS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0633\u062a \u0627\u0646\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "West End"
+    ],
+    "name:eng_x_preferred":[
+        "West End"
+    ],
+    "name:fre_x_preferred":[
+        "West End"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0633\u062a \u0627\u0646\u062f\u060c \u06af\u0631\u0646\u062f \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:spa_x_preferred":[
+        "West End"
+    ],
+    "name:swe_x_preferred":[
+        "West End"
+    ],
+    "name:unk_x_variant":[
+        "West End Settlement"
+    ],
+    "qs:gn_country":"BS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3571224,
+    "qs:gn_pop":12724,
+    "qs:name":"West End",
+    "qs:name_adm0":"The Bahamas",
+    "qs:name_adm1":"West Grand Bahama",
+    "qs:photos":583,
+    "qs:photos_1k":118,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":583,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":488957,
+    "qs:woe_adm0":23424758,
+    "qs:woe_id":57135,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3571224,
+        "gp:id":57135,
+        "qs:id":488957,
+        "wd:id":"Q1771573",
+        "wk:page":"West End, Grand Bahama"
+    },
+    "wof:country":"BS",
+    "wof:created":1459008962,
+    "wof:geomhash":"a9613a16c3e8ef16b4d1d0f42aff4eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632339,
+            "locality_id":421173017
+        }
+    ],
+    "wof:id":421173017,
+    "wof:lastmodified":1513922277,
+    "wof:name":"West End",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":12724,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bs",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.97537,
+    26.67058,
+    -78.97537,
+    26.67058
+],
+  "geometry": {"coordinates":[-78.97537,26.67058],"type":"Point"}
+}
