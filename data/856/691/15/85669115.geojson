@@ -39,8 +39,11 @@
     "name:dan_x_preferred":[
         "Mangrove Cay"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mangrove Cay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b3\u03ba\u03c1\u03cc\u03bf\u03c5\u03b2 \u039a\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mangrove Cay"
@@ -56,18 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Mangrove Cay"
-    ],
-    "name:fre_x_preferred":[
-        "Mangrove Cay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d2\u10e0\u10dd\u10d5-\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mangrove Cay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03b3\u03ba\u03c1\u03cc\u03bf\u03c5\u03b2 \u039a\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a82\u0a97\u0acd\u0ab0\u0acb\u0ab5 \u0a95\u0ac7"
@@ -105,14 +96,14 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0902\u0917\u094d\u0930\u094b\u0935 \u0915\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mangrove Cay"
+    ],
+    "name:nld_x_preferred":[
         "Mangrove Cay"
     ],
     "name:nob_x_preferred":[
         "Mangrove Cay"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u06af\u0631\u0648 \u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Mangrove Cay"
@@ -276,7 +267,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550317,
+    "wof:lastmodified":1561843485,
     "wof:name":"Mangrove Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -15,28 +15,28 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
-        "Matthew Town"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Matthew Town"
     ],
     "name:eng_x_preferred":[
         "Matthew Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u06cc\u0648 \u062a\u0627\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Matthew Town"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b7\u30e5\u30fc\u30fb\u30bf\u30a6\u30f3"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062a\u06cc\u0648 \u062a\u0627\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Matthew Town"
     ],
     "name:pol_x_preferred":[
         "Matthew Town"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Matthew Town"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":890440077,
-    "wof:lastmodified":1527727102,
+    "wof:lastmodified":1561843486,
     "wof:name":"Matthew Town",
     "wof:parent_id":85669189,
     "wof:placetype":"locality",

@@ -36,14 +36,14 @@
     "name:ceb_x_preferred":[
         "Central Abaco District"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u963f\u5df4\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Central Abaco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Central Abaco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u0386\u03bc\u03c0\u03b1\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Central Abaco"
@@ -56,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Central Abaco"
-    ],
-    "name:fre_x_preferred":[
-        "Central Abaco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10d0\u10d1\u10d0\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Central Abaco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u0386\u03bc\u03c0\u03b1\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a85\u0aac\u0ac7\u0a95\u0acb"
@@ -102,7 +90,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u0905\u0915\u094b\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Central Abaco"
+    ],
+    "name:nld_x_preferred":[
         "Central Abaco"
     ],
     "name:nob_x_preferred":[
@@ -110,9 +101,6 @@
     ],
     "name:nor_x_preferred":[
         "Central Abaco"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0628\u0627\u06a9\u0648 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:pol_x_preferred":[
         "Central Abaco"
@@ -158,6 +146,9 @@
     ],
     "name:vie_x_preferred":[
         "Mi\u1ec1n Trung Abaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u963f\u5df4\u79d1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BHS",
@@ -280,7 +271,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550316,
+    "wof:lastmodified":1561843483,
     "wof:name":"Central Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

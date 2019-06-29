@@ -37,16 +37,10 @@
     "name:ceb_x_preferred":[
         "Acklins Island District"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u6797\u5c9b"
-    ],
     "name:dan_x_preferred":[
         "Acklins"
     ],
     "name:deu_x_preferred":[
-        "Acklins"
-    ],
-    "name:dut_x_preferred":[
         "Acklins"
     ],
     "name:ell_x_preferred":[
@@ -64,20 +58,8 @@
     "name:fra_x_preferred":[
         "Acklins"
     ],
-    "name:fre_x_preferred":[
-        "Acklins"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10da\u10d8\u10dc\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Acklins"
-    ],
     "name:glg_x_preferred":[
         "Acklins"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03ba\u03bb\u03b9\u03bd\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a95\u0acd\u0ab2\u0abf\u0aa8"
@@ -112,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u090d\u0915\u094d\u0932\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Acklins"
     ],
     "name:nld_x_preferred":[
@@ -123,9 +105,6 @@
     ],
     "name:nor_x_preferred":[
         "Acklins"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0644\u06cc\u0646\u0632"
     ],
     "name:pol_x_preferred":[
         "Acklins"
@@ -140,9 +119,6 @@
         "\u0d87\u0d9a\u0dca\u0dbd\u0dd2\u0db1\u0dca\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Acklin Island"
-    ],
-    "name:slo_x_preferred":[
         "Acklin Island"
     ],
     "name:spa_x_preferred":[
@@ -303,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550318,
+    "wof:lastmodified":1561843484,
     "wof:name":"Acklins",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

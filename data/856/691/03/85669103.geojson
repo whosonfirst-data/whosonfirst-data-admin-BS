@@ -37,17 +37,14 @@
     "name:ceb_x_preferred":[
         "Berry Islands District"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u91cc\u7fa4\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "Berry Islands"
     ],
     "name:deu_x_preferred":[
         "Berry Islands"
     ],
-    "name:dut_x_preferred":[
-        "Berry Islands"
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u039c\u03c0\u03ad\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Berry Islands"
@@ -61,20 +58,8 @@
     "name:fra_x_preferred":[
         "\u00celes Berry"
     ],
-    "name:fre_x_preferred":[
-        "\u00celes Berry"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e0\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Berry Islands"
-    ],
     "name:glg_x_preferred":[
         "Illas Berry"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b7\u03c3\u03b9\u03ac \u039c\u03c0\u03ad\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab0\u0ac0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
@@ -112,7 +97,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u0940 \u0906\u0908\u0938\u0932\u0901\u0921\u094d\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kepulauan Berry"
     ],
     "name:nld_x_preferred":[
@@ -123,9 +108,6 @@
     ],
     "name:nor_x_preferred":[
         "Berry Islands"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Wyspy Berry"
@@ -171,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0110\u1ea3o Berry"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u91cc\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BHS",
@@ -294,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550317,
+    "wof:lastmodified":1561843483,
     "wof:name":"Berry Islands",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
