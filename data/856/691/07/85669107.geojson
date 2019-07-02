@@ -39,8 +39,11 @@
     "name:dan_x_preferred":[
         "North Andros"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "North Andros"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c1\u03b8 \u0386\u03bd\u03c4\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "North Andros"
@@ -56,15 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "North Andros"
-    ],
-    "name:fre_x_preferred":[
-        "North Andros"
-    ],
-    "name:ger_x_preferred":[
-        "North Andros"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c1\u03b8 \u0386\u03bd\u03c4\u03c1\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0a8f\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0acb\u0ab8"
@@ -99,14 +93,14 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0905\u0901\u0921\u094d\u0930\u0949\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "North Andros"
+    ],
+    "name:nld_x_preferred":[
         "North Andros"
     ],
     "name:nob_x_preferred":[
         "Nord Andros"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u062f\u0631\u0648\u0633 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "North Andros"
@@ -274,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550317,
+    "wof:lastmodified":1561843484,
     "wof:name":"North Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

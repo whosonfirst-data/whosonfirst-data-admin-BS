@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "West Grand Bahama"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5927\u5df4\u54c8\u99ac\u5cf6\u5340"
-    ],
     "name:dan_x_preferred":[
         "West Grand Bahama"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "West Grand Bahama"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03b1\u03c7\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "West Grand Bahama"
@@ -48,17 +48,14 @@
     "name:eng_x_variant":[
         "W Grand Bahama"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0646\u062f \u0628\u0627\u0647\u0627\u0645\u0627 \u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "L\u00e4nsi Grand Bahama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "West Grand Bahama"
-    ],
-    "name:ger_x_preferred":[
-        "West Grand Bahama"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4 \u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u039c\u03c0\u03b1\u03c7\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f \u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1 \u0aac\u0ab9\u0abe\u0aae\u0abe"
@@ -90,14 +87,14 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u0938\u094d\u091f \u0917\u094d\u0930\u0901\u0921 \u092c\u0939\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "West Grand Bahama"
+    ],
+    "name:nld_x_preferred":[
         "West Grand Bahama"
     ],
     "name:nob_x_preferred":[
         "West Grand Bahama"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0646\u062f \u0628\u0627\u0647\u0627\u0645\u0627 \u063a\u0631\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "West Grand Bahama"
@@ -143,6 +140,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00e2y Grand Bahama"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5927\u5df4\u54c8\u99ac\u5cf6\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BHS",
@@ -265,7 +265,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550316,
+    "wof:lastmodified":1561843483,
     "wof:name":"West Grand Bahama",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -28,10 +28,7 @@
     "name:cat_x_preferred":[
         "Freeport"
     ],
-    "name:chi_x_preferred":[
-        "\u81ea\u7531\u6e2f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Freeport"
     ],
     "name:dan_x_preferred":[
@@ -40,29 +37,20 @@
     "name:deu_x_preferred":[
         "Freeport"
     ],
-    "name:dut_x_preferred":[
-        "Freeport"
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03af\u03c0\u03bf\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Freeport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc \u067e\u0648\u0631\u062a"
     ],
     "name:fin_x_preferred":[
         "Freeport"
     ],
     "name:fra_x_preferred":[
         "Freeport"
-    ],
-    "name:fre_x_preferred":[
-        "Freeport"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e0\u10d8\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Freeport"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03c1\u03af\u03c0\u03bf\u03c1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab0\u0ac0\u0aaa\u0acb\u0ab0\u0acd\u0a9f"
@@ -85,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0ccd\u0cb0\u0cc0\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d8\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud504\ub9ac\ud3ec\ud2b8"
     ],
@@ -97,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0930\u0940\u092a\u094b\u0930\u094d\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Freeport"
+    ],
+    "name:nld_x_preferred":[
         "Freeport"
     ],
     "name:nob_x_preferred":[
         "Freeport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u06cc \u067e\u0648\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Freeport"
@@ -112,7 +103,7 @@
     "name:por_x_preferred":[
         "Freeport"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Freeport"
     ],
     "name:rus_x_preferred":[
@@ -156,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Freeport"
+    ],
+    "name:zho_x_preferred":[
+        "\u81ea\u7531\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"The Bahamas",
@@ -283,7 +277,7 @@
         }
     ],
     "wof:id":890434893,
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1561843486,
     "wof:name":"Freeport",
     "wof:parent_id":85669071,
     "wof:placetype":"locality",

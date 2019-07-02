@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Mayaguana"
     ],
+    "name:deu_x_variant":[
+        "Mayaguana District"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b3\u03b9\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03bd\u03b1"
     ],
@@ -45,9 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Mayaguana"
-    ],
-    "name:ger_x_preferred":[
-        "Mayaguana District"
     ],
     "name:glg_x_preferred":[
         "Mayaguana"
@@ -202,7 +202,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550318,
+    "wof:lastmodified":1561843485,
     "wof:name":"Mayaguana",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

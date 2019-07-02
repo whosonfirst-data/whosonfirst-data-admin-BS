@@ -32,9 +32,6 @@
     "name:aka_x_preferred":[
         "Bahama"
     ],
-    "name:alb_x_preferred":[
-        "Bahamet"
-    ],
     "name:als_x_preferred":[
         "Bahamas"
     ],
@@ -50,9 +47,6 @@
     ],
     "name:arg_x_preferred":[
         "Bahamas"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0570\u0561\u0574\u0575\u0561\u0576 \u053f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0647\u0627\u0645\u0627\u0633"
@@ -74,9 +68,6 @@
     ],
     "name:bam_x_preferred":[
         "Bahamasi"
-    ],
-    "name:baq_x_preferred":[
-        "Bahamak"
     ],
     "name:bar_x_preferred":[
         "Bahamas"
@@ -122,9 +113,6 @@
         "\u0411\u0430\u0445\u0430\u043c\u0438",
         "\u0411\u0430\u0445\u0430\u043c\u0441\u043a\u0438 \u041e-\u0432\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u101f\u102c\u1038\u1019\u102c\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u0430\u0445\u0430\u043c\u044b\u043d \u0430\u0440\u0430\u043b\u0443\u0443\u0434"
     ],
@@ -143,9 +131,6 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u0433\u0430\u043c\u0430\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u54c8\u9a6c"
-    ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u0445\u0430\u043c \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
     ],
@@ -160,9 +145,6 @@
     ],
     "name:cym_x_preferred":[
         "Y Bahamas"
-    ],
-    "name:cze_x_preferred":[
-        "Bahamy"
     ],
     "name:dan_x_preferred":[
         "Bahamas"
@@ -184,9 +166,6 @@
     ],
     "name:dty_x_preferred":[
         "\u092c\u0939\u093e\u092e\u0938"
-    ],
-    "name:dut_x_preferred":[
-        "Bahama's"
     ],
     "name:dzo_x_preferred":[
         "\u0f56\u0f71\u0f0b\u0f67\u0f0b\u0f58\u0f66\u0f84\u0f0d"
@@ -263,9 +242,6 @@
         "Bahamas, \u00celes",
         "\u00celes Bahamas"
     ],
-    "name:fre_x_preferred":[
-        "Bahamas"
-    ],
     "name:frp_x_preferred":[
         "Bahamas"
     ],
@@ -281,12 +257,6 @@
     "name:gag_x_preferred":[
         "Bahamalar"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10f0\u10d0\u10db\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bahamas"
-    ],
     "name:gla_x_preferred":[
         "Na h-Eileanan Bhathama"
     ],
@@ -301,9 +271,6 @@
     ],
     "name:gom_x_preferred":[
         "\u092c\u0939\u093e\u092e\u093e\u091c"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c7\u03ac\u03bc\u03b5\u03c2"
     ],
     "name:grn_x_preferred":[
         "Vaamaku\u00e9ra"
@@ -361,9 +328,6 @@
     ],
     "name:hye_x_variant":[
         "\u0532\u0561\u0570\u0561\u0574\u0576\u0565\u0580"
-    ],
-    "name:ice_x_preferred":[
-        "Bahamaeyjar"
     ],
     "name:ido_x_preferred":[
         "Bahama"
@@ -491,9 +455,6 @@
     "name:lug_x_preferred":[
         "Bahamasi"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0445\u0430\u043c\u0438"
-    ],
     "name:mai_x_preferred":[
         "\u0926 \u092c\u0939\u093e\u092e\u0938"
     ],
@@ -505,9 +466,6 @@
     ],
     "name:mar_x_variant":[
         "\u092c\u0939\u093e\u092e\u093e\u091c"
-    ],
-    "name:may_x_preferred":[
-        "Bahamas"
     ],
     "name:mhr_x_preferred":[
         "\u0411\u0430\u0433\u0430\u043c\u0435"
@@ -620,9 +578,6 @@
     "name:pdc_x_preferred":[
         "Bahaamas"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0647\u0627\u0645\u0627"
-    ],
     "name:pih_x_preferred":[
         "Bahaamas"
     ],
@@ -659,9 +614,6 @@
     "name:rue_x_preferred":[
         "\u0411\u0430\u0433\u0430\u043c\u044b"
     ],
-    "name:rum_x_preferred":[
-        "Bahamas"
-    ],
     "name:run_x_preferred":[
         "Bahamasi"
     ],
@@ -697,9 +649,6 @@
         "\u0db6\u0dc4\u0db8\u0dcf\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Bahamy"
-    ],
-    "name:slo_x_preferred":[
         "Bahamy"
     ],
     "name:slv_x_preferred":[
@@ -783,9 +732,6 @@
     "name:tha_x_variant":[
         "\u0e1a\u0e32\u0e2e\u0e32\u0e21\u0e32\u0e2a"
     ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f0b\u0f67\u0f0b\u0f58\u0f71\u0f0b\u0f66\u0f72\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u1263\u1203\u121b\u1235"
     ],
@@ -848,9 +794,6 @@
     "name:war_x_preferred":[
         "Bahamas"
     ],
-    "name:wel_x_preferred":[
-        "Y Bahamas"
-    ],
     "name:wol_x_preferred":[
         "Bahamas"
     ],
@@ -888,7 +831,6 @@
         "\u5df4\u54c8\u9a6c"
     ],
     "name:zho_x_variant":[
-        "\u5df4\u54c8\u9a6c",
         "\u5df4\u54c8\u99ac"
     ],
     "name:zho_yue_x_preferred":[
@@ -1041,7 +983,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059152,
+    "wof:lastmodified":1561843480,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

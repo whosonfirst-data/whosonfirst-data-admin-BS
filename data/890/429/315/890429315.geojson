@@ -18,7 +18,7 @@
     "name:eng_x_preferred":[
         "Albert Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Albert Town"
     ],
     "name:unk_x_variant":[
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":890429315,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561843486,
     "wof:name":"Albert Town",
     "wof:parent_id":85669177,
     "wof:placetype":"locality",

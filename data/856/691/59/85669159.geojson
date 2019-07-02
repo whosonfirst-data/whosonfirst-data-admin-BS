@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037914,
-    "geom:area_square_m":427043357.952534,
+    "geom:area_square_m":427043357.952488,
     "geom:bbox":"-75.7575577456,24.1257184922,-75.2904353508,24.7018496772",
     "geom:latitude":24.367336,
     "geom:longitude":-75.499803,
@@ -40,19 +40,13 @@
     "name:ceb_x_preferred":[
         "Cat Island"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7279\u5cf6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cat Island"
     ],
     "name:dan_x_preferred":[
         "Cat Island"
     ],
     "name:deu_x_preferred":[
-        "Cat Island"
-    ],
-    "name:dut_x_preferred":[
         "Cat Island"
     ],
     "name:ell_x_preferred":[
@@ -70,17 +64,11 @@
     "name:fra_x_preferred":[
         "\u00cele Cat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "\u00eele Cat"
-    ],
-    "name:ger_x_preferred":[
-        "Cat Island"
     ],
     "name:glg_x_preferred":[
         "Cat Island"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c4 \u0386\u03b9\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0a9f \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
@@ -109,13 +97,13 @@
     "name:lit_x_preferred":[
         "Kat\u0117s sala"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0447\u043a\u0438\u043d \u041e\u0441\u0442\u0440\u043e\u0432"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0945\u091f \u0906\u0908\u0938\u0932\u0901\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0447\u043a\u0438\u043d \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
         "Cat Island"
     ],
     "name:nld_x_preferred":[
@@ -127,9 +115,6 @@
     "name:nor_x_preferred":[
         "Cat Island"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u062a\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
-    ],
     "name:pol_x_preferred":[
         "Cat Island"
     ],
@@ -137,9 +122,6 @@
         "Ilha Cat"
     ],
     "name:ron_x_preferred":[
-        "Insula Cat"
-    ],
-    "name:rum_x_preferred":[
         "Insula Cat"
     ],
     "name:rus_x_preferred":[
@@ -305,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561843483,
     "wof:name":"Cat Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

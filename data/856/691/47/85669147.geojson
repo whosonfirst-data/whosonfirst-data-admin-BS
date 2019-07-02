@@ -39,8 +39,11 @@
     "name:dan_x_preferred":[
         "Central Eleuthera"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Central Eleuthera"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03c4\u03c1\u03b1\u03bb \u0395\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Central Eleuthera"
@@ -53,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Central Eleuthera"
-    ],
-    "name:fre_x_preferred":[
-        "Central Eleuthera"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10d4\u10da\u10d8\u10e3\u10d7\u10d4\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Central Eleuthera"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bd\u03c4\u03c1\u03b1\u03bb \u0395\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a8f\u0ab2\u0ac7\u0a89\u0aa5\u0ac7\u0ab0\u0abe"
@@ -99,7 +90,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u090f\u0932\u0947\u091f\u0941\u0939\u0947\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Central Eleuthera"
+    ],
+    "name:nld_x_preferred":[
         "Central Eleuthera"
     ],
     "name:nob_x_preferred":[
@@ -107,9 +101,6 @@
     ],
     "name:nor_x_preferred":[
         "Central Eleuthera"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0648\u062a\u0631\u0627 \u0645\u0631\u06a9\u0632\u06cc"
     ],
     "name:pol_x_preferred":[
         "Eleuthera Centralna"
@@ -277,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550318,
+    "wof:lastmodified":1561843485,
     "wof:name":"Central Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
