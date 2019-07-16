@@ -15,7 +15,13 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Matthew Town"
+    ],
     "name:ces_x_preferred":[
+        "Matthew Town"
+    ],
+    "name:deu_x_preferred":[
         "Matthew Town"
     ],
     "name:eng_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890440077,
-    "wof:lastmodified":1561843486,
+    "wof:lastmodified":1563255471,
     "wof:name":"Matthew Town",
     "wof:parent_id":85669189,
     "wof:placetype":"locality",

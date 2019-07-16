@@ -96,6 +96,9 @@
     "name:msa_x_preferred":[
         "North Abaco"
     ],
+    "name:nan_x_preferred":[
+        "North Abaco"
+    ],
     "name:nld_x_preferred":[
         "North Abaco"
     ],
@@ -272,7 +275,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843483,
+    "wof:lastmodified":1563255416,
     "wof:name":"North Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

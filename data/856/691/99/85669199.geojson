@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Hopetown"
     ],
+    "name:deu_x_variant":[
+        "Hope Town"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03cc\u03bf\u03c5\u03c0 \u03a4\u03ac\u03bf\u03c5\u03bd"
     ],
@@ -264,7 +267,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843484,
+    "wof:lastmodified":1563255426,
     "wof:name":"Hope Town",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

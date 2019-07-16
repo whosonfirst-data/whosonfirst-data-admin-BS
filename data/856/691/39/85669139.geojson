@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0647\u0627\u0631\u0628\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0645\u064a\u0646\u0627\u0621"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09ac\u09be\u09b0 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
     ],
@@ -52,8 +55,14 @@
     "name:eng_x_variant":[
         "Harbour Island District"
     ],
+    "name:eus_x_preferred":[
+        "Harbour uhartea"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u0631\u0628\u0648\u0631\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u0631\u0628\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Harbour Island"
@@ -87,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud558\ubc84 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\ubc84\uc12c"
     ],
     "name:lav_x_preferred":[
         "H\u0101borailenda"
@@ -123,6 +135,9 @@
     ],
     "name:swe_x_preferred":[
         "Harbour Island District"
+    ],
+    "name:swe_x_variant":[
+        "Distrikt Harbour Island"
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0baf\u0bc2\u0bb0\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
@@ -275,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843484,
+    "wof:lastmodified":1563255425,
     "wof:name":"Harbour Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

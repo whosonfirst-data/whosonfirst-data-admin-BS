@@ -120,6 +120,9 @@
     "name:swe_x_preferred":[
         "Central Abaco District"
     ],
+    "name:swe_x_variant":[
+        "Central Abaco"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0b85\u0baa\u0bc7\u0b95\u0bcb"
     ],
@@ -271,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843483,
+    "wof:lastmodified":1563255413,
     "wof:name":"Central Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
