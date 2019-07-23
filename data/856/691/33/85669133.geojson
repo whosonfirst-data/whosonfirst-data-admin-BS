@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0628\u0627\u0646\u0634\u060c \u0648\u064a\u0644\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0628\u0627\u0646\u0634"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09aa\u09cd\u09af\u09be\u09a8\u09bf\u09b6 \u0993\u09af\u09bc\u09c7\u09b2\u09b8"
     ],
     "name:cat_x_preferred":[
         "Spanish Wells"
+    ],
+    "name:ceb_x_preferred":[
+        "Spanish Wells District"
     ],
     "name:dan_x_preferred":[
         "Spanish Wells"
@@ -263,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843484,
+    "wof:lastmodified":1563255420,
     "wof:name":"Spanish Wells",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

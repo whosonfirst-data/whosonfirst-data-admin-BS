@@ -15,6 +15,9 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alice Town"
+    ],
     "name:deu_x_preferred":[
         "Alice Town"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890429313,
-    "wof:lastmodified":1561843486,
+    "wof:lastmodified":1563255472,
     "wof:name":"Alice Town",
     "wof:parent_id":85669197,
     "wof:placetype":"locality",

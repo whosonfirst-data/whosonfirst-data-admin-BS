@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Acklins Island District"
     ],
+    "name:ces_x_preferred":[
+        "Acklins"
+    ],
     "name:dan_x_preferred":[
         "Acklins"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ud074\ub9b0\uc2a4 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud074\ub9b0\uc2a4\uc12c"
     ],
     "name:lav_x_preferred":[
         "Aklinsa"
@@ -279,7 +285,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843484,
+    "wof:lastmodified":1563255424,
     "wof:name":"Acklins",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

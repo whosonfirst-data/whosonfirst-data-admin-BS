@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Berry Islands"
     ],
+    "name:epo_x_preferred":[
+        "Berinsuloj"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0631\u06cc"
     ],
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843483,
+    "wof:lastmodified":1563255418,
     "wof:name":"Berry Islands",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
