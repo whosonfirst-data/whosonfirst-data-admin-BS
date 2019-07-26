@@ -25,7 +25,19 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "George Town"
+    ],
+    "name:deu_x_preferred":[
+        "George Town"
+    ],
     "name:eng_x_preferred":[
+        "George Town"
+    ],
+    "name:fra_x_preferred":[
+        "George Town"
+    ],
+    "name:ron_x_preferred":[
         "George Town"
     ],
     "src:geom":"geonames",
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242572921,
-    "wof:lastmodified":1537588923,
+    "wof:lastmodified":1564150540,
     "wof:name":"George Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

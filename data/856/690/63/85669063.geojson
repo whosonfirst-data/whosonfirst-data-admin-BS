@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "New Providence Island"
     ],
+    "name:ces_x_preferred":[
+        "New Providence"
+    ],
     "name:deu_x_preferred":[
         "New Providence"
     ],
@@ -61,6 +64,12 @@
     "name:glg_x_preferred":[
         "Nova Providencia"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5 \u05e4\u05e8\u05d5\u05d1\u05d9\u05d3\u05e0\u05e1"
+    ],
+    "name:isl_x_preferred":[
+        "New Providence"
+    ],
     "name:ita_x_preferred":[
         "New Providence"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub274\ud504\ub85c\ube44\ub358\uc2a4 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ub274\ud504\ub85c\ube44\ub358\uc2a4\uc12c"
     ],
     "name:lit_x_preferred":[
         "Naujasis Providensas"
@@ -230,7 +242,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550316,
+    "wof:lastmodified":1564150491,
     "wof:name":"New Providence",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

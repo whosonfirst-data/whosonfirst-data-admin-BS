@@ -25,6 +25,21 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Holmes Rock"
+    ],
+    "name:deu_x_preferred":[
+        "Holmes Rock"
+    ],
+    "name:nno_x_preferred":[
+        "Holmes Rock"
+    ],
+    "name:swe_x_preferred":[
+        "Holmes Rock"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u59c6\u65af\u5ca9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1210052463,
-    "wof:lastmodified":1536372082,
+    "wof:lastmodified":1564150514,
     "wof:name":"Holmes Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

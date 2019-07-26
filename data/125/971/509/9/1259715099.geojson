@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Congo Town"
     ],
+    "name:fra_x_preferred":[
+        "Congo Town"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1259715099,
-    "wof:lastmodified":1537588924,
+    "wof:lastmodified":1564150549,
     "wof:name":"Congo Town",
     "wof:parent_id":85669121,
     "wof:placetype":"locality",

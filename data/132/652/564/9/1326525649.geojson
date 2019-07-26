@@ -25,6 +25,9 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0644\u0628\u0631\u062a \u063a\u0631\u0627\u0646\u062a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1326525649,
-    "wof:lastmodified":1536992770,
+    "wof:lastmodified":1564150475,
     "wof:name":"Gilbert Grant",
     "wof:parent_id":85669129,
     "wof:placetype":"locality",

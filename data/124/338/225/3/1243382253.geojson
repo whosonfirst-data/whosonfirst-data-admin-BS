@@ -24,6 +24,78 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b1"
+    ],
+    "name:eus_x_preferred":[
+        "Eleuthera uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u062a\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:fra_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:glg_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:ita_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fc\u30bb\u30e9\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10e3\u10d7\u10d4\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub8e8\uc11c\ub77c\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Eleutera"
+    ],
+    "name:nld_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:pol_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:por_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u044e\u0442\u0435\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0459\u0443\u0442\u0435\u0440\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e25\u0e34\u0e27\u0e40\u0e17\u0e23\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c\u044e\u0442\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u0648\u062a\u06be\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Eleuthera"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u67f3\u585e\u62c9\u5c9b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +118,7 @@
         }
     ],
     "wof:id":1243382253,
-    "wof:lastmodified":1537488408,
+    "wof:lastmodified":1564150537,
     "wof:name":"Eleuthera",
     "wof:parent_id":85669147,
     "wof:placetype":"locality",

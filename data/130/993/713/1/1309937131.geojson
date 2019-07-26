@@ -25,6 +25,9 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Rio Staniard Creek"
+    ],
     "name:und_x_variant":[
         "Stanyard Creek",
         "Staniard Creek Settlement",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309937131,
-    "wof:lastmodified":1537588919,
+    "wof:lastmodified":1564150528,
     "wof:name":"Staniard Creek",
     "wof:parent_id":85669107,
     "wof:placetype":"locality",

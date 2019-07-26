@@ -15,6 +15,21 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sweeting Cay"
+    ],
+    "name:fra_x_preferred":[
+        "Sweeting Cay"
+    ],
+    "name:pol_x_preferred":[
+        "Sweeting Cay"
+    ],
+    "name:ron_x_preferred":[
+        "Sweeting Cay"
+    ],
+    "name:swe_x_preferred":[
+        "Sweeting Cay"
+    ],
     "name:unk_x_variant":[
         "Sweeting\u2019s Cay Settlement"
     ],
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":890442607,
-    "wof:lastmodified":1505343589,
+    "wof:lastmodified":1564150536,
     "wof:name":"Sweeting Cay",
     "wof:parent_id":85669075,
     "wof:placetype":"locality",
