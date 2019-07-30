@@ -26,6 +26,9 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Adderly"
+    ],
     "name:und_x_variant":[
         "Adderleys",
         "Adderly"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259849927,
-    "wof:lastmodified":1537588926,
+    "wof:lastmodified":1564150549,
     "wof:name":"Adderly",
     "wof:parent_id":85669169,
     "wof:placetype":"locality",

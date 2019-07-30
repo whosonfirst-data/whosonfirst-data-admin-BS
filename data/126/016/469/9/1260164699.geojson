@@ -26,6 +26,12 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mount Thompson"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Thompson"
+    ],
     "name:und_x_variant":[
         "Mount Thompson Settlement",
         "Mount Thompson"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260164699,
-    "wof:lastmodified":1537588921,
+    "wof:lastmodified":1564150519,
     "wof:name":"Mount Thompson",
     "wof:parent_id":85669129,
     "wof:placetype":"locality",

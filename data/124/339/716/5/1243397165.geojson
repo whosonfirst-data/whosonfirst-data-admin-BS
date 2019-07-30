@@ -25,6 +25,18 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deep Creek"
+    ],
+    "name:deu_x_preferred":[
+        "Deep Creek"
+    ],
+    "name:pol_x_preferred":[
+        "Deep Creek"
+    ],
+    "name:swe_x_preferred":[
+        "Deep Creek"
+    ],
     "name:und_x_variant":[
         "Deep Creek Settlement",
         "Deep Creek"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1243397165,
-    "wof:lastmodified":1537588924,
+    "wof:lastmodified":1564150539,
     "wof:name":"Deep Creek",
     "wof:parent_id":85669151,
     "wof:placetype":"locality",

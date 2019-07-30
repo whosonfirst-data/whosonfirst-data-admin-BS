@@ -25,6 +25,12 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tarpum Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Tarpum Bay"
+    ],
     "name:und_x_variant":[
         "Glenelg",
         "Tarpum Bay Settlement",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310436199,
-    "wof:lastmodified":1537588919,
+    "wof:lastmodified":1564150523,
     "wof:name":"Tarpum Bay",
     "wof:parent_id":85669151,
     "wof:placetype":"locality",

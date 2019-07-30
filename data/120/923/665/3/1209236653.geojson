@@ -25,9 +25,30 @@
     "iso:country":"BS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Stephenson"
+    ],
+    "name:fra_x_preferred":[
+        "Stephenson"
+    ],
+    "name:por_x_preferred":[
+        "Stephenson"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0435\u043d\u0441\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Stephenson"
+    ],
     "name:und_x_variant":[
         "Stephenson Settlement",
         "Stephenson"
+    ],
+    "name:vol_x_preferred":[
+        "Stephenson"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f2\u8482\u82ac\u751f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1209236653,
-    "wof:lastmodified":1537588919,
+    "wof:lastmodified":1564150507,
     "wof:name":"Stephenson",
     "wof:parent_id":85632339,
     "wof:placetype":"locality",
