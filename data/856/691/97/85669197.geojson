@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":25.744074,
     "lbl:longitude":-79.258355,
     "mps:latitude":25.744074,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85669197,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255426,
+    "wof:lastmodified":1565661450,
     "wof:name":"Bimini",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

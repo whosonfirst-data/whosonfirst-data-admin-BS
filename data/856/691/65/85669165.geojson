@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RC"
+    ],
     "lbl:latitude":23.686753,
     "lbl:longitude":-74.845598,
     "mps:latitude":23.686753,
@@ -261,16 +264,13 @@
         }
     ],
     "wof:id":85669165,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255425,
+    "wof:lastmodified":1565661450,
     "wof:name":"Rum Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

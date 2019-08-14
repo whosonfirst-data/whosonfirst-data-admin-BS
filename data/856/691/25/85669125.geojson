@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BP"
+    ],
     "lbl:latitude":24.051584,
     "lbl:longitude":-76.365396,
     "mps:latitude":24.051584,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85669125,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255430,
+    "wof:lastmodified":1565661450,
     "wof:name":"Black Point",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

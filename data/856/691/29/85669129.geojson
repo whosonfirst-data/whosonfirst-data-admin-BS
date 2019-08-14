@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EM"
+    ],
     "lbl:latitude":23.620015,
     "lbl:longitude":-75.949133,
     "mps:latitude":23.620015,
@@ -272,16 +275,13 @@
         }
     ],
     "wof:id":85669129,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255421,
+    "wof:lastmodified":1565661449,
     "wof:name":"Exuma",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

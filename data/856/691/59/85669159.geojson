@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CI"
+    ],
     "lbl:latitude":24.325498,
     "lbl:longitude":-75.457337,
     "mps:latitude":24.325498,
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85669159,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255417,
+    "wof:lastmodified":1565661449,
     "wof:name":"Cat Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

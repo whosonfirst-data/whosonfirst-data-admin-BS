@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MG"
+    ],
     "lbl:latitude":22.394251,
     "lbl:longitude":-73.060139,
     "mps:latitude":22.394251,
@@ -202,16 +205,13 @@
         }
     ],
     "wof:id":85669185,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255429,
+    "wof:lastmodified":1565661450,
     "wof:name":"Mayaguana",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":25.771999,
     "lbl:longitude":-77.868108,
     "mps:latitude":25.771999,
@@ -273,16 +276,13 @@
         }
     ],
     "wof:id":85669103,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255418,
+    "wof:lastmodified":1565661449,
     "wof:name":"Berry Islands",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

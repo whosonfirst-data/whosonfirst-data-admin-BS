@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EB"
+    ],
     "lbl:latitude":26.672353,
     "lbl:longitude":-78.16228,
     "mps:latitude":26.672353,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85669075,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843483,
+    "wof:lastmodified":1565661449,
     "wof:name":"East Grand Bahama",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

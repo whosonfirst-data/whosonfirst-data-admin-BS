@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HT"
+    ],
     "lbl:latitude":26.529012,
     "lbl:longitude":-76.969587,
     "mps:latitude":26.529012,
@@ -258,16 +261,13 @@
         }
     ],
     "wof:id":85669199,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255426,
+    "wof:lastmodified":1565661450,
     "wof:name":"Hope Town",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

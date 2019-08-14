@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HB"
+    ],
     "lbl:latitude":25.545623,
     "lbl:longitude":-76.766537,
     "mps:latitude":25.545623,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85669139,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255425,
+    "wof:lastmodified":1565661450,
     "wof:name":"Harbour Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

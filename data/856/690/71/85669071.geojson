@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WB"
+    ],
     "lbl:latitude":26.635478,
     "lbl:longitude":-78.510845,
     "mps:latitude":26.635478,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85669071,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255417,
+    "wof:lastmodified":1565661449,
     "wof:name":"West Grand Bahama",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

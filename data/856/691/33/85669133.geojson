@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SW"
+    ],
     "lbl:latitude":25.524051,
     "lbl:longitude":-76.830209,
     "mps:latitude":25.524051,
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85669133,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255420,
+    "wof:lastmodified":1565661449,
     "wof:name":"Spanish Wells",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

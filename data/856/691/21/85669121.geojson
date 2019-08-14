@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":23.96815,
     "lbl:longitude":-77.66667,
     "mps:latitude":23.96815,
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85669121,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255422,
+    "wof:lastmodified":1565661449,
     "wof:name":"South Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

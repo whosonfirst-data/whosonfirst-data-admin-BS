@@ -15,6 +15,9 @@
         "1-242"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "BS"
+    ],
     "lbl:latitude":24.669637,
     "lbl:longitude":-78.018505,
     "mps:latitude":24.669637,
@@ -1027,7 +1030,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255321,
+    "wof:lastmodified":1565661446,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

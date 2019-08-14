@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":24.105586,
     "lbl:longitude":-77.810571,
     "mps:latitude":24.105586,
@@ -258,16 +261,13 @@
         }
     ],
     "wof:id":85669115,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843485,
+    "wof:lastmodified":1565661450,
     "wof:name":"Mangrove Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

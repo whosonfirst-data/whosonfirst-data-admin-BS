@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GC"
+    ],
     "lbl:latitude":27.230631,
     "lbl:longitude":-78.331723,
     "mps:latitude":27.230631,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85669079,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561843483,
+    "wof:lastmodified":1565661449,
     "wof:name":"Grand Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

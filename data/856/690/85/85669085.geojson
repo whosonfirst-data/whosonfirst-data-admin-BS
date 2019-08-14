@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":26.887248,
     "lbl:longitude":-77.611528,
     "mps:latitude":26.887248,
@@ -266,16 +269,13 @@
         }
     ],
     "wof:id":85669085,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563255416,
+    "wof:lastmodified":1565661449,
     "wof:name":"North Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
