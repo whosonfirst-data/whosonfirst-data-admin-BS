@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":26.0342,
     "lbl:longitude":-77.257735,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.0342,
     "mps:longitude":-77.257735,
     "mz:hierarchy_label":1,
@@ -124,7 +125,7 @@
         "South Abaco District"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b85\u0baa\u0bc7\u0b95\u0bcb"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bc7\u0b95\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c05\u0c2c\u0c3e\u0c15\u0c4b"
@@ -140,9 +141,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0410\u0431\u0430\u043a\u043e"
-    ],
-    "name:unk_x_variant":[
-        "South Abaco District"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624\u062a\u06be \u0627\u0628\u0627\u06a9\u0648"
@@ -223,8 +221,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -250,7 +248,7 @@
         "gp:id":24551253,
         "hasc:id":"BS.SB",
         "iso:id":"BS-SO",
-        "qs:id":1318998,
+        "qs_pg:id":1318998,
         "unlc:id":"BS-SO",
         "wd:id":"Q2703192",
         "wk:page":"South Abaco"
@@ -271,11 +269,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661448,
+    "wof:lastmodified":1566629921,
     "wof:name":"South Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"SB",

@@ -11,10 +11,14 @@
     "geom:longitude":-74.83333,
     "gn:country":"BS",
     "gn:fcode":"PPLA",
-    "gn:pop":91,
+    "gn:population":91,
     "iso:country":"BS",
+    "lbl:bbox":"-74.85333,23.61333,-74.81333,23.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Port Nelson"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3571650,
         "gp:id":12524024,
-        "qs:id":583461,
+        "qs_pg:id":583461,
         "wd:id":"Q17394780",
         "wk:page":"Port Nelson"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890420417,
-    "wof:lastmodified":1561843486,
+    "wof:lastmodified":1566629950,
     "wof:name":"Port Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-73.15409,22.39862,-73.11409,22.43862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276304937,
-    "wof:lastmodified":1536816073,
+    "wof:lastmodified":1566629933,
     "wof:name":"Betsy Bay",
     "wof:parent_id":85669185,
     "wof:placetype":"locality",

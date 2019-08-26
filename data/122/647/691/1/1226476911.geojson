@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-77.45928,26.79393,-77.41928,26.83393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blackwood Village"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226476911,
-    "wof:lastmodified":1537588925,
+    "wof:lastmodified":1566629962,
     "wof:name":"Blackwood Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

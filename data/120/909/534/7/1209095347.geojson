@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-76.05333,23.66333,-76.01333,23.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barataria Settlement",
         "Baraterre"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209095347,
-    "wof:lastmodified":1537588925,
+    "wof:lastmodified":1566629934,
     "wof:name":"Baraterre",
     "wof:parent_id":85632339,
     "wof:placetype":"locality",

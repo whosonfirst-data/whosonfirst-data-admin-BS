@@ -10,8 +10,12 @@
     "geom:latitude":25.50216,
     "geom:longitude":-76.63633,
     "iso:country":"BS",
+    "lbl:bbox":"-76.65633,25.48216,-76.61633,25.52216",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dunmore Town"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Dunmore Town"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Harbour Island"
     ],
     "qs:gn_country":"BS",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3572462,
         "gp:id":56908,
-        "qs:id":211029,
+        "qs_pg:id":211029,
         "wd:id":"Q1771794",
         "wk:page":"Dunmore Town"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421169995,
-    "wof:lastmodified":1561843485,
+    "wof:lastmodified":1566629948,
     "wof:name":"Dunmore Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":26.54124,
     "geom:longitude":-77.0636,
     "iso:country":"BS",
+    "lbl:bbox":"-77.0836,26.52124,-77.0436,26.56124",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0634 \u0647\u0627\u0631\u0628\u0631"
@@ -116,7 +120,7 @@
         "Marsh Harbour"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bcd  \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bcd \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c30\u0c4d\u0c37\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d"
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":3571913,
         "gp:id":56994,
-        "qs:id":488958,
+        "qs_pg:id":488958,
         "wd:id":"Q1337651",
         "wk:page":"Marsh Harbour"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":421173019,
-    "wof:lastmodified":1563255465,
+    "wof:lastmodified":1566629948,
     "wof:name":"Marsh Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

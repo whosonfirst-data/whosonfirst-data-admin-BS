@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":25.483617,
     "lbl:longitude":-76.715895,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.483617,
     "mps:longitude":-76.715895,
     "mz:hierarchy_label":1,
@@ -125,7 +126,7 @@
         "North Eleuthera District"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b8e\u0bb2\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb1"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b8e\u0bb2\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb1"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c0e\u0c32\u0c4d\u0c2f\u0c42\u0c25\u0c46\u0c30\u0c3e"
@@ -221,8 +222,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -248,7 +249,7 @@
         "gp:id":24551251,
         "hasc:id":"BS.NE",
         "iso:id":"BS-NE",
-        "qs:id":1287910,
+        "qs_pg:id":1287910,
         "unlc:id":"BS-NE",
         "wd:id":"Q2705535"
     },
@@ -268,11 +269,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661449,
+    "wof:lastmodified":1566629924,
     "wof:name":"North Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"NE",

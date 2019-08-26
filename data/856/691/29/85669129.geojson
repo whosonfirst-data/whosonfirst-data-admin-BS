@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":23.620015,
     "lbl:longitude":-75.949133,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.620015,
     "mps:longitude":-75.949133,
     "mz:hierarchy_label":1,
@@ -148,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043a\u0441\u0443\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Exuma District"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u06a9\u0632\u0648\u0645\u0627"
     ],
@@ -233,8 +231,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -260,7 +258,7 @@
         "gp:id":2344771,
         "hasc:id":"BS.EM",
         "iso:id":"BS-EX",
-        "qs:id":1222225,
+        "qs_pg:id":1222225,
         "unlc:id":"BS-EX",
         "wd:id":"Q1385577",
         "wk:page":"Exuma"
@@ -281,11 +279,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661449,
+    "wof:lastmodified":1566629924,
     "wof:name":"Exuma",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"EM",

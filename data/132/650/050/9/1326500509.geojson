@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-74.91245,22.99848,-74.87245,23.03848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hard Bargain Settlement",
         "Hard Bargain"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326500509,
-    "wof:lastmodified":1537588923,
+    "wof:lastmodified":1566629909,
     "wof:name":"Hard Bargain",
     "wof:parent_id":85669169,
     "wof:placetype":"locality",

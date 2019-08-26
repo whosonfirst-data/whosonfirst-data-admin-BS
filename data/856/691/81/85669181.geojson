@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.636819,
     "lbl:longitude":-73.91462,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.636819,
     "mps:longitude":-73.91462,
     "mz:hierarchy_label":1,
@@ -154,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043b\u0456\u043d\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acklins and Crooked Islands"
     ],
     "name:urd_x_preferred":[
@@ -236,7 +237,7 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -252,7 +253,6 @@
     "statoids:type":"district",
     "unlc:subdivision":"BS-AK",
     "wd:wordcount":337,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575,
         85632339
@@ -264,7 +264,7 @@
         "gp:id":2344778,
         "hasc:id":"BS.AK",
         "iso:id":"BS-AK",
-        "qs:id":984065,
+        "qs_pg:id":984065,
         "unlc:id":"BS-AK",
         "wd:id":"Q341919",
         "wk:page":"Acklins"
@@ -285,11 +285,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661450,
+    "wof:lastmodified":1566629925,
     "wof:name":"Acklins",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":435,
     "wof:population_rank":2,

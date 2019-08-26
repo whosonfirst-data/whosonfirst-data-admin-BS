@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":46502753.060872,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.332221,25.071287,-77.332221,25.071287",
     "geom:latitude":25.071287,
     "geom:longitude":-77.332221,
     "gn:latitude":25.05,
     "gn:longitude":-77.33333,
     "iso:country":"BS",
+    "lbl:bbox":"-77.337221,25.066287,-77.327221,25.076287",
     "lbl:latitude":25.071287,
     "lbl:longitude":-77.332221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.068183,
     "mps:longitude":-77.334298,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Englerston"
-    ],
-    "name:unk_x_variant":[
         "Englerston"
     ],
     "qs:gn_adm0_cc":"BS",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85632339,
@@ -68,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3572432,
         "gp:id":56910,
-        "qs:id":423328,
         "qs_pg:id":423328
     },
     "wof:country":"BS",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861382,
+    "wof:lastmodified":1566629916,
     "wof:name":"Englerston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

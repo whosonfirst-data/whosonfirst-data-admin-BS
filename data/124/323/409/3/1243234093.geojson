@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-75.25597,23.45922,-75.21597,23.49922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Simms"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u0438\u043c\u043c\u0441"
     ],
     "name:und_x_variant":[
-        "Simms Settlement",
-        "Simms"
+        "Simms Settlement"
     ],
     "name:vol_x_preferred":[
         "Simms"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243234093,
-    "wof:lastmodified":1564150541,
+    "wof:lastmodified":1566629955,
     "wof:name":"Simms",
     "wof:parent_id":85669169,
     "wof:placetype":"locality",

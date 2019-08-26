@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":25.039728,
     "lbl:longitude":-77.394647,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.039728,
     "mps:longitude":-77.394647,
     "mz:hierarchy_label":1,
@@ -200,7 +201,7 @@
     "qs:type":"Capital",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -224,7 +225,7 @@
         "gn:id":3571815,
         "gp:id":2344777,
         "hasc:id":"BS.NW",
-        "qs:id":493602
+        "qs_pg:id":493602
     },
     "wof:country":"BS",
     "wof:geomhash":"feada09b3a132e2d6a026251722708cc",
@@ -242,11 +243,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661449,
+    "wof:lastmodified":1566629922,
     "wof:name":"New Providence",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":228334,
     "wof:population_rank":10,

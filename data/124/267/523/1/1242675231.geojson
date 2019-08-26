@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-75.52938,24.13881,-75.48938,24.17881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hawks Nest"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242675231,
-    "wof:lastmodified":1564150541,
+    "wof:lastmodified":1566629955,
     "wof:name":"Hawks Nest",
     "wof:parent_id":85669159,
     "wof:placetype":"locality",

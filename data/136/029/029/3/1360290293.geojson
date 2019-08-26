@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-79.3061,25.7237,-79.2661,25.7637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bayley\u2019s Town",
         "Bayley Town",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360290293,
-    "wof:lastmodified":1537588926,
+    "wof:lastmodified":1566629945,
     "wof:name":"Bailey Town",
     "wof:parent_id":85669197,
     "wof:placetype":"locality",

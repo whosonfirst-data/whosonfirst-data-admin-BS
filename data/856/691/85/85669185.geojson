@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.394251,
     "lbl:longitude":-73.060139,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.394251,
     "mps:longitude":-73.060139,
     "mz:hierarchy_label":1,
@@ -87,9 +88,6 @@
     ],
     "name:tgl_x_preferred":[
         "Mayaguana"
-    ],
-    "name:unk_x_variant":[
-        "Mayaguana District"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u4e9e\u74dc\u7d0d\u5cf6"
@@ -164,7 +162,7 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -191,7 +189,7 @@
         "gp:id":2344774,
         "hasc:id":"BS.MG",
         "iso:id":"BS-MG",
-        "qs:id":1285019,
+        "qs_pg:id":1285019,
         "unlc:id":"BS-MG",
         "wd:id":"Q21712462"
     },
@@ -211,11 +209,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661450,
+    "wof:lastmodified":1566629926,
     "wof:name":"Mayaguana",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":251,
     "wof:population_rank":2,
