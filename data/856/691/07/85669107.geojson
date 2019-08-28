@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":24.79811,
     "lbl:longitude":-78.049378,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.79811,
     "mps:longitude":-78.049378,
     "mz:hierarchy_label":1,
@@ -124,7 +125,7 @@
         "North Andros District"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b85\u0ba9\u0bcd\u0bb0\u0bcb\u0bb8\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b85\u0ba9\u0bcd\u0bb0\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c06\u0c02\u0c21\u0c4d\u0c30\u0c4b\u0c38\u0c4d"
@@ -140,9 +141,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0410\u043d\u0434\u0440\u043e\u0441"
-    ],
-    "name:unk_x_variant":[
-        "North Andros District"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u062a\u06be \u0627\u0646\u062f\u0631\u0648\u0633"
@@ -220,8 +218,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -247,7 +245,7 @@
         "gp:id":24551250,
         "hasc:id":"BS.NN",
         "iso:id":"BS-NS",
-        "qs:id":1287909,
+        "qs_pg:id":1287909,
         "unlc:id":"BS-NS",
         "wd:id":"Q2699411",
         "wk:page":"North Andros"
@@ -268,11 +266,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661450,
+    "wof:lastmodified":1566629925,
     "wof:name":"North Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"NN",

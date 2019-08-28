@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.15,25.1,-76.15,25.1",
     "geom:latitude":25.1,
     "geom:longitude":-76.15,
     "iso:country":"BS",
+    "lbl:bbox":"-76.17,25.08,-76.13,25.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Savanna Sound"
     ],
     "qs:gn_country":"BS",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3571485,
         "gp:id":57072,
-        "qs:id":488969
+        "qs_pg:id":488969
     },
     "wof:country":"BS",
     "wof:created":1459008850,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421170369,
-    "wof:lastmodified":1501267678,
+    "wof:lastmodified":1566629949,
     "wof:name":"Savannah Sound",
     "wof:parent_id":85669147,
     "wof:placetype":"locality",

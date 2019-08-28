@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":25.545623,
     "lbl:longitude":-76.766537,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.545623,
     "mps:longitude":-76.766537,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
         "Distrikt Harbour Island"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0baf\u0bc2\u0bb0\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+        "\u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bcb\u0baf\u0bc2\u0bb0\u0bcd \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d \u0c26\u0c40\u0c35\u0c3f"
@@ -239,7 +240,7 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -269,7 +270,7 @@
         "hasc:id":"BS.HB",
         "iso:id":"BS-HI",
         "nyt:id":"604318609107491951",
-        "qs:id":1310774,
+        "qs_pg:id":1310774,
         "unlc:id":"BS-HI",
         "wd:id":"Q2357510",
         "wk:page":"Harbour Island, Bahamas"
@@ -290,11 +291,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661450,
+    "wof:lastmodified":1566629925,
     "wof:name":"Harbour Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1751,
     "wof:population_rank":3,

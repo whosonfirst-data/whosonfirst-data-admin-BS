@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":24.669637,
     "lbl:longitude":-78.018505,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":24.669637,
     "mps:longitude":-78.018505,
     "mz:hierarchy_label":1,
@@ -803,15 +805,8 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0433\u0430\u043c\u0438"
     ],
-    "name:und_x_preferred":[
-        "Bahamaeyjar",
-        "Bahami"
-    ],
     "name:und_x_variant":[
         "Zveza Bahami"
-    ],
-    "name:unk_x_variant":[
-        "Bahamas"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u0645\u0627\u0633"
@@ -962,7 +957,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-242",
     "statoids:ds":"BS",
@@ -982,7 +977,6 @@
     "wd:longitude":-77.666667,
     "wd:population":377374,
     "wd:wordcount":7869,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575
     ],
@@ -1008,7 +1002,7 @@
         "mzb:id":"the-bahamas",
         "ne:adm0_a3":"BHS",
         "nyt:id":"42779838842901283901",
-        "qs:id":467068,
+        "qs_pg:id":467068,
         "uncrt:id":"BS",
         "wd:id":"Q778",
         "wk:page":"The Bahamas",
@@ -1030,7 +1024,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661446,
+    "wof:lastmodified":1566629917,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

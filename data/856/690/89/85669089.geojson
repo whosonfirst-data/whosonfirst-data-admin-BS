@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":26.407019,
     "lbl:longitude":-77.140933,
+    "lbl:min_zoom":8.0,
     "mps:latitude":26.407019,
     "mps:longitude":-77.140933,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
         "Central Abaco"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0b85\u0baa\u0bc7\u0b95\u0bcb"
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c05\u0c2c\u0c3e\u0c15\u0c4b"
@@ -143,9 +144,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0410\u0431\u0430\u043a\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Central Abaco District"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679\u0631\u0644 \u0627\u0628\u0627\u06a9\u0648"
@@ -226,8 +224,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -253,7 +251,7 @@
         "gp:id":24551242,
         "hasc:id":"BS.CB",
         "iso:id":"BS-CO",
-        "qs:id":1086162,
+        "qs_pg:id":1086162,
         "unlc:id":"BS-CO",
         "wd:id":"Q2525371",
         "wk:page":"Central Abaco"
@@ -274,11 +272,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661448,
+    "wof:lastmodified":1566629921,
     "wof:name":"Central Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"CB",

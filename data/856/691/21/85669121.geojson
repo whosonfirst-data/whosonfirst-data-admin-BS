@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":23.96815,
     "lbl:longitude":-77.66667,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.96815,
     "mps:longitude":-77.66667,
     "mz:hierarchy_label":1,
@@ -128,7 +129,7 @@
         "Distrikt South Andros"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b85\u0ba9\u0bcd\u0bb0\u0bcb\u0bb8\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0ba9\u0bcd\u0bb0\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c06\u0c02\u0c21\u0c4d\u0c30\u0c4b\u0c38\u0c4d"
@@ -224,8 +225,8 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -251,7 +252,7 @@
         "gp:id":24551254,
         "hasc:id":"BS.SN",
         "iso:id":"BS-SA",
-        "qs:id":230096,
+        "qs_pg:id":230096,
         "unlc:id":"BS-SA",
         "wd:id":"Q2408672",
         "wk:page":"South Andros"
@@ -272,11 +273,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661449,
+    "wof:lastmodified":1566629925,
     "wof:name":"South Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"SN",

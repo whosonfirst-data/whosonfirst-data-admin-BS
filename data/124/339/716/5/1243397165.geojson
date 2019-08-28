@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-76.28959,24.75333,-76.24959,24.79333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deep Creek"
     ],
@@ -38,8 +42,7 @@
         "Deep Creek"
     ],
     "name:und_x_variant":[
-        "Deep Creek Settlement",
-        "Deep Creek"
+        "Deep Creek Settlement"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243397165,
-    "wof:lastmodified":1564150539,
+    "wof:lastmodified":1566629953,
     "wof:name":"Deep Creek",
     "wof:parent_id":85669151,
     "wof:placetype":"locality",

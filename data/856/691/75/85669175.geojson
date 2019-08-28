@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.188181,
     "lbl:longitude":-75.72887,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.188181,
     "mps:longitude":-75.72887,
     "mz:hierarchy_label":1,
@@ -131,7 +132,7 @@
         "\u0bb0\u0bbe\u0b95\u0bc1\u0b95\u0bc7\u0b9f\u0bcd \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
     "name:tel_x_preferred":[
-        "\u0c30\u0c3e\u0c17\u0c46\u0c21\u0c4d  \u0c26\u0c40\u0c35\u0c3f"
+        "\u0c30\u0c3e\u0c17\u0c46\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c3f"
     ],
     "name:tgl_x_preferred":[
         "Pulong Ragged"
@@ -145,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0491\u0435\u0434 \u0410\u0439\u043b\u0435\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ragged Island Range"
     ],
     "name:urd_x_preferred":[
@@ -227,7 +228,7 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -243,7 +244,6 @@
     "statoids:type":"district",
     "unlc:subdivision":"BS-RI",
     "wd:wordcount":483,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575,
         85632339
@@ -255,7 +255,7 @@
         "gp:id":2344775,
         "hasc:id":"BS.RI",
         "iso:id":"BS-RI",
-        "qs:id":1083800,
+        "qs_pg:id":1083800,
         "unlc:id":"BS-RI",
         "wd:id":"Q1532634",
         "wk:page":"Ragged Island, Bahamas"
@@ -276,11 +276,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661449,
+    "wof:lastmodified":1566629925,
     "wof:name":"Ragged Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":70,
     "wof:population_rank":1,

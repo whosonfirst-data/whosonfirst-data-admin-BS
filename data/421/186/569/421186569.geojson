@@ -10,8 +10,12 @@
     "geom:latitude":24.070133,
     "geom:longitude":-74.529275,
     "iso:country":"BS",
+    "lbl:bbox":"-74.549275,24.050133,-74.509275,24.090133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Cockburn Town"
@@ -219,7 +223,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56874,
-        "qs:id":1074029
+        "qs_pg:id":1074029
     },
     "wof:country":"BS",
     "wof:created":1459009484,
@@ -231,7 +235,7 @@
         }
     ],
     "wof:id":421186569,
-    "wof:lastmodified":1564150532,
+    "wof:lastmodified":1566629948,
     "wof:name":"Cockburn Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

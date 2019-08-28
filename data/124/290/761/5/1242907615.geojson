@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-78.47,26.54667,-78.43,26.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Freetown"
     ],
@@ -381,7 +385,7 @@
         }
     ],
     "wof:id":1242907615,
-    "wof:lastmodified":1564150545,
+    "wof:lastmodified":1566629956,
     "wof:name":"Freetown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-74.51667,
     "gn:country":"BS",
     "gn:fcode":"PPLA",
-    "gn:pop":831,
+    "gn:population":831,
     "iso:country":"BS",
+    "lbl:bbox":"-74.53667,24.01333,-74.49667,24.05333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Cockburn Town"
     ],
@@ -165,7 +169,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riding Rocks"
     ],
     "name:urd_x_preferred":[
@@ -200,7 +204,7 @@
     "wof:concordances":{
         "gn:id":3572627,
         "gp:id":56874,
-        "qs:id":95933,
+        "qs_pg:id":95933,
         "wk:page":"Cockburn Town"
     },
     "wof:country":"BS",
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":890429311,
-    "wof:lastmodified":1564150535,
+    "wof:lastmodified":1566629950,
     "wof:name":"Cockburn Town",
     "wof:parent_id":85669163,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-77.45333,24.99667,-77.41333,25.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293939661,
-    "wof:lastmodified":1536630961,
+    "wof:lastmodified":1566629929,
     "wof:name":"Carmichael Village",
     "wof:parent_id":85669063,
     "wof:placetype":"locality",

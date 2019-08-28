@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Nassau",
     "iso:country":"BS",
+    "lbl:bbox":"-78.76999,26.47139,-78.72999,26.51139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Southeast Point",
         "Southwest Point"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209951271,
-    "wof:lastmodified":1537588919,
+    "wof:lastmodified":1566629937,
     "wof:name":"Southwest Point",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
