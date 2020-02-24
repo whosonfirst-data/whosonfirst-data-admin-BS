@@ -282,6 +282,9 @@
     },
     "wof:country":"BS",
     "wof:created":1469052044,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2c1d9524dc7e6ecf691fe1a5d88b723c",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":890434893,
-    "wof:lastmodified":1566629951,
+    "wof:lastmodified":1582319601,
     "wof:name":"Freeport",
     "wof:parent_id":85669071,
     "wof:placetype":"locality",
