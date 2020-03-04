@@ -504,6 +504,9 @@
     },
     "wof:country":"BS",
     "wof:created":1497298655,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"feada09b3a132e2d6a026251722708cc",
     "wof:hierarchy":[
         {
@@ -514,7 +517,7 @@
         }
     ],
     "wof:id":1125983123,
-    "wof:lastmodified":1566629952,
+    "wof:lastmodified":1582319601,
     "wof:name":"Nassau",
     "wof:parent_id":85669063,
     "wof:placetype":"locality",

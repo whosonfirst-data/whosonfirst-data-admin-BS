@@ -1010,6 +1010,10 @@
     },
     "wof:country":"BS",
     "wof:country_alpha3":"BHS",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"25e0f8417923890e9697c316de8a7215",
     "wof:hierarchy":[
         {
@@ -1024,7 +1028,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566629917,
+    "wof:lastmodified":1582319598,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
