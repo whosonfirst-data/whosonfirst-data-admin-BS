@@ -986,9 +986,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"The_Bahamas",
-        "digitalenvoy:country_code":[
-            44
-        ],
+        "digitalenvoy:country_code":44,
         "fb:id":"en.the_bahamas",
         "fifa:id":"BAH",
         "fips:code":"BF",
@@ -1031,7 +1029,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529080,
+    "wof:lastmodified":1583797283,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
