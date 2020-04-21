@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.191122,
-    "geom:area_square_m":13421996922.651764,
+    "geom:area_square_m":13421995490.520485,
     "geom:bbox":"-80.486305,20.912056,-72.712914,27.274611",
     "geom:latitude":24.262399,
     "geom:longitude":-76.631515,
@@ -43,6 +43,9 @@
     "name:amh_x_preferred":[
         "\u1263\u1203\u121b\u1235"
     ],
+    "name:ang_x_preferred":[
+        "Bahamas"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0647\u0627\u0645\u0627\u0633"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:arg_x_preferred":[
         "Bahamas"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u0627\u0647\u0627\u0645\u0627\u0633"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0647\u0627\u0645\u0627\u0633"
@@ -79,6 +85,9 @@
     ],
     "name:bam_x_preferred":[
         "Bahamasi"
+    ],
+    "name:ban_x_preferred":[
+        "Bahama"
     ],
     "name:bar_x_preferred":[
         "Bahamas"
@@ -169,6 +178,9 @@
     "name:dan_x_preferred":[
         "Bahamas"
     ],
+    "name:deu_ch_x_preferred":[
+        "Bahamas"
+    ],
     "name:deu_x_preferred":[
         "Bahamas"
     ],
@@ -192,6 +204,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c7\u03ac\u03bc\u03b5\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "The Bahamas"
+    ],
+    "name:eng_gb_x_preferred":[
+        "The Bahamas"
     ],
     "name:eng_x_preferred":[
         "The Bahamas"
@@ -276,6 +294,9 @@
     "name:gag_x_preferred":[
         "Bahamalar"
     ],
+    "name:gcr_x_preferred":[
+        "Bahamas"
+    ],
     "name:gla_x_preferred":[
         "Na h-Eileanan Bhathama"
     ],
@@ -357,6 +378,9 @@
     "name:ido_x_preferred":[
         "Bahama"
     ],
+    "name:ile_x_preferred":[
+        "Bahamas"
+    ],
     "name:ilo_x_preferred":[
         "Bahamas"
     ],
@@ -392,6 +416,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30d0\u30cf\u30de\u56fd"
+    ],
+    "name:kaa_x_preferred":[
+        "Bagama atawlar\u0131"
     ],
     "name:kab_x_preferred":[
         "Bahamas"
@@ -633,6 +660,9 @@
     "name:pol_x_preferred":[
         "Bahamy"
     ],
+    "name:por_br_x_preferred":[
+        "Bahamas"
+    ],
     "name:por_x_preferred":[
         "Bahamas"
     ],
@@ -678,6 +708,9 @@
     ],
     "name:san_x_preferred":[
         "\u092c\u0939\u093e\u092e\u093e\u0938"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5f\u1c66\u1c5f\u1c62\u1c5f\u1c65"
     ],
     "name:scn_x_preferred":[
         "Bahamas"
@@ -727,6 +760,15 @@
     "name:sqi_x_preferred":[
         "Bahamet"
     ],
+    "name:srd_x_preferred":[
+        "Bahamas"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u043c\u0435"
+    ],
+    "name:srp_el_x_preferred":[
+        "Bahame"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0445\u0430\u043c\u0435"
     ],
@@ -753,6 +795,9 @@
     ],
     "name:szl_x_preferred":[
         "Bahamy"
+    ],
+    "name:szy_x_preferred":[
+        "Bahamas"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b95\u0bbe\u0bae\u0bbe\u0b9a\u0bc1"
@@ -795,6 +840,9 @@
     ],
     "name:tur_x_variant":[
         "Bahama"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u0430\u0433\u0430\u043c\u0430 \u0448\u043e\u0440\u043c\u0443\u04f5\u044a\u0451\u0441"
     ],
     "name:uig_x_preferred":[
         "\u0628\u0627\u06be\u0627\u0645\u0627"
@@ -866,8 +914,14 @@
     "name:zha_x_preferred":[
         "Bahamas"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u54c8\u9a6c"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Bahamas"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u54c8\u99ac"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u54c8\u9a6c"
@@ -1029,7 +1083,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797283,
+    "wof:lastmodified":1587428219,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
