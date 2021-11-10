@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Coral Harbour"
     ],
+    "name:hun_x_preferred":[
+        "Coral Harbour"
+    ],
     "name:iku_x_preferred":[
         "\u14f4\u14ea\u14d6\u1466"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0430\u043b-\u0425\u0430\u0440\u0431\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Coral Harbour"
     ],
     "name:sqi_x_preferred":[
         "Coral Harbour"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1226603085,
-    "wof:lastmodified":1566629960,
+    "wof:lastmodified":1636496034,
     "wof:name":"Coral Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

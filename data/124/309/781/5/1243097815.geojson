@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Black Point"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05e7 \u05e4\u05d5\u05d9\u05e0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Black Point"
+    ],
     "name:ind_x_preferred":[
         "Black Point"
     ],
@@ -68,6 +74,12 @@
     "name:und_x_variant":[
         "Black Point Settlement"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u83b1\u514b\u89d2"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u62c9\u514b\u6ce2\u56e0\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":1243097815,
-    "wof:lastmodified":1566629953,
+    "wof:lastmodified":1636496034,
     "wof:name":"Black Point",
     "wof:parent_id":85669121,
     "wof:placetype":"locality",

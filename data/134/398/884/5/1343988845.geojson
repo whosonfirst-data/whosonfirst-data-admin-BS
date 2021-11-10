@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Mangrove Cay"
     ],
+    "name:hun_x_preferred":[
+        "Mangrove Cay"
+    ],
     "name:ind_x_preferred":[
         "Mangrove Cay"
     ],
@@ -74,6 +77,12 @@
     "name:tgl_x_preferred":[
         "Mangrove Cay"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u66fc\u683c\u7f57\u592b\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u66fc\u683c\u7f85\u592b\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1343988845,
-    "wof:lastmodified":1566629911,
+    "wof:lastmodified":1636496027,
     "wof:name":"Mangrove Cay",
     "wof:parent_id":85669115,
     "wof:placetype":"locality",
