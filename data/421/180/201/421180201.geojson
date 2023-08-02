@@ -41,6 +41,9 @@
     "name:swe_x_preferred":[
         "Snug Corner"
     ],
+    "name:zho_x_preferred":[
+        "\u8212\u82e5\u89d2"
+    ],
     "qs:gn_country":"BS",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3571426,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421180201,
-    "wof:lastmodified":1566629948,
+    "wof:lastmodified":1690862936,
     "wof:name":"Snug Corner",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

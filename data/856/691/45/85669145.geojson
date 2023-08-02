@@ -34,8 +34,14 @@
     "name:ast_x_preferred":[
         "Eleuthera Norte"
     ],
+    "name:ast_x_variant":[
+        "North Eleuthera"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u098f\u09b2\u09bf\u0989\u09a5\u09c7\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u0989\u09a4\u09cd\u09a4\u09b0 \u098f\u09b2\u09bf\u0989\u09a5\u09c7\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
         "North Eleuthera"
@@ -133,6 +139,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b8e\u0bb2\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb1"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b8e\u0bb2\u0bc6\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb1"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c0e\u0c32\u0c4d\u0c2f\u0c42\u0c25\u0c46\u0c30\u0c3e"
@@ -275,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496030,
+    "wof:lastmodified":1690862933,
     "wof:name":"North Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

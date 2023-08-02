@@ -136,6 +136,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bc7\u0b95\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b85\u0baa\u0bc7\u0b95\u0bcb"
+    ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c05\u0c2c\u0c3e\u0c15\u0c4b"
     ],
@@ -278,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496028,
+    "wof:lastmodified":1690862930,
     "wof:name":"North Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0643\u0633\u0648\u0645\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Eksuma"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u0995\u09cd\u09b8\u09c1\u09ae\u09be"
     ],
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496029,
+    "wof:lastmodified":1690862932,
     "wof:name":"Exuma",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

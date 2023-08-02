@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0644\u0648\u0646\u063a"
     ],
+    "name:aze_x_preferred":[
+        "Lonq adas\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u0982 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Illa Llarga"
+    ],
+    "name:ceb_x_preferred":[
+        "Long Island"
     ],
     "name:ces_x_preferred":[
         "Long Island"
@@ -132,6 +138,9 @@
         "Long Island"
     ],
     "name:por_x_preferred":[
+        "Long Island"
+    ],
+    "name:ron_x_preferred":[
         "Long Island"
     ],
     "name:rus_x_preferred":[
@@ -292,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496029,
+    "wof:lastmodified":1690862931,
     "wof:name":"Long Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

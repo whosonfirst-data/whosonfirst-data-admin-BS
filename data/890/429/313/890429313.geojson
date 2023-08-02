@@ -49,6 +49,9 @@
     "name:ron_x_preferred":[
         "Alice Town"
     ],
+    "name:spa_x_preferred":[
+        "Alice Town"
+    ],
     "name:swe_x_preferred":[
         "Alice Town"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Alice Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u7231\u4e3d\u4e1d\u9547"
     ],
     "qs:name":"Alice Town",
     "qs:photos_9r":0,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890429313,
-    "wof:lastmodified":1566629950,
+    "wof:lastmodified":1690862938,
     "wof:name":"Alice Town",
     "wof:parent_id":85669197,
     "wof:placetype":"locality",

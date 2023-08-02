@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0648\u0628 \u0623\u0628\u0627\u0643\u0648"
     ],
+    "name:aze_x_preferred":[
+        "C\u0259nubi Abako"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u0985\u09cd\u09af\u09be\u09ac\u09be\u0995\u09cb"
     ],
@@ -275,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496027,
+    "wof:lastmodified":1690862929,
     "wof:name":"South Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

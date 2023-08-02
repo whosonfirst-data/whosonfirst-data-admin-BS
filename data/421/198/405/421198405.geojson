@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0628 \u062a\u0627\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0628 \u062a\u0627\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Hope Town"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09aa \u099f\u09be\u0989\u09a8"
     ],
     "name:cat_x_preferred":[
         "Hope Town"
+    ],
+    "name:ceb_x_preferred":[
+        "Hope Town District"
     ],
     "name:dan_x_preferred":[
         "Hope Town"
@@ -107,6 +116,9 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bcb\u0baa\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb9\u0bcb\u0baa\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c2a\u0c4d \u0c1f\u0c4c\u0c28\u0c4d"
     ],
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":421198405,
-    "wof:lastmodified":1566629949,
+    "wof:lastmodified":1690862937,
     "wof:name":"Hope Town",
     "wof:parent_id":85669199,
     "wof:placetype":"locality",

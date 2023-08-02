@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0646\u0627\u063a\u0648\u0627"
     ],
+    "name:aze_x_preferred":[
+        "\u0130naqua"
+    ],
     "name:bel_x_preferred":[
         "\u0406\u043d\u0430\u0433\u0443\u0430"
     ],
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496030,
+    "wof:lastmodified":1690862932,
     "wof:name":"Inagua",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

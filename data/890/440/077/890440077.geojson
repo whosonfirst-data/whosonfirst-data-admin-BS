@@ -61,6 +61,9 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062a\u06be\u06cc\u0648 \u0679\u0627\u0624\u0646"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u4fee\u9547"
+    ],
     "qs:name":"Matthew Town",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890440077,
-    "wof:lastmodified":1566629949,
+    "wof:lastmodified":1690862938,
     "wof:name":"Matthew Town",
     "wof:parent_id":85669189,
     "wof:placetype":"locality",

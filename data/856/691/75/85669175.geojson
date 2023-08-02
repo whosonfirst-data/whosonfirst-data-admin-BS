@@ -32,8 +32,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0631\u0627\u062c\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0631\u0627\u062c\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Qreyt-Raqqed-Aylend"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u0997\u09c7\u09a1 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:ben_x_variant":[
+        "\u09b0\u09be\u0997\u09c7\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
     "name:cat_x_preferred":[
         "Illa Ragged"
@@ -282,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496030,
+    "wof:lastmodified":1690862933,
     "wof:name":"Ragged Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
