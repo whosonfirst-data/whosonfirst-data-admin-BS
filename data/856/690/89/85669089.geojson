@@ -64,6 +64,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a85\u0aac\u0ac7\u0a95\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05d0\u05d1\u05d0\u05e7\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0905\u092c\u093e\u0915\u094b"
     ],
@@ -124,6 +127,9 @@
     "name:spa_x_preferred":[
         "Central Abaco"
     ],
+    "name:spa_x_variant":[
+        "\u00c1baco Central"
+    ],
     "name:swe_x_preferred":[
         "Central Abaco District"
     ],
@@ -132,6 +138,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd \u0b85\u0baa\u0bc7\u0b95\u0bcb"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb0\u0bb2\u0bcd  \u0b85\u0baa\u0bc7\u0b95\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c05\u0c2c\u0c3e\u0c15\u0c4b"
@@ -275,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496027,
+    "wof:lastmodified":1690862929,
     "wof:name":"Central Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

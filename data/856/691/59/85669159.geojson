@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0643\u0627\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0643\u0627\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Ket-Aylend"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041a\u044d\u0442"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:fra_x_variant":[
         "\u00eele Cat",
+        "Cat Island"
+    ],
+    "name:gle_x_preferred":[
         "Cat Island"
     ],
     "name:glg_x_preferred":[
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496028,
+    "wof:lastmodified":1690862931,
     "wof:name":"Cat Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

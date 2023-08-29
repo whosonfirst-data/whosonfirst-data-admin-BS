@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Dunmore Town"
+    ],
     "name:ceb_x_preferred":[
         "Dunmore Town"
     ],
@@ -29,7 +32,13 @@
     "name:fra_x_preferred":[
         "Dunmore Town"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30e2\u30a2\u30fb\u30bf\u30a6\u30f3"
+    ],
     "name:nld_x_preferred":[
+        "Dunmore Town"
+    ],
+    "name:nob_x_preferred":[
         "Dunmore Town"
     ],
     "name:pol_x_preferred":[
@@ -46,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Harbour Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u9093\u83ab\u5c14\u9547"
     ],
     "qs:gn_country":"BS",
     "qs:gn_fcode":"PPL",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":421169995,
-    "wof:lastmodified":1566629948,
+    "wof:lastmodified":1690862936,
     "wof:name":"Dunmore Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

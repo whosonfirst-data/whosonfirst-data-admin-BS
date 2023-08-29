@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0'\u09b8 \u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c1\u09b0'\u09b8 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
     "name:ceb_x_preferred":[
         "Moore's Island"
     ],
@@ -94,6 +97,9 @@
     "name:mar_x_preferred":[
         "\u092e\u0942\u0930\u0947\u0938 \u0906\u0908\u0938\u0932\u0901\u0921"
     ],
+    "name:mar_x_variant":[
+        "\u092e\u0942\u0930\u0947\u0938  \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
     "name:msa_x_preferred":[
         "Moore's Island"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc2\u0bb0\u0bcd'\u0bb8\u0bcd \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc2\u0bb0\u0bcd'\u0bb8\u0bcd  \u0b90\u0bb8\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c42\u0c30\u0c4d\u0c38\u0c4d \u0c26\u0c40\u0c35\u0c3f"
@@ -265,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496028,
+    "wof:lastmodified":1690862930,
     "wof:name":"Moore's Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

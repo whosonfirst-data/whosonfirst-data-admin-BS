@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
     "geom:area_square_m":1292231.895848,
-    "geom:bbox":"-78.3409724603,27.2229678412,-78.3236384757,27.2365583357",
+    "geom:bbox":"-78.340972,27.222968,-78.323638,27.236558",
     "geom:latitude":27.23058,
     "geom:longitude":-78.331855,
     "iso:country":"BS",
@@ -30,6 +30,9 @@
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0646\u062f \u0643\u0627\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Qrand-Ki adas\u0131"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09a8\u09cd\u09a1 \u0995\u09c7"
@@ -251,7 +254,7 @@
         "wk:page":"Grand Cay"
     },
     "wof:country":"BS",
-    "wof:geomhash":"a984ee375a69ef406714f9dd0ea8059e",
+    "wof:geomhash":"c1ab72c7b18511f8899954dd54d3f10a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -266,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566629922,
+    "wof:lastmodified":1690862930,
     "wof:name":"Grand Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
@@ -279,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.34097246031075,
-    27.22296784119294,
-    -78.32363847573504,
-    27.2365583356987
+    -78.340972,
+    27.222968,
+    -78.323638,
+    27.236558
 ],
-  "geometry": {"coordinates":[[[-78.33063717346676,27.22296784119294],[-78.34097246031075,27.23244863539628],[-78.33161373558539,27.2365583356987],[-78.32363847573504,27.23191966406131],[-78.33063717346676,27.22296784119294]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-78.330637,27.222968],[-78.34097199999999,27.232449],[-78.331614,27.236558],[-78.323638,27.23192],[-78.330637,27.222968]]],"type":"Polygon"}
 }

@@ -20,8 +20,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0634 \u0647\u0627\u0631\u0628\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0634 \u0647\u0627\u0631\u0628\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:aze_x_preferred":[
+        "Mar\u015f-Harbor"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09b6 \u09b9\u09be\u09b0\u09ac\u09be\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0448 \u0425\u0430\u0440\u0431\u044a\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Marsh Harbour"
     ],
     "name:ceb_x_preferred":[
         "Marsh Harbour"
@@ -48,6 +63,9 @@
         "Marsh Harbour"
     ],
     "name:fra_x_preferred":[
+        "Marsh Harbour"
+    ],
+    "name:glg_x_preferred":[
         "Marsh Harbour"
     ],
     "name:guj_x_preferred":[
@@ -122,6 +140,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bcd \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0bb7\u0bcd  \u0bb9\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c30\u0c4d\u0c37\u0c4d \u0c39\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c4d"
     ],
@@ -139,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "Marsh Harbour"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u4ec0\u6e2f"
     ],
     "qs:gn_country":"BS",
     "qs:gn_fcode":"PPL",
@@ -184,7 +208,7 @@
         }
     ],
     "wof:id":421173019,
-    "wof:lastmodified":1566629948,
+    "wof:lastmodified":1690862937,
     "wof:name":"Marsh Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Lucaya"
     ],
+    "name:deu_x_preferred":[
+        "Lucaya"
+    ],
     "name:eng_x_preferred":[
         "Lucaya"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890434891,
-    "wof:lastmodified":1566629951,
+    "wof:lastmodified":1690862940,
     "wof:name":"Lucaya",
     "wof:parent_id":85669071,
     "wof:placetype":"locality",
