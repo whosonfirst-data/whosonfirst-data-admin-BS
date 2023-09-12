@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.191122,
-    "geom:area_square_m":13421995490.520485,
+    "geom:area_square_m":13421995490.520258,
     "geom:bbox":"-80.486305,20.912056,-72.712914,27.274611",
     "geom:latitude":24.262399,
     "geom:longitude":-76.631515,
@@ -15,6 +15,9 @@
         "1-242"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "BS"
     ],
@@ -1146,7 +1149,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-242",
     "statoids:ds":"BS",
     "statoids:fifa":"BAH",
@@ -1204,7 +1208,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"d2afe8c09f6df9d5c676d9088ae7979a",
+    "wof:geomhash":"d76f359546cc15f064a9140c07cf86ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1218,12 +1222,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862927,
+    "wof:lastmodified":1694492060,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":377374,
-    "wof:population_rank":10,
+    "wof:population":389482,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bs",
     "wof:shortcode":"BS",
     "wof:superseded_by":[],
