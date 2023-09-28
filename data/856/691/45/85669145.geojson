@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01601,
-    "geom:area_square_m":178755816.613958,
+    "geom:area_square_m":178756643.574205,
     "geom:bbox":"-76.784495,25.285283,-76.314,25.563951",
     "geom:latitude":25.442249,
     "geom:longitude":-76.617875,
@@ -263,13 +263,15 @@
         "gn:id":8030553,
         "gp:id":24551251,
         "hasc:id":"BS.NE",
+        "iso:code":"BS-NE",
         "iso:id":"BS-NE",
         "qs_pg:id":1287910,
         "unlc:id":"BS-NE",
         "wd:id":"Q2705535"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"a1a1ff77ac27992274188560474ce5b8",
+    "wof:geomhash":"1dc319a0230b6ae792a50ea142602ec9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862933,
+    "wof:lastmodified":1695884838,
     "wof:name":"North Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

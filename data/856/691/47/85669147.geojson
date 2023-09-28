@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012437,
-    "geom:area_square_m":139215176.137787,
+    "geom:area_square_m":139214787.954826,
     "geom:bbox":"-76.332553,24.981391,-76.112904,25.299597",
     "geom:latitude":25.14795,
     "geom:longitude":-76.195155,
@@ -259,14 +259,16 @@
         "gn:id":8030544,
         "gp:id":24551244,
         "hasc:id":"BS.CE",
+        "iso:code":"BS-CE",
         "iso:id":"BS-CE",
         "qs_pg:id":212433,
         "unlc:id":"BS-CE",
         "wd:id":"Q938518",
         "wk:page":"Central Eleuthera"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"6bc76be7502f8330404c5441e0aada47",
+    "wof:geomhash":"5adee31e223c3ad8e7849e1438d07410",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -281,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862935,
+    "wof:lastmodified":1695884838,
     "wof:name":"Central Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

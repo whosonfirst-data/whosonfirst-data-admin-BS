@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001301,
-    "geom:area_square_m":14395725.0252,
+    "geom:area_square_m":14396155.017968,
     "geom:bbox":"-78.656694,26.504853,-78.59813,26.546215",
     "geom:latitude":26.528767,
     "geom:longitude":-78.629679,
@@ -282,14 +282,16 @@
         "gn:id":3572374,
         "gp:id":2344779,
         "hasc:id":"BS.FP",
+        "iso:code":"BS-FP",
         "iso:id":"BS-FP",
         "qs_pg:id":1083802,
         "unlc:id":"BS-FP",
         "wd:id":"Q867573",
         "wk:page":"Freeport, Bahamas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"a7f7d2fe6328da0e329cf79f3bf7e7b2",
+    "wof:geomhash":"48b261d080e7360376fdace81f3642dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862929,
+    "wof:lastmodified":1695884838,
     "wof:name":"City of Freeport",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

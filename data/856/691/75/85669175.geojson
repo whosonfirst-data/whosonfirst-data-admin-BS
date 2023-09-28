@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001606,
-    "geom:area_square_m":18380380.972322,
+    "geom:area_square_m":18380128.068172,
     "geom:bbox":"-75.846506,22.175035,-75.714711,22.479804",
     "geom:latitude":22.263192,
     "geom:longitude":-75.760585,
@@ -269,14 +269,16 @@
         "gn:id":3571629,
         "gp:id":2344775,
         "hasc:id":"BS.RI",
+        "iso:code":"BS-RI",
         "iso:id":"BS-RI",
         "qs_pg:id":1083800,
         "unlc:id":"BS-RI",
         "wd:id":"Q1532634",
         "wk:page":"Ragged Island, Bahamas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"2b9ef73b2afbd1d1c49b93fcbfc565be",
+    "wof:geomhash":"8fa1a497b097ad900d85146b0f5b4d91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -291,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862933,
+    "wof:lastmodified":1695884838,
     "wof:name":"Ragged Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

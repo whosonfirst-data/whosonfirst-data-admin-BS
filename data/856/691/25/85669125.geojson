@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004927,
-    "geom:area_square_m":55576017.647343,
+    "geom:area_square_m":55576064.102599,
     "geom:bbox":"-76.795074,23.974026,-76.318959,24.552965",
     "geom:latitude":24.170806,
     "geom:longitude":-76.459777,
@@ -264,13 +264,15 @@
         "gn:id":8030541,
         "gp:id":24551258,
         "hasc:id":"BS.BP",
+        "iso:code":"BS-BP",
         "iso:id":"BS-BP",
         "qs_pg:id":59888,
         "unlc:id":"BS-BP",
         "wd:id":"Q2525298"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"d80b6824404cdc744ba1ad0d99b0a94a",
+    "wof:geomhash":"3566338a1629b11cdd3639a80d14d9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496032,
+    "wof:lastmodified":1695884838,
     "wof:name":"Black Point",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013906,
-    "geom:area_square_m":157027865.394724,
+    "geom:area_square_m":157027182.599996,
     "geom:bbox":"-74.558095,23.953559,-74.427113,24.143948",
     "geom:latitude":24.049919,
     "geom:longitude":-74.488238,
@@ -452,12 +452,14 @@
         "gn:id":3571493,
         "gp:id":2344789,
         "hasc:id":"BS.SS",
+        "iso:code":"BS-SS",
         "iso:id":"BS-SS",
         "qs_pg:id":1285020,
         "unlc:id":"BS-SS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"1d63dd5b942d55e014d36ae84a406607",
+    "wof:geomhash":"682ad71c81d63e92447ee32dfa644af1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -472,7 +474,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496031,
+    "wof:lastmodified":1695884838,
     "wof:name":"San Salvador",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

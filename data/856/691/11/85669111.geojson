@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110001,
-    "geom:area_square_m":1238030191.91985,
+    "geom:area_square_m":1238031305.311814,
     "geom:bbox":"-78.140859,24.152167,-77.682444,24.648993",
     "geom:latitude":24.467449,
     "geom:longitude":-77.932614,
@@ -256,14 +256,16 @@
         "gn:id":8030543,
         "gp:id":24551243,
         "hasc:id":"BS.CN",
+        "iso:code":"BS-CS",
         "iso:id":"BS-CS",
         "qs_pg:id":1086163,
         "unlc:id":"BS-CS",
         "wd:id":"Q2096558",
         "wk:page":"Central Andros"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"7f312e88960b5f8629c450218fce8162",
+    "wof:geomhash":"d5792bac0abffa1533c430593e2e5599",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -278,7 +280,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862932,
+    "wof:lastmodified":1695884838,
     "wof:name":"Central Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002174,
-    "geom:area_square_m":24277327.037581,
+    "geom:area_square_m":24277490.351903,
     "geom:bbox":"-80.468414,23.494045,-78.84203,26.044867",
     "geom:latitude":25.431597,
     "geom:longitude":-79.342599,
@@ -271,14 +271,16 @@
         "gn:id":3572807,
         "gp:id":2344769,
         "hasc:id":"BS.BI",
+        "iso:code":"BS-BI",
         "iso:id":"BS-BI",
         "nyt:id":"N5620075621810708471",
         "qs_pg:id":219506,
         "unlc:id":"BS-BI",
         "wd:id":"Q863476"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"6e2e4b48c2a608abf60d097cdbeb6f51",
+    "wof:geomhash":"3b73aa12ed06da956a62e4d25abacf61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496031,
+    "wof:lastmodified":1695884838,
     "wof:name":"Bimini",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

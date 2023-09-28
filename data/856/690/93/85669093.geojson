@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047042,
-    "geom:area_square_m":522339695.153555,
+    "geom:area_square_m":522340223.307957,
     "geom:bbox":"-77.548818,25.885077,-77.01476,26.355292",
     "geom:latitude":26.104337,
     "geom:longitude":-77.227497,
@@ -256,14 +256,16 @@
         "gn:id":8030555,
         "gp:id":24551253,
         "hasc:id":"BS.SB",
+        "iso:code":"BS-SO",
         "iso:id":"BS-SO",
         "qs_pg:id":1318998,
         "unlc:id":"BS-SO",
         "wd:id":"Q2703192",
         "wk:page":"South Abaco"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"84099558a9370ac44fc559466ad1bbb5",
+    "wof:geomhash":"fd5d19ab0221475fa55ba0a7fb46067f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -278,7 +280,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862929,
+    "wof:lastmodified":1695884838,
     "wof:name":"South Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

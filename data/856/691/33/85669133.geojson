@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000703,
-    "geom:area_square_m":7841338.342286,
+    "geom:area_square_m":7841151.19447,
     "geom:bbox":"-76.872834,25.506641,-76.809364,25.532498",
     "geom:latitude":25.52104,
     "geom:longitude":-76.841268,
@@ -262,14 +262,16 @@
         "gn:id":8030558,
         "gp:id":24551256,
         "hasc:id":"BS.SW",
+        "iso:code":"BS-SW",
         "iso:id":"BS-SW",
         "qs_pg:id":59887,
         "unlc:id":"BS-SW",
         "wd:id":"Q1771681",
         "wk:page":"Spanish Wells"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"edb160104f1aab0681cc1f2b0ec84eac",
+    "wof:geomhash":"a7fecbb2289179113f89c83670c646a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862932,
+    "wof:lastmodified":1695884838,
     "wof:name":"Spanish Wells",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

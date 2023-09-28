@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037913,
-    "geom:area_square_m":427043357.952488,
+    "geom:area_square_m":427042282.374237,
     "geom:bbox":"-75.757558,24.125718,-75.290435,24.70185",
     "geom:latitude":24.367336,
     "geom:longitude":-75.499803,
@@ -291,14 +291,16 @@
         "gn:id":3572678,
         "gp:id":2344770,
         "hasc:id":"BS.CI",
+        "iso:code":"BS-CI",
         "iso:id":"BS-CI",
         "qs_pg:id":1222224,
         "unlc:id":"BS-CI",
         "wd:id":"Q1050154",
         "wk:page":"Cat Island, Bahamas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"2da8e66bbf6003a3857c8aa4399d9771",
+    "wof:geomhash":"95b66eec2f1744899cff89e82b46583d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862931,
+    "wof:lastmodified":1695884838,
     "wof:name":"Cat Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

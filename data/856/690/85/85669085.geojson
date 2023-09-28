@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023004,
-    "geom:area_square_m":253767259.662956,
+    "geom:area_square_m":253766623.816673,
     "geom:bbox":"-77.962554,26.68769,-77.327952,26.928412",
     "geom:latitude":26.840755,
     "geom:longitude":-77.589943,
@@ -259,14 +259,16 @@
         "gn:id":8030551,
         "gp:id":24551249,
         "hasc:id":"BS.NA",
+        "iso:code":"BS-NO",
         "iso:id":"BS-NO",
         "qs_pg:id":212434,
         "unlc:id":"BS-NO",
         "wd:id":"Q623327",
         "wk:page":"North Abaco"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"f8939aaca7c7bf52b5e1ecc3909e285f",
+    "wof:geomhash":"d9a9ab498fb23398a8d6b208c059bb97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -281,7 +283,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862930,
+    "wof:lastmodified":1695884838,
     "wof:name":"North Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

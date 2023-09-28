@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044503,
-    "geom:area_square_m":508436306.090087,
+    "geom:area_square_m":508436353.055076,
     "geom:bbox":"-74.278228,22.171536,-73.468736,22.733303",
     "geom:latitude":22.491089,
     "geom:longitude":-73.971446,
@@ -281,14 +281,16 @@
         "gn:id":3572937,
         "gp:id":2344778,
         "hasc:id":"BS.AK",
+        "iso:code":"BS-AK",
         "iso:id":"BS-AK",
         "qs_pg:id":984065,
         "unlc:id":"BS-AK",
         "wd:id":"Q341919",
         "wk:page":"Acklins"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"1f77797dff3925ca744f43f0b75be4e8",
+    "wof:geomhash":"22f164d57afc54664ab38678bb6f028b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862933,
+    "wof:lastmodified":1695884838,
     "wof:name":"Acklins",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
