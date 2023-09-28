@@ -1188,6 +1188,7 @@
         "hasc:id":"BS",
         "icao:code":"C6",
         "ioc:id":"BAH",
+        "iso:code":"BS",
         "itu:id":"BAH",
         "loc:id":"n79081362",
         "m49:code":"044",
@@ -1202,6 +1203,7 @@
         "wk:page":"The Bahamas",
         "wmo:id":"BA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
     "wof:country_alpha3":"BHS",
     "wof:geom_alt":[
@@ -1222,7 +1224,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639514,
+    "wof:lastmodified":1695881169,
     "wof:name":"The Bahamas",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
