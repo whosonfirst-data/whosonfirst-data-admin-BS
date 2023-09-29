@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020566,
-    "geom:area_square_m":230810235.030296,
+    "geom:area_square_m":230810432.389811,
     "geom:bbox":"-76.336334,24.645006,-76.136952,24.988852",
     "geom:latitude":24.819897,
     "geom:longitude":-76.203544,
@@ -257,14 +257,16 @@
         "gn:id":8030557,
         "gp:id":24551255,
         "hasc:id":"BS.SE",
+        "iso:code":"BS-SE",
         "iso:id":"BS-SE",
         "qs_pg:id":1287913,
         "unlc:id":"BS-SE",
         "wd:id":"Q2699715",
         "wk:page":"South Eleuthera"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"1e7b14badb20526d506333d23efde90a",
+    "wof:geomhash":"688a5ac3fd92ab0860ac8da1c7c9875a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -279,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862931,
+    "wof:lastmodified":1695884838,
     "wof:name":"South Eleuthera",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

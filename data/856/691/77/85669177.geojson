@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030399,
-    "geom:area_square_m":346614720.307648,
+    "geom:area_square_m":346614700.849148,
     "geom:bbox":"-74.385569,22.541449,-73.666168,23.103827",
     "geom:latitude":22.764834,
     "geom:longitude":-74.171321,
@@ -250,13 +250,15 @@
         "gn:id":8030545,
         "gp:id":24551238,
         "hasc:id":"BS.CK",
+        "iso:code":"BS-CK",
         "iso:id":"BS-CK",
         "qs_pg:id":344897,
         "unlc:id":"BS-CK",
         "wd:id":"Q1140993"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"40add0e5cccc32f244c0f5f07d0c6ecb",
+    "wof:geomhash":"7fa1e7f5ad9ab541c865c1559be0090f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -271,7 +273,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496031,
+    "wof:lastmodified":1695884838,
     "wof:name":"Crooked Island and Long Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

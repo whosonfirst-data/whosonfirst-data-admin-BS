@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001269,
-    "geom:area_square_m":14068798.899917,
+    "geom:area_square_m":14068928.173323,
     "geom:bbox":"-77.579579,26.268704,-77.537994,26.337592",
     "geom:latitude":26.306851,
     "geom:longitude":-77.561587,
@@ -253,13 +253,15 @@
         "gn:id":8030550,
         "gp:id":24551248,
         "hasc:id":"BS.MI",
+        "iso:code":"BS-MI",
         "iso:id":"BS-MI",
         "qs_pg:id":354843,
         "unlc:id":"BS-MI",
         "wd:id":"Q2702345"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"fb8adaae2fd5c088550904f01de116eb",
+    "wof:geomhash":"bc1b81e433eb0f2d80b7106ca25904c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -274,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862930,
+    "wof:lastmodified":1695884838,
     "wof:name":"Moore's Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002318,
-    "geom:area_square_m":25838417.050631,
+    "geom:area_square_m":25838325.291279,
     "geom:bbox":"-77.906728,25.407864,-77.819203,25.789537",
     "geom:latitude":25.660994,
     "geom:longitude":-77.85813,
@@ -272,14 +272,16 @@
         "gn:id":3571809,
         "gp:id":24551241,
         "hasc:id":"BS.BR",
+        "iso:code":"BS-BY",
         "iso:id":"BS-BY",
         "qs_pg:id":1086161,
         "unlc:id":"BS-BY",
         "wd:id":"Q827173",
         "wk:page":"Berry Islands"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"277bd327c2746101cc52da5defafa440",
+    "wof:geomhash":"af94ebf5a5cdfbb4bed31748b6992d07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862931,
+    "wof:lastmodified":1695884838,
     "wof:name":"Berry Islands",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

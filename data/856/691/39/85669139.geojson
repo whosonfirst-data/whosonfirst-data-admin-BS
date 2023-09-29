@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":3424977.23826,
+    "geom:area_square_m":3425072.436209,
     "geom:bbox":"-76.787424,25.539551,-76.745895,25.551304",
     "geom:latitude":25.544885,
     "geom:longitude":-76.766142,
@@ -284,6 +284,7 @@
         "gn:id":3572238,
         "gp:id":2344776,
         "hasc:id":"BS.HB",
+        "iso:code":"BS-HI",
         "iso:id":"BS-HI",
         "nyt:id":"604318609107491951",
         "qs_pg:id":1310774,
@@ -291,8 +292,9 @@
         "wd:id":"Q2357510",
         "wk:page":"Harbour Island, Bahamas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"2e0224dd897667e2232c61280ec914c2",
+    "wof:geomhash":"c738a2ee88603d571c1d6b748a31fb19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862934,
+    "wof:lastmodified":1695884838,
     "wof:name":"Harbour Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

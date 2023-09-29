@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050867,
-    "geom:area_square_m":563066634.035989,
+    "geom:area_square_m":563066014.636356,
     "geom:bbox":"-77.435455,26.285102,-77.017201,26.709133",
     "geom:latitude":26.467559,
     "geom:longitude":-77.172478,
@@ -262,14 +262,16 @@
         "gn:id":8030542,
         "gp:id":24551242,
         "hasc:id":"BS.CB",
+        "iso:code":"BS-CO",
         "iso:id":"BS-CO",
         "qs_pg:id":1086162,
         "unlc:id":"BS-CO",
         "wd:id":"Q2525371",
         "wk:page":"Central Abaco"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"c480b5da1f6394af431cd8365d8bed92",
+    "wof:geomhash":"a5cc012906e27626e3fe9a0bbd96d552",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862929,
+    "wof:lastmodified":1695884838,
     "wof:name":"Central Abaco",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

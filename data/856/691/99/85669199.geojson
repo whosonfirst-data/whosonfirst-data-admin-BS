@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":4203118.234764,
+    "geom:area_square_m":4203072.418148,
     "geom:bbox":"-76.9853,26.499945,-76.959828,26.554429",
     "geom:latitude":26.528059,
     "geom:longitude":-76.970455,
@@ -259,13 +259,15 @@
         "gn:id":8030548,
         "gp:id":24551240,
         "hasc:id":"BS.HT",
+        "iso:code":"BS-HT",
         "iso:id":"BS-HT",
         "qs_pg:id":344898,
         "unlc:id":"BS-HT",
         "wd:id":"Q2699709"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"c609c7ef088a9cb32c1156ddae34a40e",
+    "wof:geomhash":"e637b54f6a876e4f5c3f3d6dfa409e15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -280,7 +282,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862934,
+    "wof:lastmodified":1695884326,
     "wof:name":"Hope Town",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

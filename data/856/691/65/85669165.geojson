@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008103,
-    "geom:area_square_m":91744842.418546,
+    "geom:area_square_m":91745150.274248,
     "geom:bbox":"-75.123647,23.650824,-74.777211,23.84691",
     "geom:latitude":23.694283,
     "geom:longitude":-74.870541,
@@ -262,13 +262,15 @@
         "gn:id":8030554,
         "gp:id":24551252,
         "hasc:id":"BS.RC",
+        "iso:code":"BS-RC",
         "iso:id":"BS-RC",
         "qs_pg:id":354863,
         "unlc:id":"BS-RC",
         "wd:id":"Q1859950"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"3d534a88fdc06efa79bc31ccd8d15ee9",
+    "wof:geomhash":"f6b8d42392126a060facae8cfd1e6479",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862934,
+    "wof:lastmodified":1695884838,
     "wof:name":"Rum Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

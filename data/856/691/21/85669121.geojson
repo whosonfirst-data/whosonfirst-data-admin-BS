@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086071,
-    "geom:area_square_m":972663682.177282,
+    "geom:area_square_m":972664637.610435,
     "geom:bbox":"-77.834665,23.673122,-77.166656,24.221096",
     "geom:latitude":23.947483,
     "geom:longitude":-77.650691,
@@ -260,14 +260,16 @@
         "gn:id":8030556,
         "gp:id":24551254,
         "hasc:id":"BS.SN",
+        "iso:code":"BS-SA",
         "iso:id":"BS-SA",
         "qs_pg:id":230096,
         "unlc:id":"BS-SA",
         "wd:id":"Q2408672",
         "wk:page":"South Andros"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"32ba91aaa6cb1e6bb25df170ec4dbde9",
+    "wof:geomhash":"36770d0a56ad4edd071666f75e34fa78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -282,7 +284,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862933,
+    "wof:lastmodified":1695884838,
     "wof:name":"South Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052621,
-    "geom:area_square_m":581691997.77979,
+    "geom:area_square_m":581692315.105534,
     "geom:bbox":"-78.997874,26.491911,-78.411177,26.810533",
     "geom:latitude":26.620929,
     "geom:longitude":-78.627828,
@@ -250,14 +250,16 @@
         "gn:id":8030559,
         "gp:id":24551257,
         "hasc:id":"BS.WB",
+        "iso:code":"BS-WG",
         "iso:id":"BS-WG",
         "qs_pg:id":354880,
         "unlc:id":"BS-WG",
         "wd:id":"Q2702338",
         "wk:page":"West Grand Bahama"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"1cb49f602183e0ca1b6e7bf739084517",
+    "wof:geomhash":"a657894d0504f7df723210f2825cb1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -272,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496028,
+    "wof:lastmodified":1695884838,
     "wof:name":"West Grand Bahama",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

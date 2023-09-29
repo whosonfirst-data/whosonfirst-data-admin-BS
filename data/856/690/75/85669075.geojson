@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043999,
-    "geom:area_square_m":486173895.400452,
+    "geom:area_square_m":486173642.069832,
     "geom:bbox":"-78.474403,26.56387,-77.834625,26.776435",
     "geom:latitude":26.669986,
     "geom:longitude":-78.171123,
@@ -253,14 +253,16 @@
         "gn:id":8030546,
         "gp:id":24551245,
         "hasc:id":"BS.EB",
+        "iso:code":"BS-EG",
         "iso:id":"BS-EG",
         "qs_pg:id":985553,
         "unlc:id":"BS-EG",
         "wd:id":"Q2630334",
         "wk:page":"East Grand Bahama"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"ebc0b64b273e4e1ac5070a81312e0bf8",
+    "wof:geomhash":"09107bb94b367a4ca8581dc39c0554bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -275,7 +277,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862929,
+    "wof:lastmodified":1695884838,
     "wof:name":"East Grand Bahama",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1292231.895848,
+    "geom:area_square_m":1292184.499284,
     "geom:bbox":"-78.340972,27.222968,-78.323638,27.236558",
     "geom:latitude":27.23058,
     "geom:longitude":-78.331855,
@@ -247,14 +247,16 @@
         "gn:id":8030547,
         "gp:id":24551246,
         "hasc:id":"BS.GC",
+        "iso:code":"BS-GC",
         "iso:id":"BS-GC",
         "qs_pg:id":230095,
         "unlc:id":"BS-GC",
         "wd:id":"Q2524373",
         "wk:page":"Grand Cay"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"c1ab72c7b18511f8899954dd54d3f10a",
+    "wof:geomhash":"fb1230fa67288c3d294d7d64a48b7b87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -269,7 +271,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862930,
+    "wof:lastmodified":1695884326,
     "wof:name":"Grand Cay",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

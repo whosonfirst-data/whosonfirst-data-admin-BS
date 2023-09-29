@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220966,
-    "geom:area_square_m":2480355344.54723,
+    "geom:area_square_m":2480354987.724083,
     "geom:bbox":"-78.442983,24.460639,-77.736155,25.206732",
     "geom:latitude":24.796894,
     "geom:longitude":-78.084165,
@@ -253,14 +253,16 @@
         "gn:id":8030552,
         "gp:id":24551250,
         "hasc:id":"BS.NN",
+        "iso:code":"BS-NS",
         "iso:id":"BS-NS",
         "qs_pg:id":1287909,
         "unlc:id":"BS-NS",
         "wd:id":"Q2699411",
         "wk:page":"North Andros"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"2f7b49f4e727a1f09b39a96eb2322d18",
+    "wof:geomhash":"fe0507f1ef0c1c0d14c8587a19196180",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -275,7 +277,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862934,
+    "wof:lastmodified":1695884838,
     "wof:name":"North Andros",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025174,
-    "geom:area_square_m":287837959.356488,
+    "geom:area_square_m":287836943.699329,
     "geom:bbox":"-73.166005,22.288235,-72.746165,22.45954",
     "geom:latitude":22.378028,
     "geom:longitude":-72.972701,
@@ -212,13 +212,15 @@
         "gn:id":3571894,
         "gp:id":2344774,
         "hasc:id":"BS.MG",
+        "iso:code":"BS-MG",
         "iso:id":"BS-MG",
         "qs_pg:id":1285019,
         "unlc:id":"BS-MG",
         "wd:id":"Q21712462"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"e24dc0e9fea8e0a1bdc86143ecf12b77",
+    "wof:geomhash":"25d20ff995643647f581500e7b4dd6aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -233,7 +235,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496031,
+    "wof:lastmodified":1695884838,
     "wof:name":"Mayaguana",
     "wof:parent_id":85632339,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040489,
-    "geom:area_square_m":460069659.56304,
+    "geom:area_square_m":460068441.489918,
     "geom:bbox":"-75.35261,22.859931,-74.832021,23.685981",
     "geom:latitude":23.226949,
     "geom:longitude":-75.077569,
@@ -280,13 +280,15 @@
         "gn:id":3572005,
         "gp:id":2344773,
         "hasc:id":"BS.LI",
+        "iso:code":"BS-LI",
         "iso:id":"BS-LI",
         "qs_pg:id":1285018,
         "wd:id":"Q890879",
         "wk:page":"Long Island, Bahamas"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BS",
-    "wof:geomhash":"6e12a39ea69979beb42ccebb83fb0849",
+    "wof:geomhash":"108cd406209705e651ee052c01742b16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -301,7 +303,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690862931,
+    "wof:lastmodified":1695884838,
     "wof:name":"Long Island",
     "wof:parent_id":85632339,
     "wof:placetype":"region",
